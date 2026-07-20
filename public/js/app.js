@@ -1,3 +1,4 @@
+import { initPasswordGate } from './gate.js';
 import { api } from './api.js';
 import { renderCalendar } from './views/calendar.js';
 import { renderLesson, disposeLessonView } from './views/lesson.js';
@@ -103,5 +104,6 @@ async function route() {
   }
 }
 
+initPasswordGate();
 window.addEventListener('hashchange', route);
 route();

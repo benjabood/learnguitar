@@ -1,0 +1,86 @@
+/* A deliberately period-accurate Windows 98 password prompt for the landing
+   gate. Raised/inset bevels are built from the classic two-tone borders.
+   Ported verbatim from the fishgame (finspan) project. */
+.win98-gate {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 16px;
+  background: #008080; /* the classic teal desktop */
+  font-family: "MS Sans Serif", Tahoma, "Segoe UI", system-ui, sans-serif;
+  font-size: 13px;
+  color: #000;
+}
+
+.win98-window {
+  width: min(340px, 100%);
+  background: #c0c0c0;
+  border: 2px solid;
+  border-color: #dfdfdf #808080 #808080 #dfdfdf; /* outset bevel */
+  box-shadow: 1px 1px 0 1px #000;
+  padding: 2px;
+}
+
+.win98-title {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  background: linear-gradient(90deg, #000080, #1084d0);
+  color: #fff;
+  font-weight: bold;
+  padding: 3px 6px;
+}
+
+.win98-body {
+  padding: 14px 14px 16px;
+}
+
+.win98-label {
+  margin: 0 0 12px;
+}
+
+.win98-input {
+  width: 100%;
+  box-sizing: border-box;
+  background: #fff;
+  color: #000;
+  border: 2px solid;
+  border-color: #808080 #dfdfdf #dfdfdf #808080; /* inset bevel */
+  padding: 3px 4px;
+  font-family: inherit;
+  font-size: 13px;
+  outline: none;
+}
+
+.win98-error {
+  margin: 8px 0 0;
+  color: #a00;
+}
+
+.win98-buttons {
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.win98-btn {
+  min-width: 76px;
+  padding: 4px 12px;
+  background: #c0c0c0;
+  color: #000;
+  border: 2px solid;
+  border-color: #dfdfdf #808080 #808080 #dfdfdf;
+  font-family: inherit;
+  font-size: 13px;
+  cursor: pointer;
+}
+.win98-btn:active {
+  border-color: #808080 #dfdfdf #dfdfdf #808080; /* press = inset */
+}
+.win98-btn:focus {
+  outline: 1px dotted #000;
+  outline-offset: -4px;
+}
