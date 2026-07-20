@@ -60,6 +60,25 @@ If `verify-videos` reports a dead link, pick a replacement, add it to
 `data/verified-videos.json`, update the lesson's `youtube` block (title/channel
 must match the pool entry exactly), and re-run `npm test`.
 
+## Cloudflare deployment
+
+The site also runs on Cloudflare Workers at
+**https://learnguitar.benjabood.workers.dev** — same frontend, with a Worker
+adapter (`workers/worker.js`) replacing the Express server:
+
+- progress state lives in Workers KV (binding `STATE`, key `state`)
+- recordings are stored as KV binary values under `rec:<filename>` keys
+- "today" is computed in the visitor's timezone via `request.cf.timezone`
+
+Redeploy after changes with `npx wrangler deploy`. Reset cloud progress with
+`npx wrangler kv key delete --namespace-id ea07fe1ce9a948daaab1d65550d148b7 "state" --remote`.
+
+⚠️ The workers.dev URL is public and the app has no auth — anyone with the link
+can see and modify progress and recordings. Consider putting it behind
+Cloudflare Access (Zero Trust → free for personal use) if that matters.
+
+Note: local (`npm start`) and Cloudflare deployments keep **separate** progress.
+
 ## Notes
 
 - Single user by design — no accounts, no auth. Don't expose it to the internet
