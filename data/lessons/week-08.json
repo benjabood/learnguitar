@@ -1,0 +1,346 @@
+{
+  "week": 8,
+  "days": [
+    {
+      "day": 50,
+      "week": 8,
+      "title": "Power Chords: E5, A5, D5",
+      "isReview": false,
+      "focus": "Open power chords E5, A5, and D5",
+      "intro": "This week you learn the chord that built rock music: the power chord. Just two or three strings, no major, no minor — pure punch. Today you start with the three open shapes: E5, A5, and D5.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up: low string picking",
+          "instructions": "Down-pick the open low E, A, and D strings, 8 picks each, looping for 2 minutes. Keep the picks even and your foot tapping."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn E5",
+          "instructions": "E5: open low E string, index finger on the A string fret 2, ring finger on the D string fret 2. Strum ONLY those 3 strings — the top 3 stay silent. Tilt your ring finger slightly to lean against the G string and keep it quiet. Play it 20 times: place, strum, check, lift."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn A5 and D5",
+          "instructions": "A5 is the same idea one string over: open A, index on the D string fret 2, ring on the G string fret 2. D5: open D, index on the G string fret 2, ring on the B string fret 3. Play each 15 times. Notice the shape barely changes — power chords are one shape living on different strings."
+        },
+        {
+          "minutes": 3,
+          "title": "Switch drill",
+          "instructions": "Four down-strums each: E5, A5, D5, A5, and loop. Your fretting hand keeps the same finger spacing and just lifts across to the next string pair. Aim for zero pause at each switch."
+        },
+        {
+          "minutes": 2,
+          "title": "Make it rock",
+          "instructions": "Play the E5-A5-D5-A5 loop again with 8 quick down-strums per chord, hitting the strings with attitude. Power chords are meant to be played like you mean it."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "E5", "frets": [0, 2, 2, -1, -1, -1], "fingers": [0, 1, 3, 0, 0, 0] },
+        { "type": "chord", "name": "A5", "frets": [-1, 0, 2, 2, -1, -1], "fingers": [0, 0, 1, 3, 0, 0] },
+        { "type": "chord", "name": "D5", "frets": [-1, -1, 0, 2, 3, -1], "fingers": [0, 0, 0, 1, 3, 0] }
+      ],
+      "youtube": {
+        "videoId": "W3ErkqDZo6A",
+        "title": "Power Chords - E5 A5 D5 - Easy 1 finger chords - Play Along",
+        "channel": "Brent Robitaille"
+      },
+      "tips": [
+        "The '5' means root plus fifth — no third, so it's neither major nor minor. That's why it fits everywhere.",
+        "Hitting extra strings? Aim small: your strum only needs to travel about 3 string-widths."
+      ]
+    },
+    {
+      "day": 51,
+      "week": 8,
+      "title": "The Movable Power Chord",
+      "isReview": false,
+      "focus": "Movable power chord shape on the low E string",
+      "intro": "Here's the trick that unlocks the whole neck: one power chord shape you can slide anywhere. Learn it at the 3rd fret and it's G5; slide to the 5th and it's A5. One shape, twelve chords.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up: open power chords",
+          "instructions": "Loop E5, A5, D5 with 4 down-strums each for 2 minutes. Check the unused strings stay quiet."
+        },
+        {
+          "minutes": 5,
+          "title": "Build G5 at fret 3",
+          "instructions": "Index finger on the low E string fret 3 — that note is G, your root. Ring finger on the A string fret 5, pinky right below it on the D string fret 5. Strum just those 3 strings. Let your index flatten slightly to touch and mute the higher strings. Place it 15 times slowly; the ring-pinky stack is new, so expect some stretch."
+        },
+        {
+          "minutes": 4,
+          "title": "Slide it: G5 to A5",
+          "instructions": "Keep the shape pressed lightly and slide the whole hand up two frets: index at fret 5 is now A5. Slide back down to G5. Do 10 slow round trips, strumming once at each stop. The shape must not fall apart mid-slide — think of your hand as one welded unit."
+        },
+        {
+          "minutes": 3,
+          "title": "Name-that-root game",
+          "instructions": "Roots on the low E string: fret 1 F, fret 3 G, fret 5 A, fret 7 B, fret 8 C. Play the shape at each of those frets, saying the chord name out loud: F5, G5, A5, B5, C5. One strum each, twice through."
+        },
+        {
+          "minutes": 2,
+          "title": "Mini riff",
+          "instructions": "Play 4 strums of G5, 4 of A5, then 4 of open E5, and loop. Congratulations — you're using open AND movable power chords in one progression."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "G5 (3rd fret)", "frets": [3, 5, 5, -1, -1, -1], "fingers": [1, 3, 4, 0, 0, 0] },
+        { "type": "chord", "name": "A5 (5th fret)", "frets": [5, 7, 7, -1, -1, -1], "fingers": [1, 3, 4, 0, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "592yeGLM-eg",
+        "title": "Beginner Rock Guitar Lesson: Power Chords and Palm Muting",
+        "channel": "Axe of Creation"
+      },
+      "tips": [
+        "Your index finger's fret = the chord's name. Learn the low E string notes and you know every power chord.",
+        "If the ring-pinky stack hurts, some players use ring finger alone barring both strings. Try both."
+      ]
+    },
+    {
+      "day": 52,
+      "week": 8,
+      "title": "Power Chords on the A String",
+      "isReview": false,
+      "focus": "Movable power chords with the root on the A string",
+      "intro": "Same shape, new home. Moving the power chord to the A string means less hand travel — C5 and D5 sit right next to G5 and A5 instead of way up the neck. Rhythm players live off this.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up: low E roots",
+          "instructions": "Play the movable shape at G5 (fret 3) and A5 (fret 5), 4 strums each, for 2 minutes. Say the names as you land."
+        },
+        {
+          "minutes": 5,
+          "title": "Build C5 on the A string",
+          "instructions": "Move the exact same shape over one string: index on the A string fret 3 (that's C), ring on the D string fret 5, pinky on the G string fret 5. Strum only those 3 strings — and now you must also skip the low E. Brush your index fingertip against the low E to keep it muted. Place and strum 15 times."
+        },
+        {
+          "minutes": 4,
+          "title": "D5 and the two-string map",
+          "instructions": "Slide up two frets: index at A string fret 5 is D5. Now play this sequence, one strum each: G5 (low E, fret 3), C5 (A string, fret 3), A5 (low E, fret 5), D5 (A string, fret 5). Your hand barely moves — the roots are stacked vertically. Loop it 8 times."
+        },
+        {
+          "minutes": 3,
+          "title": "One-minute changes",
+          "instructions": "One minute of G5 to C5 switches, counting them. Then one minute of A5 to D5. Then one minute of C5 to D5 slides. Keep the shape welded together on every move."
+        },
+        {
+          "minutes": 2,
+          "title": "Rock loop",
+          "instructions": "Play 4 driving down-strums each: A5 (fret 5), D5 (A string fret 5), C5 (A string fret 3), G5 (fret 3). That's a classic rock progression — loop it until time's up."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "C5 (A string, 3rd fret)", "frets": [-1, 3, 5, 5, -1, -1], "fingers": [0, 1, 3, 4, 0, 0] },
+        { "type": "chord", "name": "D5 (A string, 5th fret)", "frets": [-1, 5, 7, 7, -1, -1], "fingers": [0, 1, 3, 4, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "mgZlMdVF08Q",
+        "title": "Beginner Acoustic Guitar: A5 Power Chord (2 notes)",
+        "channel": "Notewize: Guitar Lessons"
+      },
+      "tips": [
+        "Same fret, one string over = up a fourth. G5 and C5 live at fret 3; A5 and D5 at fret 5.",
+        "Muting the low E with your index fingertip becomes automatic within days — keep brushing it."
+      ]
+    },
+    {
+      "day": 53,
+      "week": 8,
+      "title": "Sliding Power Chord Progressions",
+      "isReview": false,
+      "focus": "Sliding between power chords in rock progressions",
+      "intro": "Power chords aren't meant to be lifted and re-placed — they're meant to slide. Today you connect E5, G5, and A5 into flowing rock progressions where the slide itself becomes part of the sound.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up: shape check",
+          "instructions": "Play E5 (open), G5 (fret 3), and A5 (fret 5), 4 strums each, looping for 2 minutes."
+        },
+        {
+          "minutes": 4,
+          "title": "The slide technique",
+          "instructions": "Strum G5, then WITHOUT lifting your fingers, release pressure to about half and glide the shape up to fret 5 (A5), re-press, and strum. You should hear a soft 'whoosh' connecting the chords. Do 10 round trips G5-A5-G5. The secret: fingers never leave the strings, pressure just lightens."
+        },
+        {
+          "minutes": 4,
+          "title": "E5-G5-A5: the classic",
+          "instructions": "Play 4 down-strums of E5, jump your shape to G5 for 4, slide up to A5 for 4, then slide back to G5 for 4. Loop it. This E-G-A move powers countless rock songs. Keep the rhythm going even if a slide overshoots — landing on the wrong fret and correcting is part of learning the distances."
+        },
+        {
+          "minutes": 3,
+          "title": "Add the A string roots",
+          "instructions": "Now try: E5, G5, then C5 (A string fret 3), then A5 (low E fret 5). Two slides on the low E, one string-hop to C5. One strum per chord at first, then 2, then 4."
+        },
+        {
+          "minutes": 2,
+          "title": "Speed round",
+          "instructions": "E5-G5-A5-G5 with 2 quick strums per chord, as smooth as you can for 2 minutes. Small strums, welded shape, confident slides."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "E5", "frets": [0, 2, 2, -1, -1, -1], "fingers": [0, 1, 3, 0, 0, 0] },
+        { "type": "chord", "name": "G5 (3rd fret)", "frets": [3, 5, 5, -1, -1, -1], "fingers": [1, 3, 4, 0, 0, 0] },
+        { "type": "tab", "name": "Root Slide Path (E-G-A)", "notes": [{ "string": 6, "fret": 0 }, { "string": 6, "fret": 3 }, { "string": 6, "fret": 5 }, { "string": 6, "fret": 3 }, { "string": 6, "fret": 0 }] }
+      ],
+      "youtube": {
+        "videoId": "W3ErkqDZo6A",
+        "title": "Power Chords - E5 A5 D5 - Easy 1 finger chords - Play Along",
+        "channel": "Brent Robitaille"
+      },
+      "tips": [
+        "Lighten, glide, re-press. If the slide squeaks loudly, you're pressing too hard mid-slide.",
+        "Watch your target fret, not your current one — your hand goes where your eyes lead."
+      ]
+    },
+    {
+      "day": 54,
+      "week": 8,
+      "title": "Palm-Muted Power Chords",
+      "isReview": false,
+      "focus": "Palm muting + power chords (rock and punk rhythm)",
+      "intro": "Week 7's palm mute meets week 8's power chords — this combination IS the rhythm guitar sound of rock, punk, and metal. Tight, chugging, explosive when you open it up. Today you put them together.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up: separate skills",
+          "instructions": "One minute of palm-muted chugs on the open low E. Then one minute of E5-G5-A5 slides, open and ringing."
+        },
+        {
+          "minutes": 4,
+          "title": "Mute the power chord",
+          "instructions": "Fret E5, plant your palm at the bridge, and play 8 tight down-strums. All three strings should thump together — 'chunk chunk chunk'. Then 8 open strums. Alternate for 4 minutes. The palm covers all 3 strings of the chord, not just the low E."
+        },
+        {
+          "minutes": 4,
+          "title": "The punk eighth-note engine",
+          "instructions": "Palm-muted E5, 8 steady down-strums per bar, counting '1 & 2 & 3 & 4 &' — one strum per count. Keep them machine-even for 4 bars, then switch to G5 for 4 bars, then A5 for 4. This relentless eighth-note chug is the backbone of punk rhythm."
+        },
+        {
+          "minutes": 3,
+          "title": "Chug and release",
+          "instructions": "Play 6 muted strums then 2 open ones on each chord: chunk-chunk-chunk-chunk-chunk-chunk-RING-RING. Move through E5, G5, A5. The open hits should feel like bursts of light after the muted darkness."
+        },
+        {
+          "minutes": 2,
+          "title": "Full rhythm ride",
+          "instructions": "E5-G5-A5-G5, one bar of 8 muted eighth-note strums each, with the final bar fully open. Loop until time's up. Play it like you're in a band."
+        }
+      ],
+      "diagrams": [
+        { "type": "strum", "name": "Eighth-Note Chug (all downs)", "beats": ["D", "D", "D", "D", "D", "D", "D", "D"] },
+        { "type": "chord", "name": "E5", "frets": [0, 2, 2, -1, -1, -1], "fingers": [0, 1, 3, 0, 0, 0] },
+        { "type": "chord", "name": "A5 (5th fret)", "frets": [5, 7, 7, -1, -1, -1], "fingers": [1, 3, 4, 0, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "dqaPt9wSqd0",
+        "title": "Power Chords and Palm Muting: Guitar Lessons for Beginners: Metal: Lesson 1",
+        "channel": "Jamie Slays"
+      },
+      "tips": [
+        "All down-strums, always, for this sound. Ups come later — the down-only attack is the style.",
+        "Your strumming wrist will tire. Shake it out between steps; endurance builds fast."
+      ]
+    },
+    {
+      "day": 55,
+      "week": 8,
+      "title": "Write Your Own Power Chord Riff",
+      "isReview": false,
+      "focus": "Composing a simple power chord riff",
+      "intro": "You have the shapes, the slides, and the chug. Today you become a songwriter: pick 3 or 4 power chords, arrange them into a riff, and make it yours. There's no wrong answer — only riffs you keep and riffs you don't.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up: your palette",
+          "instructions": "Play each chord in your collection twice: E5, A5, D5 (open), G5, A5 (low E movable), C5, D5 (A string). These are your ingredients. Notice which pairs sound good back to back."
+        },
+        {
+          "minutes": 4,
+          "title": "Steal a formula",
+          "instructions": "Most rock riffs use 3-4 chords in patterns like: home-up-down-home. Try this template: E5 for 4 strums, G5 for 2, A5 for 2. Play it 4 times. Then try the reverse: A5 for 4, G5 for 2, E5 for 2. Formulas are how every songwriter starts."
+        },
+        {
+          "minutes": 4,
+          "title": "Build YOUR riff",
+          "instructions": "Pick any 3 chords and decide: how many strums on each? Muted or open? Any slides? Try 3 different combinations, playing each 4 times through. When one makes you nod your head, that's the keeper. Write the chord names and counts in your practice notes."
+        },
+        {
+          "minutes": 3,
+          "title": "Polish the keeper",
+          "instructions": "Play your chosen riff 8 times in a row without stopping. Add one dynamic touch: maybe muted the first 4 times and open the last 4, or one accented hit at the start of each loop. Small touches make a riff sound intentional."
+        },
+        {
+          "minutes": 2,
+          "title": "Name it and play it",
+          "instructions": "Every riff deserves a name — give yours one, then perform it twice like it's the show opener. Tomorrow you'll review the week; keep this riff ready, because you'll record it."
+        }
+      ],
+      "diagrams": [
+        { "type": "tab", "name": "Riff Template (roots: E-G-A)", "notes": [{ "string": 6, "fret": 0 }, { "string": 6, "fret": 0 }, { "string": 6, "fret": 3 }, { "string": 6, "fret": 5 }, { "string": 6, "fret": 3 }, { "string": 6, "fret": 0 }] },
+        { "type": "chord", "name": "G5 (3rd fret)", "frets": [3, 5, 5, -1, -1, -1], "fingers": [1, 3, 4, 0, 0, 0] },
+        { "type": "chord", "name": "C5 (A string, 3rd fret)", "frets": [-1, 3, 5, 5, -1, -1], "fingers": [0, 1, 3, 4, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "YaR6mzdNjOw",
+        "title": "Play Seven Nation Army the EASY WAY - Your First Riff - Beginner Guitar Lesson",
+        "channel": "Andy Guitar"
+      },
+      "tips": [
+        "Limit yourself to 3 chords. Constraints make writing easier, not harder.",
+        "The riffs you love are simpler than you think — most classics use exactly what you know today."
+      ]
+    },
+    {
+      "day": 56,
+      "week": 8,
+      "title": "Week 8 Review: Power Chord Checkpoint",
+      "isReview": true,
+      "focus": "Consolidate open, movable, and palm-muted power chords",
+      "intro": "In one week you went from zero power chords to writing your own riff with them. Today: light review, one fun play-along, and your weekly recording. Enjoy how far the low strings have taken you.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Shape roll call",
+          "instructions": "Play 4 strums of each: E5, A5, D5 (open), then G5 and A5 on the low E, then C5 and D5 on the A string. Check unused strings stay silent and the movable shape stays welded."
+        },
+        {
+          "minutes": 3,
+          "title": "Slide and chug check",
+          "instructions": "One minute of G5-A5 slides, strumming at each stop. Then 2 minutes of palm-muted eighth-note chugs moving E5, G5, A5 — 8 muted strums each, last bar open."
+        },
+        {
+          "minutes": 4,
+          "title": "Play-along warm jam",
+          "instructions": "Play along with today's video, using your power chords wherever they fit. When in doubt, palm-muted E5 eighth notes keep you in the groove. Focus on locking to the beat, not on perfection."
+        },
+        {
+          "minutes": 3,
+          "title": "Record 60 seconds",
+          "instructions": "Hit the Record button in the app and record about 60 seconds: your own riff from yesterday, played twice, plus one E5-G5-A5 progression, muted then open. Listen back and compare with last week's blues clip — hear how much tighter your right hand is."
+        },
+        {
+          "minutes": 2,
+          "title": "Loud finish",
+          "instructions": "Two final minutes of your riff at full commitment — big open strums, confident slides. End on a ringing E5 and let it fade completely."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "E5", "frets": [0, 2, 2, -1, -1, -1], "fingers": [0, 1, 3, 0, 0, 0] },
+        { "type": "chord", "name": "G5 (3rd fret)", "frets": [3, 5, 5, -1, -1, -1], "fingers": [1, 3, 4, 0, 0, 0] },
+        { "type": "strum", "name": "Eighth-Note Chug (all downs)", "beats": ["D", "D", "D", "D", "D", "D", "D", "D"] }
+      ],
+      "youtube": {
+        "videoId": "JTEpHdERuN0",
+        "title": "Guitar Practice: Warm up Play Along Routine for Beginners | Level 2",
+        "channel": "LeadCatPress"
+      },
+      "tips": [
+        "Power chords + palm muting covers a huge share of rock rhythm guitar. You now speak the language.",
+        "Next week is a total gear change: fingerpicking. Trim your picking-hand nails tonight if they're long."
+      ]
+    }
+  ]
+}

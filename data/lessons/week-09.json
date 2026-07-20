@@ -1,0 +1,348 @@
+{
+  "week": 9,
+  "days": [
+    {
+      "day": 57,
+      "week": 9,
+      "title": "Fingerpicking: Meet Your Right Hand",
+      "isReview": false,
+      "focus": "Fingerpicking posture and thumb-bass basics",
+      "intro": "Put the pick down — this week your fingers do the talking. Fingerpicking gives you that intimate, rolling sound behind countless folk and pop songs. Today is about posture and getting your thumb walking the bass strings.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Hand position setup",
+          "instructions": "Rest your forearm on the guitar's top edge so your hand floats over the soundhole, wrist gently arched like you're holding a small orange. Learn the job assignments: thumb (p) covers the low E, A, and D strings; index (i) takes the G; middle (m) takes the B; ring (a) takes the high e. Hover each finger over its string without playing — 10 slow reps of just landing them in position."
+        },
+        {
+          "minutes": 4,
+          "title": "Thumb-bass practice",
+          "instructions": "With the other fingers resting lightly on their strings, play the open low E with your thumb 8 times: push down and through, letting the thumb come to rest against the A string. Then 8 on the A string, then 8 on the D. Slow, fat, even notes — the thumb is the heartbeat of everything this week."
+        },
+        {
+          "minutes": 4,
+          "title": "Thumb walks, chord held",
+          "instructions": "Fret an Em chord and play thumb-only: low E, A, D, A, repeating for a full minute. Then hold Am and walk A, D, A, D. Keep your fretting hand relaxed — it's just holding the chord while the thumb strolls."
+        },
+        {
+          "minutes": 2,
+          "title": "Fingers join in",
+          "instructions": "Still on Em: thumb plays the low E, then pluck the G, B, and high e strings TOGETHER with i, m, and a — a gentle pinch. Alternate: thumb, pinch, thumb, pinch, 10 times. That bass-plus-chord sound is fingerstyle in miniature."
+        },
+        {
+          "minutes": 2,
+          "title": "Slow finish",
+          "instructions": "Loop the thumb-pinch move on Em and Am, 4 each, as softly and evenly as you can. Close your eyes for the last few — feel the strings instead of watching them."
+        }
+      ],
+      "diagrams": [
+        { "type": "tab", "name": "Thumb Bass Walk (Em)", "notes": [{ "string": 6, "fret": 0 }, { "string": 5, "fret": 2 }, { "string": 4, "fret": 2 }, { "string": 5, "fret": 2 }, { "string": 6, "fret": 0 }] },
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 1, 2, 0, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "2WB8otOcz78",
+        "title": "Finger Style For Beginners. Start Here.",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "p-i-m-a comes from Spanish: pulgar, indice, medio, anular. Classical players have used it for centuries.",
+        "Short nails or no nails on the picking hand both work — just be consistent.",
+        "Volume comes from pushing through the string, not pulling up and away."
+      ]
+    },
+    {
+      "day": 58,
+      "week": 9,
+      "title": "The p-i-m-a Pattern",
+      "isReview": false,
+      "focus": "p-i-m-a fingerpicking pattern on Em and Am",
+      "intro": "Today you learn your first real fingerpicking pattern: p-i-m-a, one note at a time, rolling from bass to treble. It's simple, hypnotic, and it instantly makes Em and Am sound like real music.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up: assignments check",
+          "instructions": "No chord — open strings only. Thumb plucks low E, index plucks G, middle plucks B, ring plucks high e, in order, slowly, 10 times through. Each finger touches ONLY its own string."
+        },
+        {
+          "minutes": 4,
+          "title": "p-i-m-a on Em",
+          "instructions": "Fret Em. Play: thumb on low E, index on G, middle on B, ring on high e — four even notes, count '1-2-3-4'. Loop it for 4 minutes at a crawl. Let every note ring into the next; the chord should shimmer, not stutter."
+        },
+        {
+          "minutes": 4,
+          "title": "p-i-m-a on Am",
+          "instructions": "Fret Am and move your thumb to the A string — the root changed, so the bass changes with it. Play A string, G, B, high e, and loop. The fingers (i-m-a) do exactly what they did on Em; only the thumb relocated. 4 minutes, slow and even."
+        },
+        {
+          "minutes": 3,
+          "title": "Change chords mid-pattern",
+          "instructions": "Play p-i-m-a twice on Em, then switch to Am and play it twice, and loop. The switch happens while your thumb reaches for its next bass note — that's your moment to move. Don't stop the pattern to change; slow the whole pattern down instead."
+        },
+        {
+          "minutes": 2,
+          "title": "Musical minute",
+          "instructions": "Loop Em and Am, one pattern each, as smoothly as possible. Add a tiny swell: play the thumb note slightly louder than the fingers. Suddenly it sounds like a song intro."
+        }
+      ],
+      "diagrams": [
+        { "type": "tab", "name": "p-i-m-a on Em", "notes": [{ "string": 6, "fret": 0 }, { "string": 3, "fret": 0 }, { "string": 2, "fret": 0 }, { "string": 1, "fret": 0 }] },
+        { "type": "tab", "name": "p-i-m-a on Am", "notes": [{ "string": 5, "fret": 0 }, { "string": 3, "fret": 2 }, { "string": 2, "fret": 1 }, { "string": 1, "fret": 0 }] },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "K4iLY5xctMA",
+        "title": "ABSOLUTE BEGINNER FINGERSTYLE GUITAR - LESSON 1",
+        "channel": "Andy Guitar"
+      },
+      "tips": [
+        "Thumb finds the ROOT: low E string for Em, A string for Am. This rule carries you all week.",
+        "If two strings sound at once, your finger is drifting to a neighbor. Slow down and re-aim."
+      ]
+    },
+    {
+      "day": 59,
+      "week": 9,
+      "title": "Up and Back: p-i-m-a-m-i",
+      "isReview": false,
+      "focus": "p-i-m-a-m-i pattern on C and G",
+      "intro": "Today the pattern learns to come back down. p-i-m-a-m-i rolls up to the high string and cascades back — six notes that sound twice as fancy for barely more work. You'll play it on C and G, the classic fingerstyle pair.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up: p-i-m-a refresher",
+          "instructions": "Two minutes of yesterday's p-i-m-a on Em and Am, one pattern per chord. Then one minute on open strings, focusing on even volume across all four fingers."
+        },
+        {
+          "minutes": 4,
+          "title": "The round trip on C",
+          "instructions": "Fret C. Thumb plucks the A string, then i-m-a roll up the G, B, high e — and now come back: middle plucks B, index plucks G. Six notes: p-i-m-a-m-i, counted '1-2-3-4-5-6'. Loop it slowly for 4 minutes. The turnaround at the top (a to m) is the tricky spot; give it extra patience."
+        },
+        {
+          "minutes": 4,
+          "title": "The round trip on G",
+          "instructions": "Fret G and move your thumb to the low E string — G's root lives there. Same six-note roll: low E, G, B, high e, B, G. Loop for 4 minutes. Notice the pattern breathes: rising, falling, rising, falling."
+        },
+        {
+          "minutes": 3,
+          "title": "C to G changes",
+          "instructions": "One full p-i-m-a-m-i on C, then switch to G during the final index note and roll again. Loop C-G-C-G for 3 minutes. If the switch clips the pattern short, slow everything down 20 percent."
+        },
+        {
+          "minutes": 2,
+          "title": "Waltz finish",
+          "instructions": "The 6-note pattern fits waltz time perfectly. Count '1-2-3, 2-2-3' while looping C and G, gently accenting each thumb note. You're now playing in 3/4 time without even trying."
+        }
+      ],
+      "diagrams": [
+        { "type": "tab", "name": "p-i-m-a-m-i on C", "notes": [{ "string": 5, "fret": 3 }, { "string": 3, "fret": 0 }, { "string": 2, "fret": 1 }, { "string": 1, "fret": 0 }, { "string": 2, "fret": 1 }, { "string": 3, "fret": 0 }] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] },
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] }
+      ],
+      "youtube": {
+        "videoId": "3Efg3jbXAnQ",
+        "title": "Intro to Folk Fingerstyle Module - Folk Guitar Lesson - JustinGuitar [FO-100]",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Fingers stay curled and close to the strings — big finger movements are the enemy of speed.",
+        "The ring finger (a) is everyone's weakest. If it's quiet, it's normal; it catches up with reps."
+      ]
+    },
+    {
+      "day": 60,
+      "week": 9,
+      "title": "The Alternating Thumb",
+      "isReview": false,
+      "focus": "Alternating thumb bass",
+      "intro": "Here's the move that makes one guitar sound like two: the alternating thumb. Instead of hitting the same bass note, your thumb bounces between two strings like a walking bassist. It's the heart of folk and country fingerpicking.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up: thumb isolation",
+          "instructions": "Fret C. Thumb only: A string, D string, A, D, steady like a clock, for 90 seconds. Then G chord: low E, D, low E, D for 90 seconds. This bounce IS the lesson — everything else decorates it."
+        },
+        {
+          "minutes": 4,
+          "title": "Alternating bass on C",
+          "instructions": "Keep the C chord and the A-D thumb bounce going, counting '1-2-3-4' with the thumb on every count. Once it's automatic, add a middle-finger pluck on the B string together with beat 2's bass note. So: bass, bass+pluck, bass, bass+pluck. Loop for 4 minutes."
+        },
+        {
+          "minutes": 4,
+          "title": "Alternating bass on G",
+          "instructions": "Same move on G: thumb bounces low E to D string, middle finger pinches the B string on beats 2 and 4. The thumb NEVER stops — it's a metronome made of flesh. 4 minutes, slow and springy."
+        },
+        {
+          "minutes": 3,
+          "title": "C to G with the bounce",
+          "instructions": "Four thumb beats on C, then switch to G for four, keeping the alternation going through the change. The thumb missing a beat is the only real mistake here; wrong strings are forgiven. Loop for 3 minutes."
+        },
+        {
+          "minutes": 2,
+          "title": "Groove out",
+          "instructions": "Loop C and G with the alternating bass and pinches, and tap your foot on every thumb note. If it starts to feel like a little train rolling along — that's exactly the feel this technique is famous for."
+        }
+      ],
+      "diagrams": [
+        { "type": "tab", "name": "Alternating Thumb on C", "notes": [{ "string": 5, "fret": 3 }, { "string": 4, "fret": 2 }, { "string": 5, "fret": 3 }, { "string": 4, "fret": 2 }] },
+        { "type": "tab", "name": "Alternating Thumb on G", "notes": [{ "string": 6, "fret": 3 }, { "string": 4, "fret": 0 }, { "string": 6, "fret": 3 }, { "string": 4, "fret": 0 }] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "3Efg3jbXAnQ",
+        "title": "Intro to Folk Fingerstyle Module - Folk Guitar Lesson - JustinGuitar [FO-100]",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "The thumb is the drummer. Fingers can flub; the thumb must never miss a beat.",
+        "Practice the thumb alone until it's boring — boring means it's ready for fingers on top."
+      ]
+    },
+    {
+      "day": 61,
+      "week": 9,
+      "title": "Fingerpicking a 4-Chord Progression",
+      "isReview": false,
+      "focus": "p-i-m-a through Am-C-G-Em",
+      "intro": "Time to string it all together: four chords, one flowing pattern, zero stops. Am-C-G-Em is a moody, beautiful progression, and fingerpicked, it sounds like something off a record. Today you make it seamless.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up: pattern on each chord",
+          "instructions": "Play p-i-m-a twice on each chord separately: Am (thumb on A string), C (thumb on A), G (thumb on low E), Em (thumb on low E). Confirm each chord rings clean before you chain them."
+        },
+        {
+          "minutes": 4,
+          "title": "Chain the first pair",
+          "instructions": "Loop Am to C: one full p-i-m-a on each, switching as your thumb heads for the next bass note. These two share a bass string (A), so only your fretting hand changes. 4 minutes, gloriously slow."
+        },
+        {
+          "minutes": 4,
+          "title": "Chain the second pair",
+          "instructions": "Loop G to Em the same way — both have their root on the low E string, so again the thumb stays home. Then practice the two hardest joins: C to G (thumb hops from A string to low E) and Em back to Am (hops from low E to A string). 8 slow reps of each join."
+        },
+        {
+          "minutes": 3,
+          "title": "The full loop",
+          "instructions": "Play the whole progression: Am, C, G, Em, one p-i-m-a pattern each, and repeat without stopping for 3 minutes. If a change isn't ready, stretch the last note — never break the flow. Steady and small beats fast and lumpy."
+        },
+        {
+          "minutes": 2,
+          "title": "Double time (patterns, not speed)",
+          "instructions": "Same loop, but two patterns per chord at the same tempo. Twice the notes on each chord means half the changes — enjoy how much more musical it suddenly sounds."
+        }
+      ],
+      "diagrams": [
+        { "type": "tab", "name": "p-i-m-a on Am", "notes": [{ "string": 5, "fret": 0 }, { "string": 3, "fret": 2 }, { "string": 2, "fret": 1 }, { "string": 1, "fret": 0 }] },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] },
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 1, 2, 0, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "2WB8otOcz78",
+        "title": "Finger Style For Beginners. Start Here.",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Root rule recap: Am and C bass on the A string; G and Em bass on the low E.",
+        "Fingerpicked progressions hide sloppy changes badly — slow tempo is your friend all day."
+      ]
+    },
+    {
+      "day": 62,
+      "week": 9,
+      "title": "Fingerpicked Song Play-Along",
+      "isReview": false,
+      "focus": "Playing a real fingerpicked song",
+      "intro": "Everything this week — thumb bass, p-i-m-a, chord chains — was practice for this: playing an actual song with your fingers. Today you play along with a classic and let the pattern carry a melody people recognize.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up: pattern and progression",
+          "instructions": "Run the Am-C-G-Em loop from yesterday, one p-i-m-a pattern per chord, for 2 minutes. Wake up the thumb and fingers."
+        },
+        {
+          "minutes": 5,
+          "title": "Learn the song's shape",
+          "instructions": "Watch today's video and learn the song's chord loop — it's built on minor chords you already know (Am and Em are the stars). Play along with just the thumb on each chord's bass note first, locking to the song's pulse before adding fingers."
+        },
+        {
+          "minutes": 4,
+          "title": "Add your pattern",
+          "instructions": "Now play the song's chord loop with your p-i-m-a pattern, one or two patterns per chord depending on the song's pace. Simplify whenever needed: thumb plus a single pinch still counts as fingerstyle. The goal is staying with the song, not note-perfect patterns."
+        },
+        {
+          "minutes": 3,
+          "title": "Perform a verse",
+          "instructions": "Pick the song's main section and play it three times through without stopping — once staring at your hands, once glancing only at changes, once trying not to look at all. Each pass, plug one leak: a buzzing note, a late change, a skipped bass note."
+        },
+        {
+          "minutes": 2,
+          "title": "Cool-down: your choice",
+          "instructions": "Two minutes of whatever fingerpicking felt best this week — the waltz pattern on C and G, the alternating thumb, or today's song. End on a single soft chord and let all the strings ring out."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] },
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 1, 2, 0, 0, 0] },
+        { "type": "tab", "name": "p-i-m-a on Em", "notes": [{ "string": 6, "fret": 0 }, { "string": 3, "fret": 0 }, { "string": 2, "fret": 0 }, { "string": 1, "fret": 0 }] }
+      ],
+      "youtube": {
+        "videoId": "Zr0WmWpeWL8",
+        "title": "Guitar Lesson 6 - EASY Fingerstyle & Minor Chords - Ain't no sunshine Tutorial",
+        "channel": "Andy Guitar"
+      },
+      "tips": [
+        "Real songs forgive simplified patterns. Nobody hears a missing note; everybody hears a stopped song.",
+        "Fingerpicking quietly at night is one of its superpowers — no pick, no noise complaints."
+      ]
+    },
+    {
+      "day": 63,
+      "week": 9,
+      "title": "Week 9 Review: Fingerstyle Checkpoint",
+      "isReview": true,
+      "focus": "Consolidate fingerpicking patterns and thumb independence",
+      "intro": "Nine weeks down — you're two-thirds of the way through the 90 days, and this week your right hand learned an entirely new craft. Today: a relaxed run through the patterns, one last play-along, and your weekly recording.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Pattern roll call",
+          "instructions": "One minute each: p-i-m-a on Em and Am, p-i-m-a-m-i on C and G, and the alternating thumb with pinches on C and G. Slow, even, ringing."
+        },
+        {
+          "minutes": 4,
+          "title": "The week's progression",
+          "instructions": "Play the Am-C-G-Em loop with one p-i-m-a pattern per chord, 4 times through without stopping. Then once more with two patterns per chord. Keep the thumb steady through every change."
+        },
+        {
+          "minutes": 3,
+          "title": "Play-along encore",
+          "instructions": "Revisit yesterday's song and play its main loop along with the video or from memory, patterns simplified as needed. Fun over precision today — it's a review, not an exam."
+        },
+        {
+          "minutes": 3,
+          "title": "Record 60 seconds",
+          "instructions": "Hit the Record button in the app and record about 60 seconds of fingerpicking: the Am-C-G-Em progression, plus a few bars of alternating thumb if you're feeling brave. Listen back next to week 8's power chords — same guitar, wildly different worlds, both yours now."
+        },
+        {
+          "minutes": 2,
+          "title": "Gentle finish",
+          "instructions": "Two minutes of free fingerpicking on any chords you like, as quiet and pretty as you can make it. You've earned a soft landing this week."
+        }
+      ],
+      "diagrams": [
+        { "type": "tab", "name": "p-i-m-a on Am", "notes": [{ "string": 5, "fret": 0 }, { "string": 3, "fret": 2 }, { "string": 2, "fret": 1 }, { "string": 1, "fret": 0 }] },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "YnHo_L5d9YQ",
+        "title": "Guitar Practice Routines for Module 8 | JustinGuitar Beginner Course",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Ten minutes of fingerpicking a day beats an hour once a week — it's pure muscle memory.",
+        "Week 10 ahead: keep the pick handy again, but your fingers will never forget this week."
+      ]
+    }
+  ]
+}

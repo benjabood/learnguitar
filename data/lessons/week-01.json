@@ -1,0 +1,411 @@
+{
+  "week": 1,
+  "days": [
+    {
+      "day": 1,
+      "week": 1,
+      "title": "Meet Your Guitar",
+      "isReview": false,
+      "focus": "Guitar anatomy, holding the guitar, holding the pick",
+      "intro": "Welcome to day 1. Today you won't learn a single song — you'll learn to hold the guitar so comfortably that every future practice session feels easy. That comfort is what keeps people playing past week one.",
+      "steps": [
+        {
+          "minutes": 4,
+          "title": "Learn the parts",
+          "instructions": "With the guitar on your lap, find and say out loud: headstock, tuning pegs, nut, neck, frets (the metal strips), body, bridge, and the 6 strings. Touch each part as you name it. Do this twice — you'll use these words every day from now on."
+        },
+        {
+          "minutes": 4,
+          "title": "Sitting position",
+          "instructions": "Sit on a chair without armrests, feet flat. Rest the guitar's waist on your right leg (left leg if you're left-handed), body against your stomach. Keep the neck angled slightly upward and your back straight. Let your strumming arm drape over the top of the body — the guitar should stay put even if you let go with both hands."
+        },
+        {
+          "minutes": 3,
+          "title": "Hold the pick",
+          "instructions": "Curl your index finger and lay the pick on its side, pointed tip aiming away from your palm. Press your thumb on top so only 2-3 mm of tip pokes out. Grip firm enough that the pick doesn't spin, loose enough that your hand stays relaxed. Take it out and re-grip it 5 times."
+        },
+        {
+          "minutes": 4,
+          "title": "Your first sounds",
+          "instructions": "Drag the pick slowly down across all 6 strings, from the thickest string to the thinnest. Don't worry about what it sounds like — no fingers on the neck yet. Do 10 slow strums, keeping your wrist loose and letting your arm do the moving."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "The 6 Open Strings (Thick to Thin)",
+          "notes": [
+            { "string": 6, "fret": 0 },
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 0 },
+            { "string": 3, "fret": 0 },
+            { "string": 2, "fret": 0 },
+            { "string": 1, "fret": 0 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "zpRoq0jcWfQ",
+        "title": "Beginner Guide To Guitar Anatomy - Guitar Lesson Tutorial - Know Your Guitar",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "If your shoulder or wrist aches, stop and reset your position — pain means something is off.",
+        "Keep the guitar somewhere visible. A guitar in its case is a guitar that doesn't get played."
+      ]
+    },
+    {
+      "day": 2,
+      "week": 1,
+      "title": "Tune Up and Name Your Strings",
+      "isReview": false,
+      "focus": "Tuning with an app and learning the open string names",
+      "intro": "A guitar that's out of tune sounds bad no matter how well you play — and beginners often quit because they think they're the problem when it's the tuning. Today you learn to fix that in two minutes, every time you pick up the guitar.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up strums",
+          "instructions": "Get into yesterday's sitting position and do 8 slow downstrums across all open strings. Check your pick grip: 2-3 mm of tip showing, relaxed hand."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn the string names",
+          "instructions": "From thickest to thinnest, the strings are E, A, D, G, B, E. Remember it with 'Eddie Ate Dynamite, Good Bye Eddie.' Pick each string one at a time and say its name out loud. Run through all 6 strings four times."
+        },
+        {
+          "minutes": 6,
+          "title": "Tune with a tuner app",
+          "instructions": "Open a free tuner app (GuitarTuna or Fender Tune) and pick the thick E string, letting it ring. Turn its tuning peg slowly — if the app shows flat, tighten; if sharp, loosen. Small turns only, an eighth of a turn at a time. Work through all 6 strings, then go back and re-check the first two, since tuning one string can nudge the others."
+        },
+        {
+          "minutes": 3,
+          "title": "Quiz yourself",
+          "instructions": "Point at a random string, say its name, then pick it to hear it. Do 10 random strings. Finish with one slow strum across all 6 — that's what a guitar in tune sounds like."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "Say Each Name: E-A-D-G-B-E",
+          "notes": [
+            { "string": 6, "fret": 0 },
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 0 },
+            { "string": 3, "fret": 0 },
+            { "string": 2, "fret": 0 },
+            { "string": 1, "fret": 0 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "X2EmpWr9vUc",
+        "title": "How to Tune Your Guitar For Beginners",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Tune at the START of every practice from now on — it becomes a 2-minute habit.",
+        "New strings drift out of tune quickly for the first few days. That's normal.",
+        "Always tune UP to the note: if you overshoot, drop below and come back up."
+      ]
+    },
+    {
+      "day": 3,
+      "week": 1,
+      "title": "Pick Technique: Open Strings in Rhythm",
+      "isReview": false,
+      "focus": "Steady down-picking and moving the pick across strings",
+      "intro": "Today your picking hand learns to keep time — the single most useful skill in music. Fifteen minutes of picking open strings sounds humble, but this is exactly how solid rhythm gets built.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Tune and grip check",
+          "instructions": "Tune all 6 strings with your app. Re-grip your pick 3 times until it sits naturally: small tip out, relaxed thumb."
+        },
+        {
+          "minutes": 4,
+          "title": "Down-picks on the low E",
+          "instructions": "Count out loud '1, 2, 3, 4' at a slow, steady pace and pick the thick E string once per count, all downstrokes. Small motion — the pick only needs to travel about 2 cm. Do 8 rounds of 4 counts without stopping. If a pick catches or slips, you're digging in too deep; use just the tip."
+        },
+        {
+          "minutes": 5,
+          "title": "Cross the strings",
+          "instructions": "Now pick each open string 4 times, then move to the next: E-E-E-E, A-A-A-A, and so on from string 6 down to string 1. Keep counting '1, 2, 3, 4' and don't pause between strings. Watch your picking hand the first time through, then try a round without looking. Do 3 full trips across all 6 strings."
+        },
+        {
+          "minutes": 4,
+          "title": "Strum in rhythm",
+          "instructions": "Finish with full downstrums across all 6 strings, one strum per count: '1, 2, 3, 4.' Do 8 rounds. Keep the wrist loose — a strum is a brush, not a chop."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "Cross-String Picking Path",
+          "notes": [
+            { "string": 6, "fret": 0 },
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 0 },
+            { "string": 3, "fret": 0 },
+            { "string": 2, "fret": 0 },
+            { "string": 1, "fret": 0 }
+          ]
+        },
+        {
+          "type": "strum",
+          "name": "Steady Downstrums (1 2 3 4)",
+          "beats": ["D", "", "D", "", "D", "", "D", ""]
+        }
+      ],
+      "youtube": {
+        "videoId": "1JBxNFEg0nU",
+        "title": "Picks, how to choose one and hold it (Guitar Lesson BC-107) Guitar for beginners, Getting started",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Counting OUT LOUD feels silly and works brilliantly. Do it.",
+        "Slow and even beats fast and sloppy — every single time."
+      ]
+    },
+    {
+      "day": 4,
+      "week": 1,
+      "title": "Fretting Hand Basics: First Notes",
+      "isReview": false,
+      "focus": "Thumb position, pressing near the fret, first fretted notes",
+      "intro": "Today your left hand joins the party — you'll press strings down and play your first real notes. Your fingertips will feel tender by the end. That's the honest sign of progress every guitarist before you has felt.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Tune up and warm up",
+          "instructions": "Tune with your app, then do 8 steady downstrums counting '1, 2, 3, 4' like yesterday."
+        },
+        {
+          "minutes": 4,
+          "title": "Thumb and finger position",
+          "instructions": "Put your thumb flat on the BACK of the neck, roughly behind the 2nd fret, pointing up. Curl your fingers over so the fingertips point down at the strings — like holding a ball. Don't let your palm grip the neck; there should be a small gap under it. Practice placing your index fingertip on the thinnest string and lifting off, 10 times."
+        },
+        {
+          "minutes": 4,
+          "title": "Your first fretted note",
+          "instructions": "Press the tip of your index finger on the thin E string just BEHIND the 1st fret (close to the metal, not on top of it). Press firmly and pick the string. If it buzzes, slide closer to the fret; if it's muted, press harder or check you're on the very tip. Play 10 clean notes, relaxing your hand between each one."
+        },
+        {
+          "minutes": 5,
+          "title": "Walk up the frets",
+          "instructions": "On the thin E string, play fret 1 with your index, fret 2 with your middle, fret 3 with your ring finger — one pick per note, counting steadily. Then do the same on the B string. Do 5 slow rounds on each string. Keep each finger just behind its fret."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "Fret Walk: 1-2-3 on Two Strings",
+          "notes": [
+            { "string": 1, "fret": 1 },
+            { "string": 1, "fret": 2 },
+            { "string": 1, "fret": 3 },
+            { "string": 2, "fret": 1 },
+            { "string": 2, "fret": 2 },
+            { "string": 2, "fret": 3 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "BBz-Jyr23M4",
+        "title": "Guitar Lesson 1 - Absolute Beginner? Start Here! [Free 10 Day Starter Course]",
+        "channel": "Andy Guitar"
+      },
+      "tips": [
+        "Sore fingertips are normal for 2-3 weeks, then calluses form and it stops hurting.",
+        "Press just behind the fret, not on top of it — you'll need half the pressure.",
+        "Trim your fretting-hand nails short. Long nails make clean notes impossible."
+      ]
+    },
+    {
+      "day": 5,
+      "week": 1,
+      "title": "Your First Riff: Seven Nation Army",
+      "isReview": false,
+      "focus": "Playing a real riff on one string",
+      "intro": "Five days in and you're already playing something people will recognize. Seven Nation Army lives on a single string, which makes it the perfect first riff — all your work this week comes together right here.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Tune and fret walk warm-up",
+          "instructions": "Tune up, then do 3 rounds of yesterday's 1-2-3 fret walk on the thin E and B strings. Check your thumb is behind the neck and fingers are on their tips."
+        },
+        {
+          "minutes": 5,
+          "title": "Learn the notes one at a time",
+          "instructions": "The whole riff is on the A string (5th string, second thickest): frets 7, 7, 10, 7, 5, 3, 2. Use your index finger for every note and shift your whole hand along the neck — sliding between notes is allowed and sounds cool here. Play through the sequence one note at a time, pausing as long as you need before each note. Get through it 5 times, accuracy over speed."
+        },
+        {
+          "minutes": 4,
+          "title": "Slow loop",
+          "instructions": "Now play the riff start to finish without stopping between notes, at half the speed of the record. Loop it 5 times. If one jump keeps failing (usually 7 to 10), practice just those two notes back and forth 10 times, then rejoin the loop."
+        },
+        {
+          "minutes": 3,
+          "title": "Play with the video",
+          "instructions": "Play along with today's video at whatever speed you can hold. Don't stop when you fluff a note — keeping going is the real skill. End on one confident full run-through."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "Seven Nation Army (One String)",
+          "notes": [
+            { "string": 5, "fret": 7 },
+            { "string": 5, "fret": 7 },
+            { "string": 5, "fret": 10 },
+            { "string": 5, "fret": 7 },
+            { "string": 5, "fret": 5 },
+            { "string": 5, "fret": 3 },
+            { "string": 5, "fret": 2 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "YaR6mzdNjOw",
+        "title": "Play Seven Nation Army the EASY WAY - Your First Riff - Beginner Guitar Lesson",
+        "channel": "Andy Guitar"
+      },
+      "tips": [
+        "Hum the riff while you play it — your fingers follow your ear.",
+        "Play it for someone today. First-riff pride is real fuel."
+      ]
+    },
+    {
+      "day": 6,
+      "week": 1,
+      "title": "Two Strings, One Riff: String Crossing",
+      "isReview": false,
+      "focus": "Crossing between strings while playing a riff",
+      "intro": "Yesterday's riff lived on one string; today you learn to hop between two. String crossing is what separates plucking notes from actually playing guitar, and you're ready for it.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Tune and riff warm-up",
+          "instructions": "Tune up, then play Seven Nation Army 3 times as your warm-up. Keep it slow and clean."
+        },
+        {
+          "minutes": 4,
+          "title": "String crossing drill",
+          "instructions": "Alternate downpicks between the open low E (6th) and open A (5th) strings: E, A, E, A, one note per count. The trick is small pick motion — hover close to both strings instead of swinging wide. Do 8 rounds of 4 counts. Then try it without looking at your picking hand for 4 more rounds."
+        },
+        {
+          "minutes": 5,
+          "title": "Learn the two-string riff",
+          "instructions": "This simplified Come As You Are riff uses the two thickest strings: low E frets 0, 1, 2, then A string fret 2, then A open, then back to low E fret 2, 1, 0. Use index for fret 1 and middle for fret 2. Learn it in two halves — first four notes, then the rest — playing each half 5 times before joining them."
+        },
+        {
+          "minutes": 3,
+          "title": "Loop it with the video",
+          "instructions": "Play the full riff on repeat, slowly and evenly, 5 times through. Then play along with today's video as best you can. Wobbles are fine; keep your count steady."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "String Crossing Drill",
+          "notes": [
+            { "string": 6, "fret": 0 },
+            { "string": 5, "fret": 0 },
+            { "string": 6, "fret": 0 },
+            { "string": 5, "fret": 0 }
+          ]
+        },
+        {
+          "type": "tab",
+          "name": "Come As You Are (Simplified)",
+          "notes": [
+            { "string": 6, "fret": 0 },
+            { "string": 6, "fret": 1 },
+            { "string": 6, "fret": 2 },
+            { "string": 5, "fret": 2 },
+            { "string": 5, "fret": 0 },
+            { "string": 6, "fret": 2 },
+            { "string": 6, "fret": 1 },
+            { "string": 6, "fret": 0 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "G14kHAijVHM",
+        "title": "Nirvana - Come As You Are Guitar Lesson - Easy Beginner Riff",
+        "channel": "Andy Guitar"
+      },
+      "tips": [
+        "Keep your pick within a couple of centimetres of the strings — big swings cause misses.",
+        "If you hit the wrong string, slow down 20%. Accuracy first, speed follows."
+      ]
+    },
+    {
+      "day": 7,
+      "week": 1,
+      "title": "Week 1 Review: Lock It In",
+      "isReview": true,
+      "focus": "Consolidating tuning, picking, and both riffs — plus your first recording",
+      "intro": "You made it through week 1 — seven straight days is more than most people ever manage. Today is lighter: no new material, just polishing what you've got and capturing your first recording so future-you can hear how far you've come.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Tune and free strum",
+          "instructions": "Tune all 6 strings, naming each one as you go (E-A-D-G-B-E). Then do 8 relaxed downstrums counting '1, 2, 3, 4.' Notice how much more natural the pick feels than on day 1."
+        },
+        {
+          "minutes": 5,
+          "title": "Riff medley",
+          "instructions": "Play Seven Nation Army 3 times, then the Come As You Are riff 3 times. Take a breath between runs. If one riff is clearly weaker, give it 2 extra runs — spend the time where it's needed."
+        },
+        {
+          "minutes": 4,
+          "title": "Play-along for fun",
+          "instructions": "Put on today's practice-routine video and play along with whatever sections you can — open strums, single notes, your riffs. This is play, not a test. Enjoy making noise on purpose."
+        },
+        {
+          "minutes": 3,
+          "title": "Record your 60 seconds",
+          "instructions": "Hit the Record button in the app and play for about 60 seconds: one run of each riff plus a few strums. Don't restart if you make mistakes — this recording is your honest week-1 snapshot. You'll listen back to these weekly and the improvement will genuinely surprise you."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "Seven Nation Army (One String)",
+          "notes": [
+            { "string": 5, "fret": 7 },
+            { "string": 5, "fret": 7 },
+            { "string": 5, "fret": 10 },
+            { "string": 5, "fret": 7 },
+            { "string": 5, "fret": 5 },
+            { "string": 5, "fret": 3 },
+            { "string": 5, "fret": 2 }
+          ]
+        },
+        {
+          "type": "tab",
+          "name": "Come As You Are (Simplified)",
+          "notes": [
+            { "string": 6, "fret": 0 },
+            { "string": 6, "fret": 1 },
+            { "string": 6, "fret": 2 },
+            { "string": 5, "fret": 2 },
+            { "string": 5, "fret": 0 },
+            { "string": 6, "fret": 2 },
+            { "string": 6, "fret": 1 },
+            { "string": 6, "fret": 0 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "uBZsLmmOz9I",
+        "title": "JustinGuitar Lesson 1 Practice Routine | Guitar for Beginners",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Seven days in a row beats one three-hour Saturday session. You're doing it right.",
+        "Keep every weekly recording — by day 90 you'll have a highlight reel of progress."
+      ]
+    }
+  ]
+}

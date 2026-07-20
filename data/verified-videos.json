@@ -1,0 +1,677 @@
+{
+  "verifiedAt": "2026-07-19",
+  "videos": [
+    {
+      "id": "zpRoq0jcWfQ",
+      "url": "https://www.youtube.com/watch?v=zpRoq0jcWfQ",
+      "title": "Beginner Guide To Guitar Anatomy - Guitar Lesson Tutorial - Know Your Guitar",
+      "channel": "JustinGuitar",
+      "topics": ["guitar-anatomy"]
+    },
+    {
+      "id": "USw91DeTwIE",
+      "url": "https://www.youtube.com/watch?v=USw91DeTwIE",
+      "title": "Guitar Anatomy (Guitar Lesson BC-104) Guitar for beginners, Getting started",
+      "channel": "JustinGuitar",
+      "topics": ["guitar-anatomy"]
+    },
+    {
+      "id": "1ANma3HMfSU",
+      "url": "https://www.youtube.com/watch?v=1ANma3HMfSU",
+      "title": "Understanding the Anatomy of the Acoustic Guitar (Every Part!) | A Beginner's Guide",
+      "channel": "Guitar Center",
+      "topics": ["guitar-anatomy"]
+    },
+    {
+      "id": "X2EmpWr9vUc",
+      "url": "https://www.youtube.com/watch?v=X2EmpWr9vUc",
+      "title": "How to Tune Your Guitar For Beginners",
+      "channel": "JustinGuitar",
+      "topics": ["tuning"]
+    },
+    {
+      "id": "Q3I1wRc0ikw",
+      "url": "https://www.youtube.com/watch?v=Q3I1wRc0ikw",
+      "title": "Get your guitar in tune (Guitar Lesson BC-109) Guitar for beginners, Getting started",
+      "channel": "JustinGuitar",
+      "topics": ["tuning"]
+    },
+    {
+      "id": "7si11pQ5mgw",
+      "url": "https://www.youtube.com/watch?v=7si11pQ5mgw",
+      "title": "How to Tune a Guitar [For Beginners]",
+      "channel": "Tony Polecastro",
+      "topics": ["tuning"]
+    },
+    {
+      "id": "uCEzJ_28rKg",
+      "url": "https://www.youtube.com/watch?v=uCEzJ_28rKg",
+      "title": "Justin 'Guitar' Sandercoe Lesson 1 - Choosing, Tuning and The Basics",
+      "channel": "BBC Radio 2",
+      "topics": ["tuning", "posture-holding"]
+    },
+    {
+      "id": "1JBxNFEg0nU",
+      "url": "https://www.youtube.com/watch?v=1JBxNFEg0nU",
+      "title": "Picks, how to choose one and hold it (Guitar Lesson BC-107) Guitar for beginners, Getting started",
+      "channel": "JustinGuitar",
+      "topics": ["posture-holding", "picking-basics"]
+    },
+    {
+      "id": "MOjSgNeoukU",
+      "url": "https://www.youtube.com/watch?v=MOjSgNeoukU",
+      "title": "How To Hold A Guitar Pick & How to Choose One (Guitar Basics - Lesson 5)",
+      "channel": "Andy Guitar",
+      "topics": ["posture-holding", "picking-basics"]
+    },
+    {
+      "id": "BBz-Jyr23M4",
+      "url": "https://www.youtube.com/watch?v=BBz-Jyr23M4",
+      "title": "Guitar Lesson 1 - Absolute Beginner? Start Here! [Free 10 Day Starter Course]",
+      "channel": "Andy Guitar",
+      "topics": ["posture-holding", "fretting-first-notes"]
+    },
+    {
+      "id": "vnBd5kL7ynE",
+      "url": "https://www.youtube.com/watch?v=vnBd5kL7ynE",
+      "title": "Acoustic Guitar Lesson 1 - Absolute Beginner? Start Here! (10 Day Course)",
+      "channel": "Andy Guitar",
+      "topics": ["posture-holding", "picking-basics"]
+    },
+    {
+      "id": "FWpRROBP9N4",
+      "url": "https://www.youtube.com/watch?v=FWpRROBP9N4",
+      "title": "Electric Guitar Lesson 1 - Absolute Beginner? Start Here!",
+      "channel": "Andy Guitar",
+      "topics": ["posture-holding", "fretting-first-notes"]
+    },
+    {
+      "id": "V76vbZKFNVs",
+      "url": "https://www.youtube.com/watch?v=V76vbZKFNVs",
+      "title": "Beginner Lesson: First Notes (E, B, G), Rhythms, and Etude No.1 & 2 for Classical Guitar",
+      "channel": "This is Classical Guitar",
+      "topics": ["fretting-first-notes"]
+    },
+    {
+      "id": "VK1Fe0mnXvE",
+      "url": "https://www.youtube.com/watch?v=VK1Fe0mnXvE",
+      "title": "Guitar Lesson 4 - Your First Riff! [10 Day Guitar Starter Course]",
+      "channel": "Andy Guitar",
+      "topics": ["first-riffs", "picking-basics"]
+    },
+    {
+      "id": "YaR6mzdNjOw",
+      "url": "https://www.youtube.com/watch?v=YaR6mzdNjOw",
+      "title": "Play Seven Nation Army the EASY WAY - Your First Riff - Beginner Guitar Lesson",
+      "channel": "Andy Guitar",
+      "topics": ["first-riffs"]
+    },
+    {
+      "id": "SKTMxzNx6nQ",
+      "url": "https://www.youtube.com/watch?v=SKTMxzNx6nQ",
+      "title": "Learn Your First Guitar Riff FREE! Easy Beginner Lesson",
+      "channel": "GuitarJamz",
+      "topics": ["first-riffs", "picking-basics"]
+    },
+    {
+      "id": "G14kHAijVHM",
+      "url": "https://www.youtube.com/watch?v=G14kHAijVHM",
+      "title": "Nirvana - Come As You Are Guitar Lesson - Easy Beginner Riff",
+      "channel": "Andy Guitar",
+      "topics": ["first-riffs"]
+    },
+    {
+      "id": "pBacbX9yefA",
+      "url": "https://www.youtube.com/watch?v=pBacbX9yefA",
+      "title": "A, D and E Chords - Easy Chord Changes Using Anchor Fingers - Beginner Guitar Lessons [BC-114]",
+      "channel": "JustinGuitar",
+      "topics": ["chords-a-d-e", "anchor-fingers"]
+    },
+    {
+      "id": "McSfLPmXcLw",
+      "url": "https://www.youtube.com/watch?v=McSfLPmXcLw",
+      "title": "A, D, and E - Easy Chord Changes Using Anchor Fingers",
+      "channel": "JustinGuitar",
+      "topics": ["chords-a-d-e", "anchor-fingers", "chord-changes"]
+    },
+    {
+      "id": "yh6sPqDEZCY",
+      "url": "https://www.youtube.com/watch?v=yh6sPqDEZCY",
+      "title": "Super Easy First Guitar Lesson - Guitar Lessons For Beginners - Stage 1 - The D Chord",
+      "channel": "JustinGuitar",
+      "topics": ["chords-a-d-e", "fretting-first-notes"]
+    },
+    {
+      "id": "1X2rW5ATdLQ",
+      "url": "https://www.youtube.com/watch?v=1X2rW5ATdLQ",
+      "title": "How to Play the A Chord | Guitar for Beginners",
+      "channel": "JustinGuitar",
+      "topics": ["chords-a-d-e"]
+    },
+    {
+      "id": "p5Ln39q8cj4",
+      "url": "https://www.youtube.com/watch?v=p5Ln39q8cj4",
+      "title": "Super EASY 3 Chord Songs using A, D, E | Guitar for Beginners",
+      "channel": "JustinGuitar",
+      "topics": ["chords-a-d-e", "first-songs"]
+    },
+    {
+      "id": "qXK_If0QzDM",
+      "url": "https://www.youtube.com/watch?v=qXK_If0QzDM",
+      "title": "One Minute Changes (Guitar Lesson BC-115) Guitar for beginners Stage 1",
+      "channel": "JustinGuitar",
+      "topics": ["chord-changes"]
+    },
+    {
+      "id": "LXXFzXT-pQQ",
+      "url": "https://www.youtube.com/watch?v=LXXFzXT-pQQ",
+      "title": "Chord Combinations - One Minute Changes - Stage 2 Guitar Lesson - Guitar For Beginners [BC-124]",
+      "channel": "JustinGuitar",
+      "topics": ["chord-changes"]
+    },
+    {
+      "id": "Ck73R_GjowE",
+      "url": "https://www.youtube.com/watch?v=Ck73R_GjowE",
+      "title": "One Minute Changes (Guitar Lesson BC-134) Guitar for beginners Stage 3",
+      "channel": "JustinGuitar",
+      "topics": ["chord-changes"]
+    },
+    {
+      "id": "D8UBkOzsKKw",
+      "url": "https://www.youtube.com/watch?v=D8UBkOzsKKw",
+      "title": "BEGINNER Guitar Chords To Learn - EASIER Transition for C, G, Em & D Chords",
+      "channel": "Lauren Bateman",
+      "topics": ["chord-changes", "chords-g-c"]
+    },
+    {
+      "id": "J_xZ5h_Yb4s",
+      "url": "https://www.youtube.com/watch?v=J_xZ5h_Yb4s",
+      "title": "One minute Changes (Guitar Lesson BC-162) Guitar for beginners Stage 6",
+      "channel": "JustinGuitar",
+      "topics": ["chord-changes"]
+    },
+    {
+      "id": "n45PDizCRLw",
+      "url": "https://www.youtube.com/watch?v=n45PDizCRLw",
+      "title": "Your FIRST Strumming Pattern EVER! | Guitar for Beginners",
+      "channel": "JustinGuitar",
+      "topics": ["strumming-basics"]
+    },
+    {
+      "id": "a9PUok_y0xM",
+      "url": "https://www.youtube.com/watch?v=a9PUok_y0xM",
+      "title": "Marty Schwartz First Beginner guitar lesson how to strum lesson for GuitarJamz.com",
+      "channel": "GuitarJamz Lessons",
+      "topics": ["strumming-basics"]
+    },
+    {
+      "id": "ely9LaJJJr4",
+      "url": "https://www.youtube.com/watch?v=ely9LaJJJr4",
+      "title": "Beginner Strumming Patterns For Acoustic Guitar Pattern 1 - Beginner Guitar Lessons",
+      "channel": "Marty Music",
+      "topics": ["strumming-basics", "strumming-patterns"]
+    },
+    {
+      "id": "6LmQCdt_ZhQ",
+      "url": "https://www.youtube.com/watch?v=6LmQCdt_ZhQ",
+      "title": "The Most Common Strumming Pattern of All Time! Guitar for Beginners",
+      "channel": "JustinGuitar",
+      "topics": ["strumming-patterns"]
+    },
+    {
+      "id": "0ih_qij629U",
+      "url": "https://www.youtube.com/watch?v=0ih_qij629U",
+      "title": "Practice \"Old Faithful\", one of the GREAT patterns to master for a beginner",
+      "channel": "PZ Guitar",
+      "topics": ["strumming-patterns"]
+    },
+    {
+      "id": "IXL1bG_ao3c",
+      "url": "https://www.youtube.com/watch?v=IXL1bG_ao3c",
+      "title": "Easy Strumming Patterns With Up Strums | Guitar for Beginners",
+      "channel": "JustinGuitar",
+      "topics": ["strumming-patterns", "strumming-basics"]
+    },
+    {
+      "id": "hM9lEotHlxQ",
+      "url": "https://www.youtube.com/watch?v=hM9lEotHlxQ",
+      "title": "Beginner Strumming Patterns For Acoustic Guitar Pattern 2 - Beginner Guitar Lessons",
+      "channel": "Marty Music",
+      "topics": ["strumming-patterns"]
+    },
+    {
+      "id": "wtxguMdxc1Y",
+      "url": "https://www.youtube.com/watch?v=wtxguMdxc1Y",
+      "title": "Beginner Strumming Patterns For Acoustic Guitar Pattern 3 - Beginner Guitar Lessons",
+      "channel": "Marty Music",
+      "topics": ["strumming-patterns"]
+    },
+    {
+      "id": "NCV9IgeSYuU",
+      "url": "https://www.youtube.com/watch?v=NCV9IgeSYuU",
+      "title": "Beginner Guitar Strumming Patterns You MUST Know!",
+      "channel": "Marty Music",
+      "topics": ["strumming-patterns"]
+    },
+    {
+      "id": "gEzwpqmt2gc",
+      "url": "https://www.youtube.com/watch?v=gEzwpqmt2gc",
+      "title": "G Chord - Guitar For Beginners - Stage 3 Guitar Lesson - JustinGuitar [BC-131]",
+      "channel": "JustinGuitar",
+      "topics": ["chords-g-c"]
+    },
+    {
+      "id": "RBYqdBqogo4",
+      "url": "https://www.youtube.com/watch?v=RBYqdBqogo4",
+      "title": "C Chord - Guitar For Beginners - Stage 3 Guitar Lesson - JustinGuitar [BC-132]",
+      "channel": "JustinGuitar",
+      "topics": ["chords-g-c"]
+    },
+    {
+      "id": "f18EV2dr008",
+      "url": "https://www.youtube.com/watch?v=f18EV2dr008",
+      "title": "How to Play the C Chord | Guitar for Beginners",
+      "channel": "JustinGuitar",
+      "topics": ["chords-g-c"]
+    },
+    {
+      "id": "z_BazU7Uyxg",
+      "url": "https://www.youtube.com/watch?v=z_BazU7Uyxg",
+      "title": "How to play G, C and D chords | Play 10 guitar songs with three chords | Beginner Guitar Lesson",
+      "channel": "Andy Guitar",
+      "topics": ["chords-g-c", "first-songs"]
+    },
+    {
+      "id": "lRJ_d3PqPIQ",
+      "url": "https://www.youtube.com/watch?v=lRJ_d3PqPIQ",
+      "title": "8 Open Chords That You Should Know! | Guitar for Beginners",
+      "channel": "JustinGuitar",
+      "topics": ["chords-g-c", "chords-em-am-dm"]
+    },
+    {
+      "id": "WksDEkIlTb8",
+      "url": "https://www.youtube.com/watch?v=WksDEkIlTb8",
+      "title": "The 8 Essential Beginner Chord Grips | Beginner Guitar Lesson 8.1 | Justin Guitar",
+      "channel": "JustinGuitar",
+      "topics": ["chords-g-c", "chords-em-am-dm"]
+    },
+    {
+      "id": "lqcd3jVysXY",
+      "url": "https://www.youtube.com/watch?v=lqcd3jVysXY",
+      "title": "How to Play the Em Chord | Guitar for Beginners",
+      "channel": "JustinGuitar",
+      "topics": ["chords-em-am-dm"]
+    },
+    {
+      "id": "1Y2veGF9s44",
+      "url": "https://www.youtube.com/watch?v=1Y2veGF9s44",
+      "title": "How to Play the Am Chord | Guitar for Beginners",
+      "channel": "JustinGuitar",
+      "topics": ["chords-em-am-dm"]
+    },
+    {
+      "id": "y5cAG2u6mTQ",
+      "url": "https://www.youtube.com/watch?v=y5cAG2u6mTQ",
+      "title": "How To Play The Am and Dm Chords on Guitar - Beginner Guitar Chords",
+      "channel": "Lauren Bateman",
+      "topics": ["chords-em-am-dm"]
+    },
+    {
+      "id": "HtJ08n97X2c",
+      "url": "https://www.youtube.com/watch?v=HtJ08n97X2c",
+      "title": "Play TEN songs with three EASY Minor Chords - Em, Am, and Dm - Easy beginner guitar lesson",
+      "channel": "Andy Guitar",
+      "topics": ["chords-em-am-dm", "first-songs"]
+    },
+    {
+      "id": "NpbfRJsx24Y",
+      "url": "https://www.youtube.com/watch?v=NpbfRJsx24Y",
+      "title": "Open Minor Chords (Em, Am, Dm) | Beginner Guitar Tips",
+      "channel": "Guitar Center",
+      "topics": ["chords-em-am-dm"]
+    },
+    {
+      "id": "0heHRj9aHAk",
+      "url": "https://www.youtube.com/watch?v=0heHRj9aHAk",
+      "title": "Beginners first guitar lesson  Play TEN guitar songs with two EASY chords |By Marty Schwartz",
+      "channel": "GuitarJamz",
+      "topics": ["first-songs"]
+    },
+    {
+      "id": "XxICTF-NIZ8",
+      "url": "https://www.youtube.com/watch?v=XxICTF-NIZ8",
+      "title": "3 Easy Songs on Guitar using Em and Am | Guitar for Beginners",
+      "channel": "JustinGuitar",
+      "topics": ["first-songs", "chords-em-am-dm"]
+    },
+    {
+      "id": "CWL_O9kR_b0",
+      "url": "https://www.youtube.com/watch?v=CWL_O9kR_b0",
+      "title": "Easy Minor Chord Songs using Am, Dm and, Em",
+      "channel": "JustinGuitar",
+      "topics": ["first-songs", "chords-em-am-dm"]
+    },
+    {
+      "id": "EbNzDcUz2c0",
+      "url": "https://www.youtube.com/watch?v=EbNzDcUz2c0",
+      "title": "How to Play Guitar #9 - 8th Note Strums - Beginner Guitar Lesson",
+      "channel": "TrueFire",
+      "topics": ["rhythm-8th-notes"]
+    },
+    {
+      "id": "x4z3DoavP8o",
+      "url": "https://www.youtube.com/watch?v=x4z3DoavP8o",
+      "title": "Strumming with 8th Notes! - Basic Guitar Lesson",
+      "channel": "Charlie Stevens",
+      "topics": ["rhythm-8th-notes"]
+    },
+    {
+      "id": "wk9C1DHNcTY",
+      "url": "https://www.youtube.com/watch?v=wk9C1DHNcTY",
+      "title": "Learn This Strumming Pattern First - The 8th Note Easy Listening Groove - Beginner Guitar Lesson",
+      "channel": "Sean Huddleston",
+      "topics": ["rhythm-8th-notes", "strumming-patterns"]
+    },
+    {
+      "id": "hZo43TwfdIk",
+      "url": "https://www.youtube.com/watch?v=hZo43TwfdIk",
+      "title": "Rhythm Basics for Guitar Lesson 2: Eighth Notes",
+      "channel": "Hunter MacDermut",
+      "topics": ["rhythm-8th-notes"]
+    },
+    {
+      "id": "TZ4ITPLIzBc",
+      "url": "https://www.youtube.com/watch?v=TZ4ITPLIzBc",
+      "title": "The F Maj7 Chord (Guitar Lesson BC-142) Guitar for beginners Stage 4",
+      "channel": "JustinGuitar",
+      "topics": ["f-chord-barre"]
+    },
+    {
+      "id": "4cR1sa1_d_8",
+      "url": "https://www.youtube.com/watch?v=4cR1sa1_d_8",
+      "title": "The Easiest F Chord Guitar Lesson You'll Find :)",
+      "channel": "JustinGuitar",
+      "topics": ["f-chord-barre"]
+    },
+    {
+      "id": "DcIXL7IU7Ko",
+      "url": "https://www.youtube.com/watch?v=DcIXL7IU7Ko",
+      "title": "3 F Chord Variations You Need to Know",
+      "channel": "JustinGuitar",
+      "topics": ["f-chord-barre"]
+    },
+    {
+      "id": "8Rw6IBy1VSk",
+      "url": "https://www.youtube.com/watch?v=8Rw6IBy1VSk",
+      "title": "STOP playing the F barre chord... play THIS",
+      "channel": "Andy Guitar",
+      "topics": ["f-chord-barre"]
+    },
+    {
+      "id": "PmnNiK1gqxw",
+      "url": "https://www.youtube.com/watch?v=PmnNiK1gqxw",
+      "title": "Beginner Acoustic Guitar: E5 Power Chord (2 notes)",
+      "channel": "Notewize: Guitar Lessons",
+      "topics": ["power-chords"]
+    },
+    {
+      "id": "mgZlMdVF08Q",
+      "url": "https://www.youtube.com/watch?v=mgZlMdVF08Q",
+      "title": "Beginner Acoustic Guitar: A5 Power Chord (2 notes)",
+      "channel": "Notewize: Guitar Lessons",
+      "topics": ["power-chords"]
+    },
+    {
+      "id": "W3ErkqDZo6A",
+      "url": "https://www.youtube.com/watch?v=W3ErkqDZo6A",
+      "title": "Power Chords - E5 A5 D5 - Easy 1 finger chords - Play Along",
+      "channel": "Brent Robitaille",
+      "topics": ["power-chords"]
+    },
+    {
+      "id": "592yeGLM-eg",
+      "url": "https://www.youtube.com/watch?v=592yeGLM-eg",
+      "title": "Beginner Rock Guitar Lesson: Power Chords and Palm Muting",
+      "channel": "Axe of Creation",
+      "topics": ["power-chords", "palm-muting"]
+    },
+    {
+      "id": "dqaPt9wSqd0",
+      "url": "https://www.youtube.com/watch?v=dqaPt9wSqd0",
+      "title": "Power Chords and Palm Muting: Guitar Lessons for Beginners: Metal: Lesson 1",
+      "channel": "Jamie Slays",
+      "topics": ["power-chords", "palm-muting"]
+    },
+    {
+      "id": "b6bdFoHsy7I",
+      "url": "https://www.youtube.com/watch?v=b6bdFoHsy7I",
+      "title": "Palm Muting on Electric Guitar | Beginner Lesson",
+      "channel": "Dark Tone Academy",
+      "topics": ["palm-muting"]
+    },
+    {
+      "id": "2WB8otOcz78",
+      "url": "https://www.youtube.com/watch?v=2WB8otOcz78",
+      "title": "Finger Style For Beginners. Start Here.",
+      "channel": "JustinGuitar",
+      "topics": ["fingerpicking"]
+    },
+    {
+      "id": "3Efg3jbXAnQ",
+      "url": "https://www.youtube.com/watch?v=3Efg3jbXAnQ",
+      "title": "Intro to Folk Fingerstyle Module - Folk Guitar Lesson - JustinGuitar [FO-100]",
+      "channel": "JustinGuitar",
+      "topics": ["fingerpicking"]
+    },
+    {
+      "id": "Zr0WmWpeWL8",
+      "url": "https://www.youtube.com/watch?v=Zr0WmWpeWL8",
+      "title": "Guitar Lesson 6 - EASY Fingerstyle & Minor Chords - Ain't no sunshine Tutorial",
+      "channel": "Andy Guitar",
+      "topics": ["fingerpicking"]
+    },
+    {
+      "id": "K4iLY5xctMA",
+      "url": "https://www.youtube.com/watch?v=K4iLY5xctMA",
+      "title": "ABSOLUTE BEGINNER FINGERSTYLE GUITAR - LESSON 1",
+      "channel": "Andy Guitar",
+      "topics": ["fingerpicking"]
+    },
+    {
+      "id": "puC7DZtSxEY",
+      "url": "https://www.youtube.com/watch?v=puC7DZtSxEY",
+      "title": "Learn the Minor Pentatonic Scale for Guitar - Shape 1 Tutorial",
+      "channel": "Just 12 Notes",
+      "topics": ["pentatonic-scale"]
+    },
+    {
+      "id": "vkCzYAsMgvE",
+      "url": "https://www.youtube.com/watch?v=vkCzYAsMgvE",
+      "title": "Minor Pentatonic Scale - Pattern 1 | Full Guitar Tutorial",
+      "channel": "DanBW Music",
+      "topics": ["pentatonic-scale"]
+    },
+    {
+      "id": "fg1n_i-D7v0",
+      "url": "https://www.youtube.com/watch?v=fg1n_i-D7v0",
+      "title": "How to SOLO on GUITAR Lesson | Minor Pentatonic Position 1 (BOX 1)",
+      "channel": "Samjamguitar",
+      "topics": ["pentatonic-scale", "lead-basics"]
+    },
+    {
+      "id": "xJH21UfcgVU",
+      "url": "https://www.youtube.com/watch?v=xJH21UfcgVU",
+      "title": "Your First Guitar Solo Lesson 1: Easiest Way to Start Soloing",
+      "channel": "Marty Music",
+      "topics": ["lead-basics"]
+    },
+    {
+      "id": "Jc5b5rAWbFc",
+      "url": "https://www.youtube.com/watch?v=Jc5b5rAWbFc",
+      "title": "5 Guitar Licks using the Minor Pentatonic Scale Position 1 - Lead Guitar Lesson",
+      "channel": "Ste Shaw",
+      "topics": ["lead-basics", "pentatonic-scale"]
+    },
+    {
+      "id": "XkzGuKIewos",
+      "url": "https://www.youtube.com/watch?v=XkzGuKIewos",
+      "title": "4 Easy & Tasty Starter Riffs for Soloing in Pentatonic Scale Pattern 1 (G Shape in CAGED)",
+      "channel": "Pow Music",
+      "topics": ["lead-basics", "pentatonic-scale"]
+    },
+    {
+      "id": "O5NONLQL_n0",
+      "url": "https://www.youtube.com/watch?v=O5NONLQL_n0",
+      "title": "Your 1st Blues Solo - Guitar Lesson with (1st scale minor pentatonic)",
+      "channel": "GuitarJamz",
+      "topics": ["lead-basics", "12-bar-blues"]
+    },
+    {
+      "id": "XFuXLSIYH7s",
+      "url": "https://www.youtube.com/watch?v=XFuXLSIYH7s",
+      "title": "12 Bar Blues Lesson For Beginners",
+      "channel": "Marty Music",
+      "topics": ["12-bar-blues"]
+    },
+    {
+      "id": "lTESxShp2k8",
+      "url": "https://www.youtube.com/watch?v=lTESxShp2k8",
+      "title": "12 Bar Blues Shuffle & Turnaround - Easy Guitar Lesson - Tutorial - how to play",
+      "channel": "Henry Olsen",
+      "topics": ["12-bar-blues"]
+    },
+    {
+      "id": "hokYbWsW-Co",
+      "url": "https://www.youtube.com/watch?v=hokYbWsW-Co",
+      "title": "Beginner Blues #1: How to Play the Blues on Guitar",
+      "channel": "Marty Music",
+      "topics": ["12-bar-blues"]
+    },
+    {
+      "id": "f8cGLZJlMtQ",
+      "url": "https://www.youtube.com/watch?v=f8cGLZJlMtQ",
+      "title": "How to Play a 12-Bar Blues on Guitar - Key of A (A7 - D7 - E7)",
+      "channel": "Green Hills Guitar Studio",
+      "topics": ["12-bar-blues", "blues-chords"]
+    },
+    {
+      "id": "KvpQF6xkE3Q",
+      "url": "https://www.youtube.com/watch?v=KvpQF6xkE3Q",
+      "title": "Strumming The 12 Bar Blues In A Major On Guitar Turnaround Lesson A7 D7 E7 @EricBlackmonGuitar",
+      "channel": "EricBlackmonGuitar",
+      "topics": ["blues-chords", "12-bar-blues"]
+    },
+    {
+      "id": "9Jp2tL4zNGY",
+      "url": "https://www.youtube.com/watch?v=9Jp2tL4zNGY",
+      "title": "Combining E7, A7 and B7 Chords for 12 bar blues Strumming",
+      "channel": "Brook Hoover",
+      "topics": ["blues-chords"]
+    },
+    {
+      "id": "wkN9fQRmSxA",
+      "url": "https://www.youtube.com/watch?v=wkN9fQRmSxA",
+      "title": "Knockin On Heaven's Door Guitar Lesson for Beginners - Easy Guitar Song",
+      "channel": "Lauren Bateman",
+      "topics": ["song-repertoire"]
+    },
+    {
+      "id": "53SP2n3DSYA",
+      "url": "https://www.youtube.com/watch?v=53SP2n3DSYA",
+      "title": "Knockin on Heaven's Door - Bob Dylan [PERFECT Beginner Guitar Lesson Tutorial]",
+      "channel": "The Stellar Guitarist",
+      "topics": ["song-repertoire"]
+    },
+    {
+      "id": "3WIgVWI3vAg",
+      "url": "https://www.youtube.com/watch?v=3WIgVWI3vAg",
+      "title": "Wonderwall Guitar Lesson Tutorial EASY - Oasis [Chords | Strumming | PlayAlong] (Beginner Friendly!)",
+      "channel": "for3v3rfaithful",
+      "topics": ["song-repertoire"]
+    },
+    {
+      "id": "9YqU4PEJqHU",
+      "url": "https://www.youtube.com/watch?v=9YqU4PEJqHU",
+      "title": "\"Wonderwall\" Easy Acoustic Guitar Tutorial + Lesson | \"2-Finger Trick\" = Easiest Chords on Guitar",
+      "channel": "Good Guitarist",
+      "topics": ["song-repertoire"]
+    },
+    {
+      "id": "XZ8V57SWfNo",
+      "url": "https://www.youtube.com/watch?v=XZ8V57SWfNo",
+      "title": "\"Horse With No Name\" Easy 2-Chord Song | Learn Your First Song on Acoustic Guitar in 6 Easy Steps",
+      "channel": "Good Guitarist",
+      "topics": ["song-repertoire", "first-songs"]
+    },
+    {
+      "id": "lPVK7eI2dKY",
+      "url": "https://www.youtube.com/watch?v=lPVK7eI2dKY",
+      "title": "A Horse With No Name Easy Guitar Lesson | America",
+      "channel": "JustinGuitar Songs",
+      "topics": ["song-repertoire", "first-songs"]
+    },
+    {
+      "id": "cdkCB6czek8",
+      "url": "https://www.youtube.com/watch?v=cdkCB6czek8",
+      "title": "Easy Acoustic Guitar Songs EVERYONE Should Know How to Play!",
+      "channel": "Marty Music",
+      "topics": ["song-repertoire"]
+    },
+    {
+      "id": "uBZsLmmOz9I",
+      "url": "https://www.youtube.com/watch?v=uBZsLmmOz9I",
+      "title": "JustinGuitar Lesson 1 Practice Routine | Guitar for Beginners",
+      "channel": "JustinGuitar",
+      "topics": ["practice-routine"]
+    },
+    {
+      "id": "YnHo_L5d9YQ",
+      "url": "https://www.youtube.com/watch?v=YnHo_L5d9YQ",
+      "title": "Guitar Practice Routines for Module 8 | JustinGuitar Beginner Course",
+      "channel": "JustinGuitar",
+      "topics": ["practice-routine", "review-consolidation"]
+    },
+    {
+      "id": "Q3HC7gUTkNc",
+      "url": "https://www.youtube.com/watch?v=Q3HC7gUTkNc",
+      "title": "The 6 Guitar Areas You Should Be Practicing",
+      "channel": "JustinGuitar",
+      "topics": ["practice-routine"]
+    },
+    {
+      "id": "n-NeP6CTHTc",
+      "url": "https://www.youtube.com/watch?v=n-NeP6CTHTc",
+      "title": "JustinGuitar Beginners Course - Practice Routine Grade 1",
+      "channel": "JustinGuitar",
+      "topics": ["practice-routine", "review-consolidation"]
+    },
+    {
+      "id": "wZ15h9ryY5E",
+      "url": "https://www.youtube.com/watch?v=wZ15h9ryY5E",
+      "title": "Guitar Practice Routines for Lesson 4 | JustinGuitar Beginner Course",
+      "channel": "JustinGuitar",
+      "topics": ["review-consolidation", "practice-routine"]
+    },
+    {
+      "id": "376nQVlR7ug",
+      "url": "https://www.youtube.com/watch?v=376nQVlR7ug",
+      "title": "Beginner Guitar Play Along Loop: G, D, Em, C Chords | Practice and Improve Your Chord Transitions",
+      "channel": "Jack_Music_Classes",
+      "topics": ["review-consolidation", "chord-changes"]
+    },
+    {
+      "id": "JTEpHdERuN0",
+      "url": "https://www.youtube.com/watch?v=JTEpHdERuN0",
+      "title": "Guitar Practice: Warm up Play Along Routine for Beginners | Level 2",
+      "channel": "LeadCatPress",
+      "topics": ["review-consolidation"]
+    },
+    {
+      "id": "pcag-Wwi0n8",
+      "url": "https://www.youtube.com/watch?v=pcag-Wwi0n8",
+      "title": "Daily Guitar Practice Routine | 30 Minute Finger Workout for Beginners",
+      "channel": "Finger Gym",
+      "topics": ["review-consolidation", "practice-routine"]
+    }
+  ]
+}

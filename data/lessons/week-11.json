@@ -1,0 +1,421 @@
+{
+  "week": 11,
+  "days": [
+    {
+      "day": 71,
+      "week": 11,
+      "title": "Lead Guitar Begins: Pentatonic, Bottom Half",
+      "isReview": false,
+      "focus": "A minor pentatonic shape 1, strings 6-5-4",
+      "intro": "This week you learn the scale behind almost every guitar solo you've ever heard: the minor pentatonic. Today, just the bottom three strings of shape 1. Small bite, huge door opening.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Fret string 6 at fret 5 with your index, fret 6 with middle, fret 7 with ring, fret 8 with pinky — one finger per fret, picking each note. Do the same on string 5. This 'spider' sets up your hand position for the whole week."
+        },
+        {
+          "minutes": 5,
+          "title": "Learn the six notes",
+          "instructions": "String 6: frets 5 and 8 (index and pinky). String 5: frets 5 and 7 (index and ring). String 4: frets 5 and 7 (index and ring). Play them in order, low to high, slowly: 5-8, 5-7, 5-7. Say the fret numbers out loud as you go. The rule of this shape: index always takes fret 5."
+        },
+        {
+          "minutes": 4,
+          "title": "Alternate picking loop",
+          "instructions": "Play the six notes up and back down using strict alternate picking: down-up-down-up, even across string changes. Slow enough that every note rings clean and every pick stroke alternates. Ten full up-and-down passes."
+        },
+        {
+          "minutes": 4,
+          "title": "Memory test",
+          "instructions": "Look away from your fretting hand (or close your eyes) and play the six notes up and down from memory 5 times. Then start from the TOP note and descend first — this breaks rote memory and builds real knowledge. Finish with 2 passes as smooth and connected as you can make them."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "Am Pentatonic - Bottom 3 Strings",
+          "notes": [
+            { "string": 6, "fret": 5 },
+            { "string": 6, "fret": 8 },
+            { "string": 5, "fret": 5 },
+            { "string": 5, "fret": 7 },
+            { "string": 4, "fret": 5 },
+            { "string": 4, "fret": 7 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "puC7DZtSxEY",
+        "title": "Learn the Minor Pentatonic Scale for Guitar - Shape 1 Tutorial",
+        "channel": "Just 12 Notes"
+      },
+      "tips": [
+        "One finger per fret: index=5, middle=6, ring=7, pinky=8. It feels stretchy now, natural by Friday.",
+        "Fingertips right behind the frets — you need surprisingly little pressure up here."
+      ]
+    },
+    {
+      "day": 72,
+      "week": 11,
+      "title": "The Full Shape: All Six Strings",
+      "isReview": false,
+      "focus": "Complete A minor pentatonic shape 1, up and down",
+      "intro": "Yesterday you built the foundation; today you finish the house. Twelve notes, six strings, one shape — the same box B.B. King, Hendrix, and Clapton lived in. By the end of today you'll play it from memory.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up: bottom half",
+          "instructions": "Play yesterday's six notes (strings 6-5-4) up and down with alternate picking, 5 passes. Last 2 passes from memory, eyes off the fretboard."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn the top half",
+          "instructions": "String 3: frets 5 and 7 (index, ring). String 2: frets 5 and 8 (index, pinky). String 1: frets 5 and 8 (index, pinky). Note the shift: strings 2 and 1 use the PINKY at fret 8, like string 6. Play the top six notes up and down 8 times, slow and clean."
+        },
+        {
+          "minutes": 5,
+          "title": "Full shape, alternate picking",
+          "instructions": "Connect it: all 12 notes from low E fret 5 to high e fret 8, then back down, strict down-up picking throughout. The picking hand must not reset at string changes — keep alternating no matter what. Eight complete round trips, slower than you want, cleaner than you expect."
+        },
+        {
+          "minutes": 3,
+          "title": "Metronome push",
+          "instructions": "Set 60 bpm (or a steady foot tap) and play one note per click, full shape up and down without stopping. Clean twice in a row? Move to 80 bpm. The scale should start to sound like a smooth ribbon, not twelve separate events."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "Am Pentatonic Shape 1 (Full)",
+          "notes": [
+            { "string": 6, "fret": 5 },
+            { "string": 6, "fret": 8 },
+            { "string": 5, "fret": 5 },
+            { "string": 5, "fret": 7 },
+            { "string": 4, "fret": 5 },
+            { "string": 4, "fret": 7 },
+            { "string": 3, "fret": 5 },
+            { "string": 3, "fret": 7 },
+            { "string": 2, "fret": 5 },
+            { "string": 2, "fret": 8 },
+            { "string": 1, "fret": 5 },
+            { "string": 1, "fret": 8 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "vkCzYAsMgvE",
+        "title": "Minor Pentatonic Scale - Pattern 1 | Full Guitar Tutorial",
+        "channel": "DanBW Music"
+      },
+      "tips": [
+        "Only strings 5, 4, and 3 use the ring finger at fret 7 — everything else is index and pinky.",
+        "Every note in this shape sounds good over an Am chord. No wrong notes. Let that sink in."
+      ]
+    },
+    {
+      "day": 73,
+      "week": 11,
+      "title": "Your First Lick",
+      "isReview": false,
+      "focus": "Learning a lick and playing it in time",
+      "intro": "A scale is the alphabet; a lick is your first word. Today you learn a short, classic blues-rock phrase from the pentatonic box and — the real skill — play it in time.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up: the scale",
+          "instructions": "Full shape 1 up and down, alternate picking, 5 passes. Two of them from memory. This is your daily lead warm-up from now on."
+        },
+        {
+          "minutes": 5,
+          "title": "Learn Lick 1",
+          "instructions": "The notes: high e fret 5, high e fret 8, back to high e fret 5, then B string fret 8, ending on B string fret 5. Index takes every fret-5 note, pinky takes every fret-8 note. Play it dead slow 10 times until your fingers know the route without your eyes."
+        },
+        {
+          "minutes": 4,
+          "title": "Put it in time",
+          "instructions": "Count a slow '1 - 2 - 3 - 4' out loud and place one note per beat, letting the last note ring over beats 1-4 of the next bar. That long ending note is what makes it sound like music instead of an exercise. Ten repetitions in strict time."
+        },
+        {
+          "minutes": 3,
+          "title": "Lick over a groove",
+          "instructions": "Strum Am for one bar (4 downstrums), then play the lick over one bar of silence, then Am again — trading rhythm and lead with yourself. Five full trades. Notice the lick lands perfectly over Am: that's the pentatonic doing its job."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "Lick 1 - Classic Box Phrase",
+          "notes": [
+            { "string": 1, "fret": 5 },
+            { "string": 1, "fret": 8 },
+            { "string": 1, "fret": 5 },
+            { "string": 2, "fret": 8 },
+            { "string": 2, "fret": 5 }
+          ]
+        },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "Jc5b5rAWbFc",
+        "title": "5 Guitar Licks using the Minor Pentatonic Scale Position 1 - Lead Guitar Lesson",
+        "channel": "Ste Shaw"
+      },
+      "tips": [
+        "A lick played slowly IN TIME beats a fast sloppy one every single day.",
+        "Let the last note ring — silence and sustain are part of the phrase."
+      ]
+    },
+    {
+      "day": 74,
+      "week": 11,
+      "title": "Two More Licks, Then Link Them",
+      "isReview": false,
+      "focus": "Building a small lick vocabulary and chaining phrases",
+      "intro": "One lick is a party trick; three licks linked together is the start of a solo. Today you double your vocabulary and learn the glue: linking phrases without stopping the clock.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Scale up and down twice, then Lick 1 five times in time with a counted '1 - 2 - 3 - 4'. It should feel noticeably easier than yesterday."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn Lick 2 (the climber)",
+          "instructions": "B string fret 5, B string fret 8, then high e fret 5, high e fret 8, back to high e fret 5, ending on B string fret 8. It climbs up and settles back — play it slow 10 times, then 5 times counting four beats per bar with the last note held."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn Lick 3 (the growler)",
+          "instructions": "Down low: G string fret 5, G string fret 7, D string fret 5, D string fret 7, back to G string fret 5, end on G string fret 7. Same box, darker voice. Ten slow reps, then 5 in time. Notice how different it feels from the high licks — that contrast is a tool."
+        },
+        {
+          "minutes": 5,
+          "title": "Link all three",
+          "instructions": "Play Lick 1, hold its last note for a slow count of 2, then Lick 2, hold, then Lick 3. The held notes ARE the link — never rush them. Loop the chain 5 times, then reorder it (3, 1, 2) for 3 more. Congratulations: you just constructed a 30-second guitar solo."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "Lick 2 - The Climber",
+          "notes": [
+            { "string": 2, "fret": 5 },
+            { "string": 2, "fret": 8 },
+            { "string": 1, "fret": 5 },
+            { "string": 1, "fret": 8 },
+            { "string": 1, "fret": 5 },
+            { "string": 2, "fret": 8 }
+          ]
+        },
+        {
+          "type": "tab",
+          "name": "Lick 3 - The Growler",
+          "notes": [
+            { "string": 3, "fret": 5 },
+            { "string": 3, "fret": 7 },
+            { "string": 4, "fret": 5 },
+            { "string": 4, "fret": 7 },
+            { "string": 3, "fret": 5 },
+            { "string": 3, "fret": 7 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "XkzGuKIewos",
+        "title": "4 Easy & Tasty Starter Riffs for Soloing in Pentatonic Scale Pattern 1 (G Shape in CAGED)",
+        "channel": "Pow Music"
+      },
+      "tips": [
+        "Space between licks isn't dead air — it's phrasing. The best players leave the most room.",
+        "Name your licks anything you like; named licks stick in memory."
+      ]
+    },
+    {
+      "day": 75,
+      "week": 11,
+      "title": "Improvise: Three Notes, Your Rules",
+      "isReview": false,
+      "focus": "First improvisation with a limited palette",
+      "intro": "Today nobody tells you what to play. You'll take just three notes and make your own phrases. Limiting the palette is the secret: creativity loves a small box.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Scale up and down twice, then run your three licks once each in time. Fingers warm, box loaded."
+        },
+        {
+          "minutes": 3,
+          "title": "Choose your three notes",
+          "instructions": "Take these: high e fret 5, B string fret 8, B string fret 5. Play each one four ways — short and clipped, long and ringing, soft, loud. That's 12 different sounds from 3 notes. This is your entire vocabulary for today, and it's plenty."
+        },
+        {
+          "minutes": 5,
+          "title": "Question and answer",
+          "instructions": "Make a short phrase of 2-4 notes that ends feeling unfinished — that's your question. Answer it with a phrase ending on B string fret 5 (the home note — it always sounds resolved). Count a steady 4 beats per bar: question in bar 1, rest, answer in bar 2, rest. Do 10 question-answer pairs. Repeating yourself is allowed and encouraged — repetition is style."
+        },
+        {
+          "minutes": 5,
+          "title": "Improv session",
+          "instructions": "Keep a slow foot tap going and improvise freely with your 3 notes for 2 minutes straight — no stopping, rests welcome, mistakes recycled into the next phrase. Then allow yourself 2 bonus notes (G string frets 5 and 7) and go 2 more minutes. You are now officially improvising on guitar."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "Your 3-Note Palette (+2 Bonus)",
+          "notes": [
+            { "string": 1, "fret": 5 },
+            { "string": 2, "fret": 8 },
+            { "string": 2, "fret": 5 },
+            { "string": 3, "fret": 7 },
+            { "string": 3, "fret": 5 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "xJH21UfcgVU",
+        "title": "Your First Guitar Solo Lesson 1: Easiest Way to Start Soloing",
+        "channel": "Marty Music"
+      },
+      "tips": [
+        "When lost, land on B string fret 5 — it's home base and always resolves.",
+        "Sing a phrase, then find it on the strings. That's how the greats actually improvise."
+      ]
+    },
+    {
+      "day": 76,
+      "week": 11,
+      "title": "Two Hats: Rhythm and Lead Switching",
+      "isReview": false,
+      "focus": "Switching between strummed rhythm and lead lines",
+      "intro": "Real guitarists wear two hats — laying down chords one moment, stepping out for a lick the next. Today you train the switch itself: the two seconds where most players fall apart.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "One scale pass up and down, then strum Am and Em with Old Faithful for 2 bars each. Both hats on, both warm."
+        },
+        {
+          "minutes": 3,
+          "title": "Rhythm block",
+          "instructions": "Play 4 bars: Am, Am, Em, Am with Old Faithful, looped 3 times. Lock into the groove — this is the bed your licks will lie on. Keep the tempo modest; you'll need it again in a minute."
+        },
+        {
+          "minutes": 3,
+          "title": "Lead block",
+          "instructions": "Same tempo, same 4-bar length, but now play licks: Lick 1 in bars 1-2, Lick 3 in bars 3-4 (or improvise with your palette). Keep the foot tapping through the held notes. Three loops."
+        },
+        {
+          "minutes": 5,
+          "title": "The switch loop",
+          "instructions": "Now alternate: 4 bars rhythm, 4 bars lead, no gap between them. The hard part is the seam — your hand must leave the Am chord and land on fret 5 (and back) without dropping a beat. If the seam crumbles, slow everything down until it holds. Six full cycles."
+        },
+        {
+          "minutes": 2,
+          "title": "Clean-up pass",
+          "instructions": "One final cycle at your best tempo, treating it as a performance: groove committed, licks sung out, seams invisible. End on a big ringing Am."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] },
+        {
+          "type": "tab",
+          "name": "Lick 1 - Classic Box Phrase",
+          "notes": [
+            { "string": 1, "fret": 5 },
+            { "string": 1, "fret": 8 },
+            { "string": 1, "fret": 5 },
+            { "string": 2, "fret": 8 },
+            { "string": 2, "fret": 5 }
+          ]
+        },
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] }
+      ],
+      "youtube": {
+        "videoId": "fg1n_i-D7v0",
+        "title": "How to SOLO on GUITAR Lesson | Minor Pentatonic Position 1 (BOX 1)",
+        "channel": "Samjamguitar"
+      },
+      "tips": [
+        "During the last beat of a rhythm bar, your eyes should already be at fret 5 — look ahead, not at where you are.",
+        "This rhythm-lead switch is exactly what you'll do over the blues next week."
+      ]
+    },
+    {
+      "day": 77,
+      "week": 11,
+      "title": "Week 11 Review: You Play Lead Now",
+      "isReview": true,
+      "focus": "Consolidating the pentatonic scale, licks, and improvisation",
+      "intro": "Seven days ago you had never played a scale. Today you own a full pentatonic box, three licks, and your first improvised phrases. Light session — revisit, jam, and record the evidence.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up: the scale",
+          "instructions": "Full shape 1 up and down, 4 passes with alternate picking — 2 watching your hand, 2 from memory. Then once as fast as you can play it CLEANLY, just to see where the ceiling is today."
+        },
+        {
+          "minutes": 4,
+          "title": "Lick medley",
+          "instructions": "Play Licks 1, 2, and 3 in time, letting each final note breathe for 2 beats. Run the chain 3 times, then once in your favorite order. Pick the lick you love most — that one goes over the blues next week."
+        },
+        {
+          "minutes": 3,
+          "title": "Fun improv jam",
+          "instructions": "Two minutes of free improvisation in the box: your palette notes, your licks, your rests. Foot tapping, no judging, all phrases welcome. End on B string fret 5 and let it ring."
+        },
+        {
+          "minutes": 3,
+          "title": "Record 60 seconds",
+          "instructions": "Hit the Record button in the app and capture about 60 seconds: scale once up and down, then Lick 1, then 20 seconds of improvisation. Listen back once — you are audibly playing lead guitar, nine weeks and six days after your first note."
+        },
+        {
+          "minutes": 2,
+          "title": "Cool-down",
+          "instructions": "Strum the Am - Em loop softly with Old Faithful and hum any melody over it. Next week: the blues — where your rhythm and your new lead skills finally shake hands."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "Am Pentatonic Shape 1 (Full)",
+          "notes": [
+            { "string": 6, "fret": 5 },
+            { "string": 6, "fret": 8 },
+            { "string": 5, "fret": 5 },
+            { "string": 5, "fret": 7 },
+            { "string": 4, "fret": 5 },
+            { "string": 4, "fret": 7 },
+            { "string": 3, "fret": 5 },
+            { "string": 3, "fret": 7 },
+            { "string": 2, "fret": 5 },
+            { "string": 2, "fret": 8 },
+            { "string": 1, "fret": 5 },
+            { "string": 1, "fret": 8 }
+          ]
+        },
+        {
+          "type": "tab",
+          "name": "Lick 1 - Classic Box Phrase",
+          "notes": [
+            { "string": 1, "fret": 5 },
+            { "string": 1, "fret": 8 },
+            { "string": 1, "fret": 5 },
+            { "string": 2, "fret": 8 },
+            { "string": 2, "fret": 5 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "JTEpHdERuN0",
+        "title": "Guitar Practice: Warm up Play Along Routine for Beginners | Level 2",
+        "channel": "LeadCatPress"
+      },
+      "tips": [
+        "The pentatonic box moves: slide it to fret 3 and it's G minor, fret 7 and it's B minor. Same fingers, new key.",
+        "Keep this recording — day 90 you is going to want to hear it."
+      ]
+    }
+  ]
+}

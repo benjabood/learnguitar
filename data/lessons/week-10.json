@@ -1,0 +1,326 @@
+{
+  "week": 10,
+  "days": [
+    {
+      "day": 64,
+      "week": 10,
+      "title": "The F Chord, Step One: Fmaj7",
+      "isReview": false,
+      "focus": "Fmaj7 as the stepping stone to F",
+      "intro": "This week you conquer the chord that scares every beginner: F. You're 9 weeks in and your fingers are ready. Today you start with Fmaj7 — a gorgeous chord in its own right that builds the exact hand shape F needs.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Strum C, Am, G, and Em for 2 beats each, around and around. Keep your fretting hand loose — shake it out between rounds. This is about blood flow, not perfection."
+        },
+        {
+          "minutes": 4,
+          "title": "Build the Fmaj7 shape",
+          "instructions": "Place your index finger on string 2 fret 1, middle on string 3 fret 2, ring on string 4 fret 3. Leave the high e open, and don't strum the low E or A strings. Notice the shape: it's a C chord slid down one string set. Press, strum the top 4 strings, release, and rebuild the shape 10 times."
+        },
+        {
+          "minutes": 3,
+          "title": "String-by-string sound check",
+          "instructions": "Hold Fmaj7 and pick each of the top 4 strings one at a time. If a string buzzes or thuds, adjust that one finger: closer to the fret, more fingertip, thumb lower behind the neck. Fix, then check all 4 strings again. Do 5 full passes."
+        },
+        {
+          "minutes": 4,
+          "title": "Fmaj7 to C changes",
+          "instructions": "C and Fmaj7 are close cousins — your index and middle fingers barely move. Change between them slowly 20 times, watching what each finger does. Then set a timer for one minute and count your changes. Write the number down; you'll beat it tomorrow."
+        },
+        {
+          "minutes": 2,
+          "title": "Make music with it",
+          "instructions": "Play C for 4 slow strums, Fmaj7 for 4, and repeat until time is up. Let the Fmaj7 ring — it's a dreamy chord. You just played the hardest chord family on guitar, version one."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "Fmaj7", "frets": [-1, -1, 3, 2, 1, 0], "fingers": [0, 0, 3, 2, 1, 0] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "TZ4ITPLIzBc",
+        "title": "The F Maj7 Chord (Guitar Lesson BC-142) Guitar for beginners Stage 4",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Thumb low on the back of the neck gives your fingers the reach they need.",
+        "Fmaj7 is a real chord used in thousands of songs — this isn't just an exercise."
+      ]
+    },
+    {
+      "day": 65,
+      "week": 10,
+      "title": "The Small F: Your First Mini-Barre",
+      "isReview": false,
+      "focus": "4-string F with a first-finger mini-barre",
+      "intro": "Yesterday's Fmaj7 becomes a true F today. One change: your index finger now flattens across two strings at fret 1. That tiny barre is the doorway to every barre chord you'll ever play.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up with Fmaj7",
+          "instructions": "Rebuild yesterday's Fmaj7 five times from nothing, checking each string rings. Then do 10 slow C-to-Fmaj7 changes. Your hand should feel warmed up and familiar with the neighborhood."
+        },
+        {
+          "minutes": 5,
+          "title": "Learn the small F",
+          "instructions": "From Fmaj7, lay your index finger flat across BOTH string 1 and string 2 at fret 1. Middle stays on string 3 fret 2, ring on string 4 fret 3. Roll your index slightly onto its side — the bony edge presses better than the soft pad. Strum only the top 4 strings. Pick each string individually and fix buzzes one at a time."
+        },
+        {
+          "minutes": 4,
+          "title": "One-minute changes: Fmaj7 to F",
+          "instructions": "Alternate Fmaj7 and small F — the only move is the index finger flattening and lifting. Do it slowly 15 times, then set a one-minute timer and count changes. This trains the barre press without exhausting your hand."
+        },
+        {
+          "minutes": 4,
+          "title": "C - F - C loop",
+          "instructions": "Play C for 4 strums, small F for 4 strums, back to C. Keep the loop going even if the F is muddy — a rough F in rhythm beats a perfect F out of time. Aim for at least 8 clean-ish cycles."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "F (small)", "frets": [-1, -1, 3, 2, 1, 1], "fingers": [0, 0, 3, 2, 1, 1] },
+        { "type": "chord", "name": "Fmaj7", "frets": [-1, -1, 3, 2, 1, 0], "fingers": [0, 0, 3, 2, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "4cR1sa1_d_8",
+        "title": "The Easiest F Chord Guitar Lesson You'll Find :)",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "If your index hurts, press lighter — you need less force than you think when the finger is right behind the fret.",
+        "30 seconds of barre practice several times a day builds strength faster than one long grind."
+      ]
+    },
+    {
+      "day": 66,
+      "week": 10,
+      "title": "C to F: The Classic Change",
+      "isReview": false,
+      "focus": "Fast, reliable C-to-F chord changes",
+      "intro": "C to F is one of the most common changes in all of music — folk, pop, rock, everything. Today you drill it until it starts to feel automatic. This single change unlocks hundreds of songs.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Build the small F three times from nothing, checking all 4 strings ring. Then strum C, G, Am, F for 2 beats each, twice around, at a relaxed tempo."
+        },
+        {
+          "minutes": 4,
+          "title": "Anatomy of the move",
+          "instructions": "Go from C to F in slow motion. Your ring finger slides from string 5 fret 3 to string 4 fret 3 — it barely travels. Your middle finger hops from string 4 to string 3, same fret. Your index flattens from one string to two. Do 10 changes at half speed, narrating each finger's job out loud."
+        },
+        {
+          "minutes": 5,
+          "title": "One-minute changes x3",
+          "instructions": "Three rounds of one-minute changes between C and F, counting every landing. Rest 30 seconds between rounds and shake out your hand. Your week-2 self managed maybe 10 changes on easy chords — see what 9 weeks of work does here. Log your best round."
+        },
+        {
+          "minutes": 4,
+          "title": "Old Faithful on C and F",
+          "instructions": "Strum Old Faithful (D, D-U, U-D-U) on C for one bar, then F for one bar, and loop. Keep your strumming arm moving even while the chord change happens — a slightly late chord is fine, a stopped arm is not. Eight loops minimum."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] },
+        { "type": "chord", "name": "F (small)", "frets": [-1, -1, 3, 2, 1, 1], "fingers": [0, 0, 3, 2, 1, 1] },
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] }
+      ],
+      "youtube": {
+        "videoId": "8Rw6IBy1VSk",
+        "title": "STOP playing the F barre chord... play THIS",
+        "channel": "Andy Guitar"
+      },
+      "tips": [
+        "Keep your ring finger on fret 3 during the change — it's your anchor between C and F.",
+        "Count your one-minute changes today and again on day 70 to see the jump."
+      ]
+    },
+    {
+      "day": 67,
+      "week": 10,
+      "title": "The Full Barre F: Meet the Boss",
+      "isReview": false,
+      "focus": "Full F barre concept and barre strength builders",
+      "intro": "Today you meet the full six-string barre F. You will NOT master it today — nobody does — but you'll understand it, attempt it, and start the strength-building that makes it inevitable. Think of this as day one of a friendly siege.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Play 10 slow C-to-F changes with the small F from yesterday. Then stretch: spread your fretting fingers wide, hold 5 seconds, relax. Repeat 3 times."
+        },
+        {
+          "minutes": 4,
+          "title": "Build the full barre F",
+          "instructions": "Lay your index finger flat across ALL six strings at fret 1, close to the fret. Add middle on string 3 fret 2, ring on string 5 fret 3, pinky on string 4 fret 3. Strum once. Buzzy? Completely normal. Pick through the strings and notice WHICH ones fail — usually strings 1, 2, or 3 under the barre. Rebuild and try 5 times total."
+        },
+        {
+          "minutes": 4,
+          "title": "Partial barre builder",
+          "instructions": "Strip it back: barre ONLY strings 1 and 2 at fret 1 with your index and pick both strings until clean. Then barre strings 1-3 and repeat. Then 1-4. Stop wherever it breaks down — that's your current edge. Do 3 rounds of this ladder, resting 20 seconds between rounds."
+        },
+        {
+          "minutes": 3,
+          "title": "Cheat code: barre at fret 5",
+          "instructions": "Move the same full barre shape up to fret 5 (this makes an A chord). The frets are closer together and the string tension feels lighter, so the barre is easier here. Get it ringing at fret 5, then walk it down: fret 4, 3, 2, 1. Notice where it falls apart — that's your progress marker."
+        },
+        {
+          "minutes": 2,
+          "title": "Choose your F",
+          "instructions": "Play one clean small F, one Fmaj7, and one full-barre attempt back to back. In songs this week, use the small F — the barre is your gym exercise, not your gig chord yet. End on a chord that sounds good."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "F (full barre)", "frets": [1, 3, 3, 2, 1, 1], "fingers": [1, 3, 4, 2, 1, 1] },
+        { "type": "chord", "name": "F (small)", "frets": [-1, -1, 3, 2, 1, 1], "fingers": [0, 0, 3, 2, 1, 1] }
+      ],
+      "youtube": {
+        "videoId": "DcIXL7IU7Ko",
+        "title": "3 F Chord Variations You Need to Know",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Elbow tucked in toward your ribs adds barre pressure for free.",
+        "If your hand aches, stop and shake it out — barre strength grows between sessions, not during pain.",
+        "Every guitarist you admire once buzzed on this exact chord."
+      ]
+    },
+    {
+      "day": 68,
+      "week": 10,
+      "title": "F in the Wild: C - Am - F - G",
+      "isReview": false,
+      "focus": "Using F inside a real progression",
+      "intro": "C - Am - F - G is one of the most-used progressions of the last 70 years — doo-wop, pop, punk, everything. Today F stops being an exercise and becomes part of the music.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up the changes",
+          "instructions": "Ten slow changes each: C to Am, Am to F, F to G. The Am-to-F change is the sneaky one — your index slides from fret 1 string 2 to flatten across strings 1 and 2, and your ring finger drops to string 4. Give it extra slow-motion reps."
+        },
+        {
+          "minutes": 4,
+          "title": "Loop it slowly",
+          "instructions": "Play C, Am, F, G with 4 downstrums each, around and around, at a tempo where you never have to stop. If F keeps derailing you, pause the loop and do 5 isolated Am-to-F changes, then rejoin. Complete at least 8 full loops."
+        },
+        {
+          "minutes": 4,
+          "title": "Add Old Faithful",
+          "instructions": "Same progression, one bar of Old Faithful per chord. The up-strums are where changes get dropped — remember you can strum fewer strings on beat 4 while your fingers start moving. Six loops, arm never stops."
+        },
+        {
+          "minutes": 4,
+          "title": "Speed push",
+          "instructions": "Set a metronome (or steady foot tap) around 70 bpm and run the progression with one strum per beat, changing every 4 beats. If you complete 4 clean loops, nudge to 80 bpm. Finish with one loop where you sing or hum any melody over the top — this progression fits almost everything."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "F (small)", "frets": [-1, -1, 3, 2, 1, 1], "fingers": [0, 0, 3, 2, 1, 1] },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] },
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] }
+      ],
+      "youtube": {
+        "videoId": "J_xZ5h_Yb4s",
+        "title": "One minute Changes (Guitar Lesson BC-162) Guitar for beginners Stage 6",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Am and F share the index-finger region at fret 1 — keep it low and close during the change.",
+        "This progression is 'Stand By Me', 'Every Breath You Take', and hundreds more. You now play it."
+      ]
+    },
+    {
+      "day": 69,
+      "week": 10,
+      "title": "Song Day: Play It with F",
+      "isReview": false,
+      "focus": "A full song play-along featuring the F chord",
+      "intro": "Time to cash in the week's work. Today you play a real song that uses F, start to finish. Rough edges are welcome — finishing the song is the win.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Run C - Am - F - G twice with Old Faithful, then do 10 quick C-to-F changes. Hands warm, F loaded and ready."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn the song's map",
+          "instructions": "Watch the video and pick a song built on C, G, Am, and F. Write the chord order for verse and chorus on paper — usually 4 chords repeating. Play through the sequence once with single strums, no rhythm, just landing every chord."
+        },
+        {
+          "minutes": 6,
+          "title": "Full play-along",
+          "instructions": "Play the whole song with the video at full speed using Old Faithful or simple downstrums — your choice per section. When F comes, commit: even a half-clean F on time keeps the song alive. Do not stop for mistakes; the song keeps moving and so do you."
+        },
+        {
+          "minutes": 3,
+          "title": "Trouble-spot loop",
+          "instructions": "Pick the one change that broke down most — probably into or out of F. Loop just those two bars 10 times slowly, then 5 times at song speed. Finish by playing the chorus once more, better than the first time."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "F (small)", "frets": [-1, -1, 3, 2, 1, 1], "fingers": [0, 0, 3, 2, 1, 1] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] },
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] }
+      ],
+      "youtube": {
+        "videoId": "cdkCB6czek8",
+        "title": "Easy Acoustic Guitar Songs EVERYONE Should Know How to Play!",
+        "channel": "Marty Music"
+      },
+      "tips": [
+        "If a full bar of F is too much, hit F on beat 1 and let it ring — presence beats perfection.",
+        "Songs with F you can now attempt: 'Let It Be', 'Hey Jude', 'Hallelujah'."
+      ]
+    },
+    {
+      "day": 70,
+      "week": 10,
+      "title": "Week 10 Review: F Conquered",
+      "isReview": true,
+      "focus": "Consolidating all three F voicings and the week's progressions",
+      "intro": "Ten weeks down. Seven days ago F was a monster; today it's a chord you own in two sizes with a third on layaway. Light session: revisit, play, and record the proof.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Strum through C, Am, F, G with 4 downstrums each, twice around. Loose wrist, easy tempo, no pressure."
+        },
+        {
+          "minutes": 4,
+          "title": "The F ladder",
+          "instructions": "Play Fmaj7 (4 strums), small F (4 strums), then one full-barre F attempt. Climb the ladder 4 times. Compare today's barre attempt to day 67 — even one extra ringing string is real progress. Then do one minute of C-to-F changes and compare your count to day 66."
+        },
+        {
+          "minutes": 4,
+          "title": "Fun play-along",
+          "instructions": "Run C - Am - F - G with Old Faithful like it's a performance: 8 loops, dynamics welcome — strum softer on Am, dig in on G. If you learned a song yesterday, play its chorus twice instead. Enjoy this; you earned it."
+        },
+        {
+          "minutes": 3,
+          "title": "Record 60 seconds",
+          "instructions": "Hit the Record button in the app and record about 60 seconds: the F ladder once, then the C - Am - F - G loop with Old Faithful. Listen back once. That F you hear? Week-1 you would not believe it."
+        },
+        {
+          "minutes": 2,
+          "title": "Victory lap",
+          "instructions": "Play anything you like for 2 minutes — old song, favorite riff, or just F ringing out. Next week you learn to play lead guitar. Yes, really."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "Fmaj7", "frets": [-1, -1, 3, 2, 1, 0], "fingers": [0, 0, 3, 2, 1, 0] },
+        { "type": "chord", "name": "F (small)", "frets": [-1, -1, 3, 2, 1, 1], "fingers": [0, 0, 3, 2, 1, 1] },
+        { "type": "chord", "name": "F (full barre)", "frets": [1, 3, 3, 2, 1, 1], "fingers": [1, 3, 4, 2, 1, 1] }
+      ],
+      "youtube": {
+        "videoId": "n-NeP6CTHTc",
+        "title": "JustinGuitar Beginners Course - Practice Routine Grade 1",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Keep doing 30 seconds of barre practice daily — full barre F typically clicks within a few weeks.",
+        "Recordings are your progress diary; you'll replay this one on day 90."
+      ]
+    }
+  ]
+}

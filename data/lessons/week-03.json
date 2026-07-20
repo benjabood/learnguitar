@@ -1,0 +1,418 @@
+{
+  "week": 3,
+  "days": [
+    {
+      "day": 15,
+      "week": 3,
+      "title": "One-Minute Changes: Every Pair",
+      "isReview": false,
+      "focus": "Fast, relaxed changes between all three chord pairs",
+      "intro": "Week 3 is where your chords turn into songs — and the gateway is change speed. Today you drill every pair, including the one you've never timed: E to D. Keep your score log handy; the numbers are about to become your favorite motivator.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Tune and shape check",
+          "instructions": "Tune up, then build E, A, and D once each with a quick string-by-string check. Clean shapes before fast shapes."
+        },
+        {
+          "minutes": 4,
+          "title": "One-minute changes: E-A",
+          "instructions": "Set a 60-second timer and count your E-A changes, one strum per chord. Do 2 rounds with a 30-second rest between and log the better score. Remember the drill rules: scrappy chords count, stopping doesn't."
+        },
+        {
+          "minutes": 4,
+          "title": "One-minute changes: A-D",
+          "instructions": "Same drill for A-D: 2 rounds of 60 seconds, log the best. Keep your index finger's short hop in mind — smallest possible travel. Shake out your hand between rounds."
+        },
+        {
+          "minutes": 3,
+          "title": "One-minute changes: E-D",
+          "instructions": "New pair: E to D, the biggest shape change of the three. Do one slow-motion round trip 5 times to map the route, then one 60-second scored round. Expect a lower score than the other pairs — that's normal and it climbs fast."
+        },
+        {
+          "minutes": 2,
+          "title": "Air changes",
+          "instructions": "Finish with air changes: form each chord shape but only touch the strings, without pressing or strumming — E, A, D, over and over. This trains pure finger memory with zero fingertip cost. Do 10 relaxed cycles."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "chord",
+          "name": "E",
+          "frets": [0, 2, 2, 1, 0, 0],
+          "fingers": [0, 2, 3, 1, 0, 0]
+        },
+        {
+          "type": "chord",
+          "name": "A",
+          "frets": [-1, 0, 2, 2, 2, 0],
+          "fingers": [0, 0, 1, 2, 3, 0]
+        },
+        {
+          "type": "chord",
+          "name": "D",
+          "frets": [-1, -1, 0, 2, 3, 2],
+          "fingers": [0, 0, 0, 1, 3, 2]
+        }
+      ],
+      "youtube": {
+        "videoId": "LXXFzXT-pQQ",
+        "title": "Chord Combinations - One Minute Changes - Stage 2 Guitar Lesson - Guitar For Beginners [BC-124]",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Air changes are perfect for TV time — silent reps that still build speed.",
+        "Track all three pair scores separately. The weakest pair gets tomorrow's first minute."
+      ]
+    },
+    {
+      "day": 16,
+      "week": 3,
+      "title": "Downstrums Through a Progression",
+      "isReview": false,
+      "focus": "Keeping a steady all-downstrum pattern through chord changes",
+      "intro": "Today you play your first real chord progression — A to D to E, the sequence behind hundreds of classic songs. The mission: keep the strumming arm moving like clockwork no matter what the fretting hand is doing.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Tune and change warm-up",
+          "instructions": "Tune up, then give your weakest chord pair from yesterday one 60-second round of one-minute changes. Log it."
+        },
+        {
+          "minutes": 4,
+          "title": "Groove on one chord",
+          "instructions": "Hold A and strum quarter-note downstrums — '1, 2, 3, 4' — for 8 bars without stopping. Focus on making every strum the same volume and length; imagine a drummer you have to stay glued to. Repeat on D, then E."
+        },
+        {
+          "minutes": 5,
+          "title": "The progression: A - D - E - A",
+          "instructions": "Play 4 downstrums on A, 4 on D, 4 on E, 4 on A, then loop. Count out loud and change during the sliver of time after beat 4 — if the chord lands late, let it, but never let the count stall. Do 6 full loops slowly."
+        },
+        {
+          "minutes": 3,
+          "title": "Smooth the seams",
+          "instructions": "Find your roughest change in the loop and play just that seam — last strum of one chord into first strum of the next — 10 times. Then run the whole progression twice more and hear how much smoother it flows."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "strum",
+          "name": "All Downstrums",
+          "beats": ["D", "", "D", "", "D", "", "D", ""]
+        },
+        {
+          "type": "chord",
+          "name": "A",
+          "frets": [-1, 0, 2, 2, 2, 0],
+          "fingers": [0, 0, 1, 2, 3, 0]
+        }
+      ],
+      "youtube": {
+        "videoId": "ely9LaJJJr4",
+        "title": "Beginner Strumming Patterns For Acoustic Guitar Pattern 1 - Beginner Guitar Lessons",
+        "channel": "Marty Music"
+      },
+      "tips": [
+        "Your strumming arm is the metronome. It never waits for the fretting hand.",
+        "If you must slow down, slow the WHOLE loop — never just the changes."
+      ]
+    },
+    {
+      "day": 17,
+      "week": 3,
+      "title": "Your First Up-Strum: D DU",
+      "isReview": false,
+      "focus": "Adding up-strums for the D DU pattern",
+      "intro": "Downstrums keep time; up-strums make it groove. Today you learn the D DU pattern — down, down-up — and your playing instantly stops sounding like an exercise and starts sounding like a song.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Tune and downstrum warm-up",
+          "instructions": "Tune up, then strum 4 bars of quarter-note downstrums on A to lock in your steady arm."
+        },
+        {
+          "minutes": 4,
+          "title": "The up-strum motion",
+          "instructions": "On the way back up from a downstrum, let the pick brush just the thinnest 3 or 4 strings — an up-strum is a light flick, not a full sweep. Hold A and alternate: down, up, down, up, counting '1 and 2 and.' Keep the pick loose in your grip; up-strums snag when you grip tight. Do 8 slow bars."
+        },
+        {
+          "minutes": 5,
+          "title": "The D DU pattern on one chord",
+          "instructions": "Now the pattern: down on beat 1, down on beat 2, up on the 'and' after 2 — 'down, down-up' — then repeat for beats 3 and 4. Count 'ONE, TWO and THREE, FOUR and' out loud. Play 8 bars on A, then 8 on E. Keep the arm swinging down-up continuously, even when the pick skips the strings."
+        },
+        {
+          "minutes": 4,
+          "title": "D DU through the progression",
+          "instructions": "Take yesterday's A - D - E - A loop and play one bar of D DU per chord. Slow it right down — pattern plus changes is a genuine step up. Get through 4 loops; wobbly is expected today, and it will feel dramatically easier by day 19."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "strum",
+          "name": "D DU Pattern (Down, Down-Up)",
+          "beats": ["D", "", "D", "U", "D", "", "D", "U"]
+        },
+        {
+          "type": "chord",
+          "name": "A",
+          "frets": [-1, 0, 2, 2, 2, 0],
+          "fingers": [0, 0, 1, 2, 3, 0]
+        }
+      ],
+      "youtube": {
+        "videoId": "IXL1bG_ao3c",
+        "title": "Easy Strumming Patterns With Up Strums | Guitar for Beginners",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Up-strums only need the thin strings — catching all 6 is what makes them sound clunky.",
+        "Keep the arm moving down-up constantly like a pendulum; the pattern comes from when you make contact.",
+        "Say the pattern out loud while playing: 'down, down-up, down, down-up.'"
+      ]
+    },
+    {
+      "day": 18,
+      "week": 3,
+      "title": "The 12-Bar Jam: A, D and E",
+      "isReview": false,
+      "focus": "Playing a 12-bar blues-style progression with your three chords",
+      "intro": "Your three chords have a famous home: the 12-bar blues, the most-played progression in popular music. Learn this map once and you can jam with literally any musician on the planet. Today you play the whole thing, start to finish.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Tune and pattern warm-up",
+          "instructions": "Tune up, then play 4 bars of the D DU pattern on A and 4 on E. Steady count, relaxed arm."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn the 12-bar map",
+          "instructions": "The progression is 12 bars, 4 beats each: 4 bars of A, 2 bars of D, 2 bars of A, 1 bar of E, 1 bar of D, 2 bars of A. Say it out loud from memory twice: 'four A, two D, two A, one E, one D, two A.' Then air-change through the whole sequence once, counting 4 beats per bar without strumming."
+        },
+        {
+          "minutes": 5,
+          "title": "Play it with downstrums",
+          "instructions": "Play the full 12 bars with simple quarter-note downstrums, 4 per bar, counting out loud. Keep going even if a change lands late — in a 12-bar the form matters more than any single chord. Aim for 3 complete cycles. Notice how the E bar feels like the climax; that's the blues doing its thing."
+        },
+        {
+          "minutes": 3,
+          "title": "Level up the strumming",
+          "instructions": "Play one more full 12-bar cycle using the D DU pattern on any bars where you feel steady, dropping back to downstrums whenever you need to. Finish on one long final A strum."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "chord",
+          "name": "A",
+          "frets": [-1, 0, 2, 2, 2, 0],
+          "fingers": [0, 0, 1, 2, 3, 0]
+        },
+        {
+          "type": "chord",
+          "name": "D",
+          "frets": [-1, -1, 0, 2, 3, 2],
+          "fingers": [0, 0, 0, 1, 3, 2]
+        },
+        {
+          "type": "chord",
+          "name": "E",
+          "frets": [0, 2, 2, 1, 0, 0],
+          "fingers": [0, 2, 3, 1, 0, 0]
+        }
+      ],
+      "youtube": {
+        "videoId": "XFuXLSIYH7s",
+        "title": "12 Bar Blues Lesson For Beginners",
+        "channel": "Marty Music"
+      },
+      "tips": [
+        "Memorize the map away from the guitar — recite it while making coffee.",
+        "Losing your place is part of learning the form. Just jump back in at the next A."
+      ]
+    },
+    {
+      "day": 19,
+      "week": 3,
+      "title": "Play Your First Real Song",
+      "isReview": false,
+      "focus": "Playing a full 3-chord song along with the video",
+      "intro": "This is the day it all pays off: a real, complete song using A, D, and E. Nineteen days ago you couldn't hold a pick — today you play along with an actual song, start to finish. Enjoy every second of this one.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Tune and warm up the changes",
+          "instructions": "Tune carefully — you're playing along with a video today, so being in tune matters extra. Then do one 60-second round of one-minute changes on your weakest pair."
+        },
+        {
+          "minutes": 3,
+          "title": "Preview the song",
+          "instructions": "Watch the first couple of minutes of today's video to hear the song and its chord sequence. Air-change along with it — shapes only, no strumming — so your hands learn the order before the pressure is on."
+        },
+        {
+          "minutes": 6,
+          "title": "Play along",
+          "instructions": "Play through the song with the video, using downstrums or the D DU pattern — whichever lets you keep up. Golden rule: never stop. If you lose a chord, keep strumming muted strings and rejoin at the next change. Get through the song at least twice."
+        },
+        {
+          "minutes": 3,
+          "title": "Fix one trouble spot",
+          "instructions": "Pick the one change or section that tripped you most and loop just that part 8 times slowly. Then play one final pass of the song and hear the fix land. That's a complete song in your hands — day 19 of 90."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "chord",
+          "name": "A",
+          "frets": [-1, 0, 2, 2, 2, 0],
+          "fingers": [0, 0, 1, 2, 3, 0]
+        },
+        {
+          "type": "chord",
+          "name": "D",
+          "frets": [-1, -1, 0, 2, 3, 2],
+          "fingers": [0, 0, 0, 1, 3, 2]
+        },
+        {
+          "type": "strum",
+          "name": "D DU Pattern (Down, Down-Up)",
+          "beats": ["D", "", "D", "U", "D", "", "D", "U"]
+        }
+      ],
+      "youtube": {
+        "videoId": "p5Ln39q8cj4",
+        "title": "Super EASY 3 Chord Songs using A, D, E | Guitar for Beginners",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Playing along with recordings is the fastest rhythm trainer there is — do it often.",
+        "Songs hide the practice. Ten play-throughs equals hundreds of chord changes without noticing."
+      ]
+    },
+    {
+      "day": 20,
+      "week": 3,
+      "title": "Speed and Accuracy Day",
+      "isReview": false,
+      "focus": "Pushing change speed, tightening strumming, and recapping your riffs",
+      "intro": "Today is a friendly competition with yourself: beat your change scores, tighten your strumming, and dust off the week-1 riffs to see how absurdly easy they feel now. Everything gets measured, nothing new gets learned.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Tune and loosen up",
+          "instructions": "Tune up and play 4 bars of D DU on A, nice and relaxed. Shake out both hands."
+        },
+        {
+          "minutes": 4,
+          "title": "Beat your scores",
+          "instructions": "One 60-second round each of E-A and A-D one-minute changes, going for personal bests. Check your log from days 10, 12, and 15 — most players have roughly doubled by now. Write down today's numbers."
+        },
+        {
+          "minutes": 4,
+          "title": "Strumming accuracy drill",
+          "instructions": "Play the A - D - E - A progression with the D DU pattern, one bar per chord, at a deliberately slow tempo where every strum is clean and even. Do 4 loops. Then do 2 loops slightly faster — only as fast as it stays tidy."
+        },
+        {
+          "minutes": 3,
+          "title": "Riff recap",
+          "instructions": "Play Seven Nation Army twice and the Come As You Are riff twice. Two weeks ago these were your Everest; now they're your warm-down. Notice how much lighter your fretting hand feels."
+        },
+        {
+          "minutes": 2,
+          "title": "Victory loop",
+          "instructions": "One last easy pass: the three-chord progression with whatever strumming feels best, just for the fun of it. End on a big open E and let it ring out."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "strum",
+          "name": "D DU Pattern (Down, Down-Up)",
+          "beats": ["D", "", "D", "U", "D", "", "D", "U"]
+        },
+        {
+          "type": "tab",
+          "name": "Seven Nation Army (One String)",
+          "notes": [
+            { "string": 5, "fret": 7 },
+            { "string": 5, "fret": 7 },
+            { "string": 5, "fret": 10 },
+            { "string": 5, "fret": 7 },
+            { "string": 5, "fret": 5 },
+            { "string": 5, "fret": 3 },
+            { "string": 5, "fret": 2 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "McSfLPmXcLw",
+        "title": "A, D, and E - Easy Chord Changes Using Anchor Fingers",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Speed is a side effect of relaxed accuracy — chase clean, and fast shows up on its own.",
+        "A score that didn't improve today just means it improves tomorrow. The trend is what matters."
+      ]
+    },
+    {
+      "day": 21,
+      "week": 3,
+      "title": "Week 3 Review: You're Playing Music Now",
+      "isReview": true,
+      "focus": "Consolidating chords, changes, and strumming — plus recording number three",
+      "intro": "Three weeks, twenty-one straight days, three chords, two riffs, one real song. Today you take it easy, play the good stuff, and record the proof. This is the recording where most people first hear an actual guitarist coming through.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Tune and easy strums",
+          "instructions": "Tune up and play 4 relaxed bars of D DU on any chord you like. No pressure today — this session is a lap of honor."
+        },
+        {
+          "minutes": 4,
+          "title": "Chord and change review",
+          "instructions": "Build E, A, and D with one string-by-string check each. Then do one 60-second round of one-minute changes on whichever pair had the lowest score this week, and log it."
+        },
+        {
+          "minutes": 4,
+          "title": "Play-along fun",
+          "instructions": "Play the 12-bar blues from day 18 twice through with downstrums, then run the A - D - E - A loop with the D DU pattern. If it's going well, put on today's practice-routine video and jam along with any part of it."
+        },
+        {
+          "minutes": 3,
+          "title": "Record your 60 seconds",
+          "instructions": "Hit the Record button in the app and play about 60 seconds of your best material — the three-chord progression with D DU strumming, or a pass of the 12-bar. One take, no restarts. Then listen back alongside your day-7 and day-14 recordings and hear three weeks of progress stacked up."
+        },
+        {
+          "minutes": 2,
+          "title": "Look ahead",
+          "instructions": "Finish with one clean, ringing strum of each chord: E, A, D. Next week you'll add new chords and unlock a much bigger pile of songs — the hard-won foundation is done. See you on day 22."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "strum",
+          "name": "D DU Pattern (Down, Down-Up)",
+          "beats": ["D", "", "D", "U", "D", "", "D", "U"]
+        },
+        {
+          "type": "chord",
+          "name": "A",
+          "frets": [-1, 0, 2, 2, 2, 0],
+          "fingers": [0, 0, 1, 2, 3, 0]
+        },
+        {
+          "type": "chord",
+          "name": "D",
+          "frets": [-1, -1, 0, 2, 3, 2],
+          "fingers": [0, 0, 0, 1, 3, 2]
+        }
+      ],
+      "youtube": {
+        "videoId": "wZ15h9ryY5E",
+        "title": "Guitar Practice Routines for Lesson 4 | JustinGuitar Beginner Course",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Twenty-one days is the classic habit threshold — you've crossed it. This is who you are now.",
+        "Save all three recordings somewhere safe. Day-90 you will want to hear them."
+      ]
+    }
+  ]
+}

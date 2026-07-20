@@ -1,0 +1,284 @@
+{
+  "week": 13,
+  "days": [
+    {
+      "day": 85,
+      "week": 13,
+      "title": "Graduation Week: Polish Your Best Song",
+      "isReview": false,
+      "focus": "Taking your strongest song from good to performance-ready",
+      "intro": "Welcome to graduation week — six days of turning 84 days of work into performances you're proud of. Today: pick your single best song and polish it end to end, the way a pro preps for a show.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Strum G, C, D, Em, Am, and F for 2 beats each, twice around, then 30 seconds of one-minute-change style switching between the two chords your song uses most."
+        },
+        {
+          "minutes": 5,
+          "title": "Pick it and play it through",
+          "instructions": "Choose the song you play best — the one you'd play if someone handed you a guitar at a party. Play it start to finish ONCE with no stops, exactly as if an audience were listening. While playing, mentally flag the single worst moment. Don't fix anything yet; just finish."
+        },
+        {
+          "minutes": 5,
+          "title": "Fix the worst ten seconds",
+          "instructions": "Go to the moment you flagged — a chord change, a strumming stumble, a lyric-timing tangle. Isolate just those 2 bars and loop them 10 times at half speed, then 5 times at full speed. Then splice it back in: play from 4 bars before the trouble spot through 4 bars after, 3 times."
+        },
+        {
+          "minutes": 3,
+          "title": "Final run-through",
+          "instructions": "One more full performance, beginning to end. Aim for the version you'd want someone to hear. Notice the difference from the first run — that's what 13 minutes of smart practice does, and you now know how to do it to any song forever."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] },
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] }
+      ],
+      "youtube": {
+        "videoId": "53SP2n3DSYA",
+        "title": "Knockin on Heaven's Door - Bob Dylan [PERFECT Beginner Guitar Lesson Tutorial]",
+        "channel": "The Stellar Guitarist"
+      },
+      "tips": [
+        "Pros don't practice whole songs on repeat — they surgically fix the worst 10 seconds. Now you do too.",
+        "Keep this song loaded all week; it's a candidate for your day 90 finale."
+      ]
+    },
+    {
+      "day": 86,
+      "week": 13,
+      "title": "Chord-Change Mastery Check",
+      "isReview": false,
+      "focus": "One-minute changes on your five hardest pairs vs. your old numbers",
+      "intro": "Back in week 2 you counted chord changes per minute and the numbers were humbling. Today you rematch your five hardest pairs — and watch 12 weeks of work show up in cold, hard digits.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Gentle strums through every chord family you know: G, C, D, A, E, Em, Am, Dm, F, A7, D7, E7 — one bar each. No timing, just waking up every shape."
+        },
+        {
+          "minutes": 2,
+          "title": "Pick your five pairs",
+          "instructions": "Choose the 5 changes that have fought you hardest. Classic candidates: C to F, G to F, Am to F, C to D7, G to B-side barre attempts. Write the 5 pairs down with space for a number next to each. If you logged week-2 scores in the app, pull them up now."
+        },
+        {
+          "minutes": 4,
+          "title": "Pairs 1 and 2, one minute each",
+          "instructions": "Set a one-minute timer per pair. Change back and forth as many times as you can with CLEAN landings — a buzzing flop doesn't count. Rest 30 seconds between pairs, shake out your hand, write down each score."
+        },
+        {
+          "minutes": 4,
+          "title": "Pairs 3 and 4, one minute each",
+          "instructions": "Same drill, same honesty. Between rounds, do the change twice in slow motion to remind your fingers of the efficient route — then go. Log both numbers."
+        },
+        {
+          "minutes": 3,
+          "title": "Pair 5, then the rematch review",
+          "instructions": "Final pair, one minute, full effort. Now line up today's 5 numbers against your week-2 records (or your memory of them). Typical result: 2-3x improvement. Circle your weakest pair — give it 60 seconds a day this week and it will fall like all the others did."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "F (small)", "frets": [-1, -1, 3, 2, 1, 1], "fingers": [0, 0, 3, 2, 1, 1] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] },
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] }
+      ],
+      "youtube": {
+        "videoId": "Ck73R_GjowE",
+        "title": "One Minute Changes (Guitar Lesson BC-134) Guitar for beginners Stage 3",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Only clean landings count — honest numbers are the ones that motivate.",
+        "30+ changes per minute means a pair is song-ready at almost any tempo."
+      ]
+    },
+    {
+      "day": 87,
+      "week": 13,
+      "title": "Medley Day: Strumming Meets Fingerpicking",
+      "isReview": false,
+      "focus": "Recapping both right-hand skills in one flowing medley",
+      "intro": "Your right hand learned two languages in 90 days: the strum and the fingerpick. Today you speak both in one sitting — and finish by playing a single song both ways, which sounds twice as impressive as it is difficult.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Strum Am with Old Faithful for 4 bars, then rest your thumb on string 5 and fingers on strings 3, 2, 1 and pluck each once, slowly, 4 times through. Both hands greeted."
+        },
+        {
+          "minutes": 4,
+          "title": "Strumming recap",
+          "instructions": "Run Old Faithful over C - Am - F - G for 4 loops. Then vary it: one loop of all downstrums, one loop adding an extra up on 'and of 4'. Feel how you can now bend a pattern without losing the groove — that flexibility IS strumming mastery."
+        },
+        {
+          "minutes": 4,
+          "title": "Fingerpicking recap",
+          "instructions": "On Am: thumb plucks string 5, then index on string 3, middle on string 2, ring on string 1 — p-i-m-a, one note per beat. Four bars on Am, four on C (thumb moves to string 5), four on Em (thumb to string 6). Keep it soft and even; let every note ring into the next."
+        },
+        {
+          "minutes": 5,
+          "title": "The medley",
+          "instructions": "Pick one song section you know well — a verse of yesterday's song works. Play it once strummed with Old Faithful, then immediately again fingerpicked with p-i-m-a on the same chords. No pause between versions; the switch is the trick. Twice through the pair. This 'same song, two textures' move is a crowd favorite forever."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "Am Fingerpicking Pattern (p-i-m-a)",
+          "notes": [
+            { "string": 5, "fret": 0 },
+            { "string": 3, "fret": 2 },
+            { "string": 2, "fret": 1 },
+            { "string": 1, "fret": 0 }
+          ]
+        },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] },
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] }
+      ],
+      "youtube": {
+        "videoId": "2WB8otOcz78",
+        "title": "Finger Style For Beginners. Start Here.",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Fingerpicking rule of thumb: thumb owns strings 6-5-4, fingers own 3-2-1.",
+        "Quiet fingerpicked verse into big strummed chorus — steal this arrangement trick for day 90."
+      ]
+    },
+    {
+      "day": 88,
+      "week": 13,
+      "title": "Showcase: Record Yourself, Then Time-Travel",
+      "isReview": false,
+      "focus": "Recording a full song and comparing it to your earliest recordings",
+      "intro": "Today you make the recording that proves everything. A full song, captured properly — then the fun part: listening to it side by side with the shaky clips you made in weeks 1 and 2. Prepare to be genuinely shocked.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Two minutes on the song you polished on day 85: the intro once, the hardest change 10 times, the ending once. Targeted, not exhaustive — save the performance for the tape."
+        },
+        {
+          "minutes": 4,
+          "title": "Rehearsal take",
+          "instructions": "Play the full song once as a dress rehearsal. Decide your tempo (slightly slower than your maximum is the pro move), your dynamics (where you play soft, where you dig in), and exactly how you'll end it. A planned ending — one big final strum, let it ring — makes any recording sound finished."
+        },
+        {
+          "minutes": 5,
+          "title": "Record the full song",
+          "instructions": "Hit the Record button in the app and play the whole song, start to finish, one take. Mistakes stay in — every great live album has them. If the wheels completely fall off in the first 20 seconds you get ONE restart, otherwise finish what you start. Stop the recording, breathe, and save it."
+        },
+        {
+          "minutes": 4,
+          "title": "Listen back — 90 days apart",
+          "instructions": "Play today's recording once all the way through. Then open your earliest recordings from weeks 1-2 and play one. Listen for what changed: chords ring instead of buzz, the rhythm breathes, the changes are invisible. Write down the single biggest difference you hear — that sentence is your 90-day story."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] },
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] },
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] }
+      ],
+      "youtube": {
+        "videoId": "3WIgVWI3vAg",
+        "title": "Wonderwall Guitar Lesson Tutorial EASY - Oasis [Chords | Strumming | PlayAlong] (Beginner Friendly!)",
+        "channel": "for3v3rfaithful"
+      },
+      "tips": [
+        "Recording nerves are real and universal — they mean you care. Take one deep breath and count yourself in.",
+        "The week 1 vs. today comparison is the single best motivator in music. Bottle it."
+      ]
+    },
+    {
+      "day": 89,
+      "week": 13,
+      "title": "No Screen, No Net: Play from Memory",
+      "isReview": false,
+      "focus": "Performing a full song entirely from memory",
+      "intro": "A song isn't truly yours until you can play it with nothing in front of you. Today you close the app, turn away from every screen, and play a complete song from memory — the final skill of a real guitarist.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Strum through your song's chords once WITH the chart visible, naming each chord aloud as you land it. This is your last look — make it count."
+        },
+        {
+          "minutes": 3,
+          "title": "Build the mental map",
+          "instructions": "Eyes closed or fixed on the wall: recite the song's structure out loud like directions — 'verse: G, D, Am, G... chorus: C, G, D...' Twice through, no guitar. If you blank on a section, peek once, then recite the whole map again clean. The map in your head is the performance."
+        },
+        {
+          "minutes": 5,
+          "title": "The memory performance",
+          "instructions": "Screens off or turned away. Play the entire song from memory at performance tempo. If you blank mid-song, DON'T stop — vamp on the last chord you remember, breathe, and let the next section surface (it almost always does). Finishing with a flub beats stopping clean."
+        },
+        {
+          "minutes": 5,
+          "title": "Patch the gaps and go again",
+          "instructions": "Check the chart for anything you got wrong or vamped through — usually one transition. Drill just that seam 5 times from memory. Then one final full performance, no screen, standing up if you've never tried it. This is exactly what you'll do on day 90, and now you know you can."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 1, 2, 0, 0, 0] },
+        { "type": "chord", "name": "D", "frets": [-1, -1, 0, 2, 3, 2], "fingers": [0, 0, 0, 1, 3, 2] },
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] }
+      ],
+      "youtube": {
+        "videoId": "lPVK7eI2dKY",
+        "title": "A Horse With No Name Easy Guitar Lesson | America",
+        "channel": "JustinGuitar Songs"
+      },
+      "tips": [
+        "Memorize the STRUCTURE (verse-chorus order), not 90 individual chord hits — your hands already know the rest.",
+        "Vamping through a memory blank is a professional skill; audiences never notice."
+      ]
+    },
+    {
+      "day": 90,
+      "week": 13,
+      "title": "Day 90: Graduation",
+      "isReview": false,
+      "focus": "Your graduation performance — recorded, celebrated, earned",
+      "intro": "Day 90. Ninety days ago you picked up a guitar and learned which end was the headstock. Since then: every open chord, F in three sizes, strumming that grooves, fingerpicking, power chords, a pentatonic box, licks, improvisation, and the 12-bar blues. Today isn't a lesson — it's a graduation ceremony, and you're the headliner.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up like it's a show",
+          "instructions": "Loose strums through your favorite chords, the pentatonic scale once up and down, ten seconds of blues shuffle just because it feels good. Shake out your hands. Smile — this one's for you."
+        },
+        {
+          "minutes": 4,
+          "title": "The final rehearsal",
+          "instructions": "Your favorite piece — the polished song, your blues with a lick in it, or a fingerpicked arrangement — once through as a dress rehearsal, from memory if you can. Choose your count-in, your dynamics, and your big ending. This is the piece that represents 90 days of your life; play it like you mean it."
+        },
+        {
+          "minutes": 5,
+          "title": "The graduation recording",
+          "instructions": "Hit the Record button in the app. Say the date and 'Day 90' into the recording — future you will love that. Then perform your piece start to finish, one take, mistakes and all. Stop the recording and save it. That file is your diploma."
+        },
+        {
+          "minutes": 4,
+          "title": "The ceremony",
+          "instructions": "Listen to your day-90 recording back to back with your very first recording from the program. Hear the distance: from buzzing single notes to actual music. Then tell one human being what you just did — play them the recording or, better, play them the song live. Ninety days, roughly 22 hours of total practice, and you became a guitarist. Where you go next — barre chords everywhere, new keys, a band, songwriting — is up to you. But that's tomorrow. Tonight, celebrate."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "D — your first chord, day 1", "frets": [-1, -1, 0, 2, 3, 2], "fingers": [0, 0, 0, 1, 3, 2] },
+        { "type": "chord", "name": "F — the one you conquered", "frets": [1, 3, 3, 2, 1, 1], "fingers": [1, 3, 4, 2, 1, 1] },
+        { "type": "strum", "name": "Old Faithful — your signature groove", "beats": ["D", "", "D", "U", "", "U", "D", "U"] }
+      ],
+      "youtube": {
+        "videoId": "cdkCB6czek8",
+        "title": "Easy Acoustic Guitar Songs EVERYONE Should Know How to Play!",
+        "channel": "Marty Music"
+      },
+      "tips": [
+        "Keep the streak alive: 15 minutes a day was the whole secret, and it still is.",
+        "Your next mountain is already visible: full barre chords across the neck. You've beaten harder ones.",
+        "Congratulations, guitarist. That word is yours now — you earned it 90 days in a row."
+      ]
+    }
+  ]
+}

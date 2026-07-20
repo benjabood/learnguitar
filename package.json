@@ -1,0 +1,23 @@
+{
+  "name": "guitar-practice-site",
+  "version": "1.0.0",
+  "description": "Self-hosted 90-day daily guitar practice trainer",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "test:coverage": "vitest run --coverage",
+    "verify-videos": "node scripts/verify-videos.mjs"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "@vitest/coverage-v8": "^3.0.0",
+    "supertest": "^7.0.0",
+    "vitest": "^3.0.0"
+  }
+}

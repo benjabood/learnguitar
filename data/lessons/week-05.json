@@ -1,0 +1,332 @@
+{
+  "week": 5,
+  "days": [
+    {
+      "day": 29,
+      "week": 5,
+      "title": "The Big One: G Major",
+      "isReview": false,
+      "focus": "Learn the G chord with a solid ring-finger anchor",
+      "intro": "This week you learn the two most-used chords in popular music: G and C. Today is G, a big, open, ringing chord that uses all six strings. It asks for a little stretch, but your fingers are stronger now than they were a month ago. You are ready.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Strum Em 4 times, then do 1 minute of Em-to-Am changes. Stretch your fretting hand: spread your fingers wide for 5 seconds, relax, and repeat 3 times."
+        },
+        {
+          "minutes": 4,
+          "title": "Build the G shape",
+          "instructions": "Finger 2 goes on the low E string, 3rd fret. Finger 1 goes on the A string, 2nd fret. Finger 3 goes on the high e string, 3rd fret. Strum all 6 strings. Place, strum, lift, repeat 10 times. Think of finger 3 as your anchor: place it first each time and build the rest of the shape around it."
+        },
+        {
+          "minutes": 3,
+          "title": "String-by-string check",
+          "instructions": "Hold G and pick all 6 strings one at a time. The usual trouble spot is finger 1 leaning into the open D string, so arch it and check the D string rings clean. Do 3 full clean passes."
+        },
+        {
+          "minutes": 3,
+          "title": "Strum practice on G",
+          "instructions": "Play 4 slow full strums on G, rest 5 seconds, and repeat 8 times. Then play D-DU on G for 1 minute straight. Let this big chord ring; it should sound huge."
+        },
+        {
+          "minutes": 3,
+          "title": "G to Em changes",
+          "instructions": "Do 10 very slow changes between G and Em, then a 1-minute timed round with one strum per chord. These two chords are best friends in thousands of songs, so this change is worth every rep."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] },
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 2, 3, 0, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "gEzwpqmt2gc",
+        "title": "G Chord - Guitar For Beginners - Stage 3 Guitar Lesson - JustinGuitar [BC-131]",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Place finger 3 (high e string) first every time. Anchors build fast changes.",
+        "If the stretch hurts, bring your thumb lower behind the neck.",
+        "G uses all 6 strings: strum generously."
+      ]
+    },
+    {
+      "day": 30,
+      "week": 5,
+      "title": "The C Chord",
+      "isReview": false,
+      "focus": "Learn the C chord with arched fingers and clean open strings",
+      "intro": "C major might be the most famous chord in music, and today it is yours. The challenge with C is not the stretch, it is the arch: your fingers must stand tall so the open strings can ring. Take it slow and get it clean.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up on G",
+          "instructions": "Strum G 4 times, checking each string rings. Then do 1 minute of G-to-Em changes with one strum per chord."
+        },
+        {
+          "minutes": 4,
+          "title": "Build the C shape",
+          "instructions": "Finger 1 goes on the B string, 1st fret. Finger 2 goes on the D string, 2nd fret. Finger 3 goes on the A string, 3rd fret. Skip the low E string when you strum. Place the shape starting with finger 3, strum the top 5 strings, lift everything, and repeat 10 times."
+        },
+        {
+          "minutes": 3,
+          "title": "The arch check",
+          "instructions": "Hold C and pick all 5 strings one at a time. The open G and high e strings are the usual victims of flat fingers. If either is muted, raise your wrist slightly and come down on fingertips. Do 3 completely clean passes before moving on."
+        },
+        {
+          "minutes": 3,
+          "title": "Strum practice on C",
+          "instructions": "Play 4 slow strums on C, rest, and repeat 8 times, aiming your pick at the A string so you miss the low E. Then play D-DU on C for 1 minute."
+        },
+        {
+          "minutes": 3,
+          "title": "Am to C: the one-finger move",
+          "instructions": "Make an Am chord, then move only finger 3 from the G string to the A string 3rd fret. That is a C chord. Fingers 1 and 2 do not move at all. Do 15 slow swaps between Am and C, strumming once per chord, and enjoy the easiest change you will ever learn."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "RBYqdBqogo4",
+        "title": "C Chord - Guitar For Beginners - Stage 3 Guitar Lesson - JustinGuitar [BC-132]",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "C and Am share two fingers. Only finger 3 moves between them.",
+        "Muted open strings mean flat fingers: arch more, wrist forward.",
+        "Short fingernails on your fretting hand make the arch much easier."
+      ]
+    },
+    {
+      "day": 31,
+      "week": 5,
+      "title": "G to C: The Money Change",
+      "isReview": false,
+      "focus": "Drill the G-to-C change using guide movements",
+      "intro": "G to C is one of the most common chord changes in all of music, so the reps you put in today pay off for years. It is a bigger move than yesterday's Am-to-C, but with a slow-motion approach and steady reps, it will click.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Strum G 4 times and C 4 times, doing a quick string-by-string check on each. Then do 30 seconds of Am-to-C swaps to remind your hand of the C shape."
+        },
+        {
+          "minutes": 4,
+          "title": "Slow-motion G to C",
+          "instructions": "Make G, then change to C in deliberate slow motion: fingers 1 and 2 keep their two-string spacing and shift down one string set, while finger 3 jumps from the high e to the A string. Take 5 full seconds per change. Do 10 slow-motion changes each way, watching your fingers travel as a group."
+        },
+        {
+          "minutes": 4,
+          "title": "One-minute changes: G to C",
+          "instructions": "Set a 1-minute timer and count your G-C changes with one strum per chord. Rest 20 seconds and repeat 3 rounds total. Write down your best score. Anything above 20 is solid at this stage; anything above 30 is excellent."
+        },
+        {
+          "minutes": 3,
+          "title": "Four strums each",
+          "instructions": "Play G for 4 strums, C for 4 strums, and loop for 3 minutes with a steady count. Begin moving your fingers on beat 4 so the new chord lands on beat 1. Keep the count going even when a change is late."
+        },
+        {
+          "minutes": 2,
+          "title": "Bonus: C to D",
+          "instructions": "Do 10 slow changes between C and D, then 30 seconds timed. You will need this pair tomorrow when the full G-C-D progression arrives."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "D8UBkOzsKKw",
+        "title": "BEGINNER Guitar Chords To Learn - EASIER Transition for C, G, Em & D Chords",
+        "channel": "Lauren Bateman"
+      },
+      "tips": [
+        "Fingers 1 and 2 keep the same spacing in G and C. Move them as a unit.",
+        "Slow-motion practice programs the change; speed comes free later."
+      ]
+    },
+    {
+      "day": 32,
+      "week": 5,
+      "title": "The G-C-D Progression",
+      "isReview": false,
+      "focus": "Play G-C-D, the most famous three-chord progression on earth",
+      "intro": "G, C, and D together power more hit songs than any other three chords: folk, rock, country, punk, everything. You know all three shapes. Today you connect them into a loop and join a very large club of guitar players.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Do 30 seconds each of G-to-C, C-to-D, and D-to-G changes with one strum per chord. Shake out your hand between rounds."
+        },
+        {
+          "minutes": 5,
+          "title": "The loop, nice and slow",
+          "instructions": "Play G for 4 slow strums, C for 4, D for 4, then back to G. Loop it for 5 minutes without stopping, counting out loud. The D-to-G jump is the long one, so start that move early, on beat 4. Steady beats perfect."
+        },
+        {
+          "minutes": 4,
+          "title": "Fix the weak link",
+          "instructions": "One of the three changes felt worst just now. Give it 10 slow-motion changes, then a 1-minute timed round counting your total. Rejoin the full loop for 2 more cycles and feel the difference."
+        },
+        {
+          "minutes": 4,
+          "title": "Add your strum",
+          "instructions": "Run the G-C-D loop with the D-DU pattern on each chord for 4 minutes. If the pattern falls apart during a change, simplify to one down-strum for that bar and pick the pattern back up on the next chord."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] },
+        { "type": "chord", "name": "D", "frets": [-1, -1, 0, 2, 3, 2], "fingers": [0, 0, 0, 1, 3, 2] }
+      ],
+      "youtube": {
+        "videoId": "z_BazU7Uyxg",
+        "title": "How to play G, C and D chords | Play 10 guitar songs with three chords | Beginner Guitar Lesson",
+        "channel": "Andy Guitar"
+      },
+      "tips": [
+        "G-C-D is in thousands of songs. This loop is a lifetime investment.",
+        "When a change is late, sacrifice the strum, never the count."
+      ]
+    },
+    {
+      "day": 33,
+      "week": 5,
+      "title": "The 50s Progression: G-Em-C-D",
+      "isReview": false,
+      "focus": "Learn the four-chord G-Em-C-D progression",
+      "intro": "Add Em into yesterday's loop and you get G-Em-C-D, the legendary '50s progression' behind countless classics from doo-wop to modern pop. Four chords, one loop, instant song. This is the progression you will play at every campfire for the rest of your life.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Strum each of the four chords 4 times in order: G, Em, C, D. Do a quick buzz check on each before moving on."
+        },
+        {
+          "minutes": 4,
+          "title": "Drill the two new joints",
+          "instructions": "The new changes in this loop are G-to-Em and Em-to-C. Do 10 slow changes of each pair, then 1 timed minute of each with one strum per chord. For Em-to-C, notice finger 2 lands on the same fret number, just one string over."
+        },
+        {
+          "minutes": 5,
+          "title": "The full loop, slow",
+          "instructions": "Play G, Em, C, D with 4 slow strums each and loop for 5 minutes. Count '1, 2, 3, 4' out loud and launch your fingers on beat 4. When you complete 3 loops without stopping, you have officially played the 50s progression."
+        },
+        {
+          "minutes": 4,
+          "title": "Play along with the loop video",
+          "instructions": "Open today's video and play along with the G, D, Em, C play-along loop, following the on-screen changes. The order is slightly different from your practice loop, which is good for your brain. Use single strums or D-DU, whichever survives the changes."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] },
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 2, 3, 0, 0, 0] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "376nQVlR7ug",
+        "title": "Beginner Guitar Play Along Loop: G, D, Em, C Chords | Practice and Improve Your Chord Transitions",
+        "channel": "Jack_Music_Classes"
+      },
+      "tips": [
+        "G-Em-C-D powers Stand By Me, Earth Angel, and hundreds more.",
+        "Four chords, four strums each: one loop equals one trip around a song verse."
+      ]
+    },
+    {
+      "day": 34,
+      "week": 5,
+      "title": "Four-Chord Song Play-Along",
+      "isReview": false,
+      "focus": "Play a complete song section with G, D, C, and Am",
+      "intro": "Today you play a real classic. Knockin' on Heaven's Door uses G, D, C, and Am, and you know every one of those shapes. Two chords per line, slow tempo, maximum payoff. This is what all those one-minute changes were for.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Strum G, D, C, and Am 4 times each, checking for buzzes. Then do 30 seconds each of G-to-D and D-to-C changes."
+        },
+        {
+          "minutes": 3,
+          "title": "Learn the two lines",
+          "instructions": "The song alternates two lines: line 1 is G, D, C and line 2 is G, D, Am. Play each chord for 4 slow strums and run line 1 four times, then line 2 four times. Say the next chord name out loud one beat before you move."
+        },
+        {
+          "minutes": 4,
+          "title": "Join the lines",
+          "instructions": "Play line 1 then line 2 back to back, 4 strums per chord, and loop the pair for 4 minutes. That two-line cycle is the entire song, verses and choruses. Once it loops smoothly, you know the whole tune."
+        },
+        {
+          "minutes": 4,
+          "title": "Play along with the video",
+          "instructions": "Open today's video and play along at the lesson tempo, following the on-screen chords. Use D-DU where you can and single down-strums where you must. Falling behind is fine: skip to the next chord and land on beat 1."
+        },
+        {
+          "minutes": 2,
+          "title": "Victory lap",
+          "instructions": "Play the full two-line cycle twice on your own from memory, no video and no chord chart. You just played a Bob Dylan song from memory. Let that sink in."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] },
+        { "type": "chord", "name": "D", "frets": [-1, -1, 0, 2, 3, 2], "fingers": [0, 0, 0, 1, 3, 2] },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "wkN9fQRmSxA",
+        "title": "Knockin On Heaven's Door Guitar Lesson for Beginners - Easy Guitar Song",
+        "channel": "Lauren Bateman"
+      },
+      "tips": [
+        "Two chords per line, two lines per song. Simple structure, timeless song.",
+        "Memorize the chord order early so your eyes can watch your hands."
+      ]
+    },
+    {
+      "day": 35,
+      "week": 5,
+      "title": "Week 5 Review: G and C in the Family",
+      "isReview": true,
+      "focus": "Consolidate G, C, and the week's progressions, then record your check-in",
+      "intro": "This week you added the two biggest chords in popular music and played a real four-chord song. Today is a lighter day: run your circuit, play the progression you love most, and record your weekly check-in to capture the progress.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Eight-chord warm-up",
+          "instructions": "Strum every chord you know 2 times each: A, D, E, Em, Am, Dm, G, C. Eight chords. Read that again: you know eight chords. Do a quick buzz check on G and C."
+        },
+        {
+          "minutes": 5,
+          "title": "One-minute change circuit",
+          "instructions": "Do one timed minute each of G-to-C, G-to-Em, and C-to-D, counting changes. Compare with your day 31 scores and jot the new numbers down. Rest 20 seconds between rounds."
+        },
+        {
+          "minutes": 4,
+          "title": "Progression victory lap",
+          "instructions": "Play the 50s progression G, Em, C, D with 4 strums per chord for 2 minutes, then the G, C, D loop for 2 minutes with your D-DU strum. Pick your favorite and run it once more just because it sounds good."
+        },
+        {
+          "minutes": 3,
+          "title": "Record your weekly check-in",
+          "instructions": "Hit the Record button in the app and record about 60 seconds: play G, Em, C, D with 4 strums each on a loop. Listen back once and compare it in your head to last week's minor-chord recording. Name one clear improvement out loud."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] },
+        { "type": "chord", "name": "D", "frets": [-1, -1, 0, 2, 3, 2], "fingers": [0, 0, 0, 1, 3, 2] }
+      ],
+      "youtube": {
+        "videoId": "n-NeP6CTHTc",
+        "title": "JustinGuitar Beginners Course - Practice Routine Grade 1",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Eight chords in five weeks is genuinely fast progress. Enjoy it.",
+        "Keep every weekly recording. In a month the difference will amaze you."
+      ]
+    }
+  ]
+}

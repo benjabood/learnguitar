@@ -1,0 +1,329 @@
+{
+  "week": 6,
+  "days": [
+    {
+      "day": 36,
+      "week": 6,
+      "title": "Eighth-Note Strumming",
+      "isReview": false,
+      "focus": "Count and strum straight eighth notes",
+      "intro": "Your chords are solid, so this week is all about your strumming hand. Today you learn eighth notes: splitting each beat in two and counting '1 and 2 and 3 and 4 and'. Master this count and every strumming pattern you ever learn becomes easy to read.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Count it out loud",
+          "instructions": "No guitar yet. Tap your foot on a slow, steady beat and count '1 and 2 and 3 and 4 and' out loud, foot tapping on the numbers only. Do this for 2 minutes until the count feels automatic."
+        },
+        {
+          "minutes": 3,
+          "title": "Muted down-up strums",
+          "instructions": "Rest your fretting hand lightly across all six strings so they are muted. Strum down on every number and up on every 'and', making a percussive chk sound. Down on 1, up on and, and so on. Keep your arm swinging from the elbow, loose like shaking water off your hand."
+        },
+        {
+          "minutes": 4,
+          "title": "Eighth notes on Em",
+          "instructions": "Hold Em and strum down-up eighth notes while counting out loud: '1 and 2 and 3 and 4 and'. Down strums hit most of the strings; up strums only need to catch the top 3 or 4. Do 4 bars, rest, and repeat for the full 4 minutes."
+        },
+        {
+          "minutes": 4,
+          "title": "Keep it going through changes",
+          "instructions": "Strum eighth notes for one bar of G, then one bar of C, looping for 4 minutes. The strumming hand never stops or changes speed, even when the chord change is late. If the change costs you a beat, mute the strings and keep strumming through it."
+        },
+        {
+          "minutes": 2,
+          "title": "Steady finish",
+          "instructions": "Play 8 bars of eighth notes on Em at a slightly slower tempo, focusing on making every down and up the same volume. End on one big let-it-ring strum."
+        }
+      ],
+      "diagrams": [
+        { "type": "strum", "name": "Straight Eighths", "beats": ["D", "U", "D", "U", "D", "U", "D", "U"] },
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 2, 3, 0, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "EbNzDcUz2c0",
+        "title": "How to Play Guitar #9 - 8th Note Strums - Beginner Guitar Lesson",
+        "channel": "TrueFire"
+      },
+      "tips": [
+        "Down strums fall on numbers, up strums fall on 'and'. Always.",
+        "Strum from the elbow with a loose wrist, not from the wrist alone.",
+        "Up strums only need the thinnest 3 or 4 strings."
+      ]
+    },
+    {
+      "day": 37,
+      "week": 6,
+      "title": "Old Faithful: D-DU-UDU",
+      "isReview": false,
+      "focus": "Learn the most useful strumming pattern in pop music",
+      "intro": "Today you learn the pattern guitarists call Old Faithful: down, down-up, up-down-up. It fits thousands of songs, and once your arm learns it you will hear it everywhere. The secret is simple: your arm keeps swinging down-up the whole time, you just miss the strings on purpose sometimes.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up with eighths",
+          "instructions": "Hold Em and strum straight down-up eighth notes for 2 minutes, counting '1 and 2 and 3 and 4 and' out loud. This constant arm motion is the engine of today's pattern."
+        },
+        {
+          "minutes": 5,
+          "title": "Build the pattern on Em",
+          "instructions": "Keep the arm swinging but only hit the strings on: down on 1, down on 2, up on the and of 2, up on the and of 3, down on 4, up on the and of 4. Say it as 'down, down-up, up-down-up'. The arm still travels down on 3, it just misses the strings. Do it painfully slowly on Em, one bar at a time, for 5 minutes."
+        },
+        {
+          "minutes": 3,
+          "title": "Never stop the arm",
+          "instructions": "Loop the pattern on Em for 3 minutes without pausing between bars. If you hit a wrong string or miss a strum, do not restart the bar; let the swinging arm carry you into the next one. Momentum matters more than perfection."
+        },
+        {
+          "minutes": 3,
+          "title": "Old Faithful on G and C",
+          "instructions": "Play 2 bars of the pattern on G, then 2 bars on C, and loop for 3 minutes. Keep the change moving even if the first strum of the new bar is just open strings."
+        },
+        {
+          "minutes": 2,
+          "title": "Slow showcase",
+          "instructions": "Finish with 4 slow, confident bars of Old Faithful on G. Count out loud one last time: '1, 2 and, and 3, 4 and'. Tomorrow you bolt this onto full progressions."
+        }
+      ],
+      "diagrams": [
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] },
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 2, 3, 0, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "0ih_qij629U",
+        "title": "Practice \"Old Faithful\", one of the GREAT patterns to master for a beginner",
+        "channel": "PZ Guitar"
+      },
+      "tips": [
+        "The arm never stops swinging. Missing the strings is part of the pattern.",
+        "Beat 3 has no strum but your arm still travels down through it.",
+        "Learn it slow and sloppy-proof; speed shows up on its own."
+      ]
+    },
+    {
+      "day": 38,
+      "week": 6,
+      "title": "Pattern Meets Progression",
+      "isReview": false,
+      "focus": "Combine Old Faithful with chord changes",
+      "intro": "You can play the pattern, and you can change chords. Today you do both at once, which is the exact skill that makes you sound like a real guitarist instead of a beginner doing exercises. Expect it to wobble at first. That is the work.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Play Old Faithful on G for 4 bars, then on Em for 4 bars, nice and slow. Count '1, 2 and, and 3, 4 and' out loud."
+        },
+        {
+          "minutes": 4,
+          "title": "Two-chord drill",
+          "instructions": "Play one bar of Old Faithful on G, then one bar on Em, looping for 4 minutes. The final up-strum of each bar happens while your fingers are already flying to the next chord, so it may catch open strings. That is normal and correct; keep going."
+        },
+        {
+          "minutes": 5,
+          "title": "The full progression",
+          "instructions": "Play G, Em, C, D with one bar of Old Faithful on each, looping for 5 minutes. If the pattern collapses at a change, simplify that one bar to 'down, down' and rejoin the full pattern on the next chord. Never stop the count."
+        },
+        {
+          "minutes": 4,
+          "title": "Trouble-spot surgery",
+          "instructions": "Identify the one change that broke the pattern most, and loop just those two chords with the full pattern for 4 minutes. Ten good repetitions of the hard pair beats fifty of the easy ones."
+        }
+      ],
+      "diagrams": [
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] },
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "6LmQCdt_ZhQ",
+        "title": "The Most Common Strumming Pattern of All Time! Guitar for Beginners",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "The last up-strum can hit open strings while you change. Pros do this constantly.",
+        "One bar per chord, pattern or no pattern: the count is sacred."
+      ]
+    },
+    {
+      "day": 39,
+      "week": 6,
+      "title": "Dynamics: Soft, Loud, and the Backbeat",
+      "isReview": false,
+      "focus": "Control your volume and accent beats 2 and 4",
+      "intro": "Two guitarists can play the same chords and pattern, yet one sounds flat and the other sounds alive. The difference is dynamics: playing softer and louder on purpose. Today you learn to whisper, shout, and punch beats 2 and 4 like a drummer's snare.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Play Old Faithful on G for 8 bars at your normal volume. Notice exactly how hard you are hitting the strings; that is your baseline."
+        },
+        {
+          "minutes": 4,
+          "title": "Whisper and shout",
+          "instructions": "Strum straight down-strums on Em, 4 beats per bar. Play 2 bars as quietly as you possibly can while still sounding all the strings, then 2 bars as loud as you can without the strings buzzing. Alternate for 4 minutes. Volume comes from the size and speed of your swing, not from squeezing the pick harder."
+        },
+        {
+          "minutes": 4,
+          "title": "Accent beats 2 and 4",
+          "instructions": "Still on down-strums, play beats 1 and 3 soft and beats 2 and 4 loud: soft, LOUD, soft, LOUD. Count out loud and exaggerate the difference. Do 2 minutes on Em, then 2 minutes on C. This backbeat accent is what makes strumming groove."
+        },
+        {
+          "minutes": 3,
+          "title": "Dynamic progression",
+          "instructions": "Play G, Em, C, D with one bar of Old Faithful each, keeping the accent on beats 2 and 4: the '2' of the down-up and the '4' before the last up-strum. Loop for 3 minutes. It will feel like patting your head and rubbing your stomach at first; slow down until it does not."
+        },
+        {
+          "minutes": 2,
+          "title": "Tell a story",
+          "instructions": "Play the same 4-chord loop twice: first time as quietly as you can, second time building to full volume on the final D. Congratulations, you just played with expression."
+        }
+      ],
+      "diagrams": [
+        { "type": "strum", "name": "Backbeat Accent (loud on 2 and 4)", "beats": ["D", "", "D", "", "D", "", "D", ""] },
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] },
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 2, 3, 0, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "IXL1bG_ao3c",
+        "title": "Easy Strumming Patterns With Up Strums | Guitar for Beginners",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Loud comes from a bigger, faster swing, not a tighter grip.",
+        "Beats 2 and 4 are where the drummer's snare lives. Lean into them.",
+        "Quiet playing is harder than loud playing. Practice both."
+      ]
+    },
+    {
+      "day": 40,
+      "week": 6,
+      "title": "Your First Full Song",
+      "isReview": false,
+      "focus": "Play a complete song start to finish with a real strumming pattern",
+      "intro": "Everything from six weeks converges today: chords, changes, eighth notes, Old Faithful, and dynamics. You are going to play Knockin' on Heaven's Door all the way through, start to finish. Not a drill, not a loop. A song.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Strum G, D, C, and Am 4 times each, then play 4 bars of Old Faithful on G. Quick buzz check on every chord."
+        },
+        {
+          "minutes": 4,
+          "title": "Pattern on the progression",
+          "instructions": "Play the two song lines with one bar of Old Faithful per chord: line 1 is G, D, C and line 2 is G, D, Am. Loop the pair for 4 minutes. Where the pattern breaks, simplify that bar to down-strums and rejoin the pattern on the next chord."
+        },
+        {
+          "minutes": 6,
+          "title": "Play the whole song with the video",
+          "instructions": "Open today's video and play along from the top of the song to the very end without stopping, following the on-screen chords. Keep your accent on beats 2 and 4 where you can. Whatever happens, your strumming hand keeps moving until the last chord rings out."
+        },
+        {
+          "minutes": 3,
+          "title": "Solo run-through",
+          "instructions": "Now play the song once through on your own, no video, at whatever tempo keeps the changes smooth. Sing or hum the melody over your playing if you dare. Finish by letting the last G ring and take a bow."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] },
+        { "type": "chord", "name": "D", "frets": [-1, -1, 0, 2, 3, 2], "fingers": [0, 0, 0, 1, 3, 2] },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "53SP2n3DSYA",
+        "title": "Knockin on Heaven's Door - Bob Dylan [PERFECT Beginner Guitar Lesson Tutorial]",
+        "channel": "The Stellar Guitarist"
+      },
+      "tips": [
+        "A finished song with mistakes beats a perfect fragment. Always play to the end.",
+        "Humming the melody while you strum locks your rhythm to the song."
+      ]
+    },
+    {
+      "day": 41,
+      "week": 6,
+      "title": "Tighten It Up",
+      "isReview": false,
+      "focus": "Lock in a steady tempo and learn from a recording of yourself",
+      "intro": "Yesterday you played a whole song. Today you make it tight. A steady tempo is the single biggest difference between playing that feels amateur and playing that feels professional, and the fastest teacher is a recording of your own playing.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Tap your foot at a slow, comfortable pace and strum straight down-strums on G, one per foot tap, for 2 minutes. Your foot is your metronome today; keep it going in every step."
+        },
+        {
+          "minutes": 4,
+          "title": "Foot-locked progression",
+          "instructions": "Play G, D, C, Am with one bar of Old Faithful each, foot tapping on 1, 2, 3, 4 the whole time. If your foot stutters during a chord change, the tempo dipped: slow everything down until foot and hand stay locked for 4 loops in a row."
+        },
+        {
+          "minutes": 5,
+          "title": "Record and listen",
+          "instructions": "Hit the Record button in the app and record 60 to 90 seconds of the song progression with Old Faithful. Then listen back once all the way through. Listen only for tempo: do the changes rush or drag? Mark the single worst spot in your head."
+        },
+        {
+          "minutes": 4,
+          "title": "Fix the one spot",
+          "instructions": "Take the change that dragged the most on the recording and drill just that pair of chords with the pattern for 3 minutes, foot tapping throughout. Then play the full progression twice and feel how much steadier it sits."
+        }
+      ],
+      "diagrams": [
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] },
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] }
+      ],
+      "youtube": {
+        "videoId": "JTEpHdERuN0",
+        "title": "Guitar Practice: Warm up Play Along Routine for Beginners | Level 2",
+        "channel": "LeadCatPress"
+      },
+      "tips": [
+        "Recordings never lie. They are your most honest teacher.",
+        "Slower and steady always sounds better than faster and lumpy.",
+        "Chord changes are where tempo dies. Guard the count through every change."
+      ]
+    },
+    {
+      "day": 42,
+      "week": 6,
+      "title": "Week 6 Review: You Play Guitar Now",
+      "isReview": true,
+      "focus": "Consolidate rhythm skills and record your six-week milestone",
+      "intro": "Six weeks in: eight chords, real strumming patterns, dynamics, and a full song under your fingers. Today is a light celebration day. Play the good stuff, record your milestone, and hear how far you have come.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Full toolkit warm-up",
+          "instructions": "Strum each of your eight chords twice: A, D, E, Em, Am, Dm, G, C. Then play 4 bars of straight eighth notes and 4 bars of Old Faithful on Em, counting out loud."
+        },
+        {
+          "minutes": 4,
+          "title": "The 50s progression, full treatment",
+          "instructions": "Play G, Em, C, D with one bar of Old Faithful per chord and the accent on beats 2 and 4, looping for 4 minutes. This combination of pattern, progression, and dynamics is the complete package from the last three weeks."
+        },
+        {
+          "minutes": 4,
+          "title": "Song run-through",
+          "instructions": "Play Knockin' on Heaven's Door once from memory, start to finish, at your steadiest tempo with your foot tapping. If a change falls apart, keep the count and catch the next bar."
+        },
+        {
+          "minutes": 4,
+          "title": "Record your milestone",
+          "instructions": "Hit the Record button in the app and record about 60 seconds of your best playing: the song or the 50s progression, your choice. Listen back and then, if you still have your week 4 recording, play that one too. That difference is six weeks of 15 minutes a day."
+        }
+      ],
+      "diagrams": [
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] },
+        { "type": "chord", "name": "G", "frets": [3, 2, 0, 0, 0, 3], "fingers": [2, 1, 0, 0, 0, 3] },
+        { "type": "chord", "name": "C", "frets": [-1, 3, 2, 0, 1, 0], "fingers": [0, 3, 2, 0, 1, 0] }
+      ],
+      "youtube": {
+        "videoId": "YnHo_L5d9YQ",
+        "title": "Guitar Practice Routines for Module 8 | JustinGuitar Beginner Course",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Halfway through the 90 days is close. The hardest part is already behind you.",
+        "Recordings from week 4 versus today are the proof that daily practice works."
+      ]
+    }
+  ]
+}

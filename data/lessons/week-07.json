@@ -1,0 +1,345 @@
+{
+  "week": 7,
+  "days": [
+    {
+      "day": 43,
+      "week": 7,
+      "title": "Bluesy Chords: A7 and E7",
+      "isReview": false,
+      "focus": "Dominant 7th chords A7 and E7",
+      "intro": "Six weeks of open chords have earned you something new: the 7th chord. Add one note to chords you already know and suddenly you sound bluesy. Today you learn A7 and E7 — two of the easiest shapes you'll ever fret.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up: A and E",
+          "instructions": "Play 4 slow strums of A, then 4 of E, and repeat for 2 minutes. Check every string rings — these two chords are the parents of today's new shapes."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn A7",
+          "instructions": "Take your normal A chord and lift the finger off the G string, leaving it open. That's A7: index on the D string fret 2, middle on the B string fret 2. Strum from the A string down and listen for that open G — it's the note that makes it sound bluesy. Strum it 20 times, checking all 5 strings ring."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn E7",
+          "instructions": "Make a normal E chord, then lift your ring finger off the D string. That's E7: middle finger on the A string fret 2, index on the G string fret 1. Strum all 6 strings 20 times. Compare E and E7 back to back — hear how E7 sounds restless, like it wants to move somewhere?"
+        },
+        {
+          "minutes": 3,
+          "title": "One-minute changes: A7 to E7",
+          "instructions": "Set a timer for 1 minute and switch between A7 and E7 as many times as you can, strumming each chord once. Count your changes. Rest 30 seconds, then do it twice more and try to beat your first score."
+        },
+        {
+          "minutes": 2,
+          "title": "Groove it",
+          "instructions": "Play 4 slow down-strums on A7, then 4 on E7, and loop it. Keep your foot tapping on every strum. This two-chord loop is the skeleton of a thousand blues songs."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "A7", "frets": [-1, 0, 2, 0, 2, 0], "fingers": [0, 0, 1, 0, 2, 0] },
+        { "type": "chord", "name": "E7", "frets": [0, 2, 0, 1, 0, 0], "fingers": [0, 2, 0, 1, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "f8cGLZJlMtQ",
+        "title": "How to Play a 12-Bar Blues on Guitar - Key of A (A7 - D7 - E7)",
+        "channel": "Green Hills Guitar Studio"
+      },
+      "tips": [
+        "7th chords are often EASIER than the plain chord — A7 and E7 each use one less finger.",
+        "That restless, unfinished sound is the whole point. Blues lives on it."
+      ]
+    },
+    {
+      "day": 44,
+      "week": 7,
+      "title": "D7 and Your First Blues Progression",
+      "isReview": false,
+      "focus": "D7 chord and the A7-D7-E7 progression",
+      "intro": "One more 7th chord and you own the full blues toolkit in the key of A. Today you learn D7, then chain A7, D7, and E7 into the progression behind countless blues and rock-and-roll songs.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up: yesterday's chords",
+          "instructions": "Alternate A7 and E7 for 2 minutes, one strum each, switching every 2 beats. Aim for smooth, not fast."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn D7",
+          "instructions": "D7 looks like a little triangle: index on the B string fret 1, middle on the G string fret 2, ring on the high e string fret 2. Strum from the open D string down — 4 strings only. Place, strum, check each string, lift off, and repeat 15 times to build the muscle memory."
+        },
+        {
+          "minutes": 4,
+          "title": "One-minute changes with D7",
+          "instructions": "Do a 1-minute change drill between A7 and D7, counting your switches. Then 1 minute between D7 and E7. The A7-to-D7 move is the one you'll use most — notice your index finger only travels one string."
+        },
+        {
+          "minutes": 4,
+          "title": "The A7-D7-E7 loop",
+          "instructions": "Play this loop with 4 down-strums per chord: A7, A7, D7, A7, then E7, D7, A7, A7. That's a mini 12-bar blues. Go slow — around 60 taps per minute — and keep strumming even if a chord lands messy."
+        },
+        {
+          "minutes": 2,
+          "title": "Add Old Faithful",
+          "instructions": "Pick just two chords, A7 and D7, and play your Old Faithful pattern (D-DU-UDU) once per chord. If the switch isn't ready in time, simplify to one down-strum per bar and build back up."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "D7", "frets": [-1, -1, 0, 2, 1, 2], "fingers": [0, 0, 0, 2, 1, 3] },
+        { "type": "chord", "name": "A7", "frets": [-1, 0, 2, 0, 2, 0], "fingers": [0, 0, 1, 0, 2, 0] },
+        { "type": "strum", "name": "Old Faithful", "beats": ["D", "", "D", "U", "", "U", "D", "U"] }
+      ],
+      "youtube": {
+        "videoId": "KvpQF6xkE3Q",
+        "title": "Strumming The 12 Bar Blues In A Major On Guitar Turnaround Lesson A7 D7 E7 @EricBlackmonGuitar",
+        "channel": "EricBlackmonGuitar"
+      },
+      "tips": [
+        "D7 is D's spiky cousin — same 4-string strum, fingers flipped into a triangle.",
+        "In blues, keeping the rhythm going beats landing every chord perfectly."
+      ]
+    },
+    {
+      "day": 45,
+      "week": 7,
+      "title": "G7, B7, and 7ths in Real Songs",
+      "isReview": false,
+      "focus": "G7 and B7 chords, using 7ths in songs",
+      "intro": "Two more 7th shapes round out your collection. G7 is easy; B7 is your first real four-finger chord — don't panic, you only need it to be recognizable today, not perfect. Then you'll hear how 7ths spice up progressions you already play.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up: 7th chord tour",
+          "instructions": "Play 4 strums each of A7, D7, and E7, looping for 2 minutes. Name each chord out loud as you land it."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn G7",
+          "instructions": "G7 is your G chord rearranged: ring finger on the low E string fret 3, middle on the A string fret 2, index on the high e string fret 1. It's like G but your index takes the top string at fret 1 instead of fret 3. Strum all 6 strings 15 times, checking the high e rings clearly."
+        },
+        {
+          "minutes": 4,
+          "title": "Meet B7 (just say hello)",
+          "instructions": "B7 uses all four fingers: middle on the A string fret 2, index on the D string fret 1, ring on the G string fret 2, pinky on the high e string fret 2. Mute the low E. Build it slowly 8-10 times — place fingers one at a time, strum, lift, repeat. It WILL feel clumsy; that's normal on day one. E7 to B7 is the classic blues move, so try 5 slow switches."
+        },
+        {
+          "minutes": 3,
+          "title": "7ths inside a progression",
+          "instructions": "Play C, then C to G7, then back to C with 4 down-strums each. Hear how G7 pulls you home to C? Now try G, E7, A7, D7 — 4 strums each. This chain of 7ths appears in old rock-and-roll and country songs everywhere."
+        },
+        {
+          "minutes": 2,
+          "title": "Free play",
+          "instructions": "Pick any two 7th chords you've learned this week and jam on them with Old Faithful strumming. No rules — just get the bluesy sound in your ears."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "G7", "frets": [3, 2, 0, 0, 0, 1], "fingers": [3, 2, 0, 0, 0, 1] },
+        { "type": "chord", "name": "B7", "frets": [-1, 2, 1, 2, 0, 2], "fingers": [0, 2, 1, 3, 0, 4] }
+      ],
+      "youtube": {
+        "videoId": "9Jp2tL4zNGY",
+        "title": "Combining E7, A7 and B7 Chords for 12 bar blues Strumming",
+        "channel": "Brook Hoover"
+      },
+      "tips": [
+        "B7 takes most people a week or two to clean up. Plant the middle finger first — it anchors the shape.",
+        "G7 wants to pull to C. E7 wants to pull to A. Listening for that pull trains your ears."
+      ]
+    },
+    {
+      "day": 46,
+      "week": 7,
+      "title": "Palm Muting: The Chug",
+      "isReview": false,
+      "focus": "Palm muting on the low strings",
+      "intro": "Today your picking hand learns a superpower. Palm muting — resting the edge of your palm on the strings at the bridge — turns open ringing into a tight, percussive chug. It's the engine of rock, punk, and blues rhythm playing.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up: open low E",
+          "instructions": "Pick the open low E string with down-picks, 8 steady notes per breath, for 2 minutes. Keep your foot tapping — every pick lands on a tap."
+        },
+        {
+          "minutes": 4,
+          "title": "Find the mute spot",
+          "instructions": "Rest the fleshy edge of your picking palm (karate-chop side) on the strings RIGHT where they meet the bridge. Pick the low E. Too far forward and the note dies completely; too far back and it rings open. Slide your palm until you get a fat, thumpy 'chunk' that still has pitch. Spend the full 4 minutes finding and re-finding that sweet spot."
+        },
+        {
+          "minutes": 4,
+          "title": "The chug drill",
+          "instructions": "With the palm planted, play 8 muted down-picks on the low E, then lift the palm for 8 open ones. Alternate for 4 minutes: chug-chug-chug-chug then ring-ring-ring-ring. The contrast trains you to add and remove the mute without stopping."
+        },
+        {
+          "minutes": 3,
+          "title": "Chug across strings",
+          "instructions": "Keep the palm planted and play 4 muted picks on the low E, then 4 on the A string, then 4 on the D string, and back down. Your palm stays anchored at the bridge the whole time — only the pick moves."
+        },
+        {
+          "minutes": 2,
+          "title": "Mute an E chord",
+          "instructions": "Fret an E chord, plant your palm, and strum short down-strums across just the bottom 3 strings. That tight 'chunk-chunk-chunk' is the classic rock rhythm sound. End with one big open strum and let it ring."
+        }
+      ],
+      "diagrams": [
+        { "type": "tab", "name": "Palm-Muted Chug (low E)", "notes": [{ "string": 6, "fret": 0 }, { "string": 6, "fret": 0 }, { "string": 6, "fret": 0 }, { "string": 6, "fret": 0 }, { "string": 5, "fret": 0 }, { "string": 5, "fret": 0 }, { "string": 5, "fret": 0 }, { "string": 5, "fret": 0 }] },
+        { "type": "chord", "name": "E", "frets": [0, 2, 2, 1, 0, 0], "fingers": [0, 2, 3, 1, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "b6bdFoHsy7I",
+        "title": "Palm Muting on Electric Guitar | Beginner Lesson",
+        "channel": "Dark Tone Academy"
+      },
+      "tips": [
+        "The palm sits ON the bridge saddles, barely creeping onto the strings. When in doubt, move it back toward the bridge.",
+        "Palm muting works on acoustic too — it's quieter but the technique is identical."
+      ]
+    },
+    {
+      "day": 47,
+      "week": 7,
+      "title": "Dynamics: Muted Verse, Open Chorus",
+      "isReview": false,
+      "focus": "Palm-muted strumming and dynamics",
+      "intro": "Great rhythm players don't play everything at one volume. Today you combine yesterday's palm mute with strumming to create dynamics — quiet, tight verses that explode into big open choruses. This is what makes a progression sound like a song.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up: chug check",
+          "instructions": "Plant your palm at the bridge and play 2 minutes of muted down-picks on the low E and A strings, foot tapping. Re-find yesterday's sweet spot where the note thumps but still has pitch."
+        },
+        {
+          "minutes": 4,
+          "title": "Palm-muted strumming",
+          "instructions": "Fret an A7 chord. With your palm resting lightly at the bridge, strum small down-strums hitting mostly the bottom 3-4 strings. Keep the strums short and compact — think 'chick' not 'sploosh'. Do 8 muted strums, lift the palm, do 8 open strums. Repeat for 4 minutes."
+        },
+        {
+          "minutes": 4,
+          "title": "Verse-chorus drill",
+          "instructions": "Loop A7 to D7, 8 down-strums each. First time through: palm-muted and quiet. Second time: palm off, strumming big and open. Alternate 'verse' and 'chorus' without stopping. The switch happens between strums — practice lifting the palm during the chord change."
+        },
+        {
+          "minutes": 3,
+          "title": "Add an accent",
+          "instructions": "Stay palm-muted but hit beat 1 of each bar harder: LOUD-soft-soft-soft. Then flip it: keep everything muted except beat 1, which you play open and ringing. That one ringing strum over a muted groove is a pro move — take it slow."
+        },
+        {
+          "minutes": 2,
+          "title": "Perform it",
+          "instructions": "Play the loop A7, D7, E7, A7 with 4 strums each: muted the first time through, wide open the second. Imagine the room getting louder with you."
+        }
+      ],
+      "diagrams": [
+        { "type": "strum", "name": "Muted Verse (all downs)", "beats": ["D", "", "D", "", "D", "", "D", ""] },
+        { "type": "chord", "name": "A7", "frets": [-1, 0, 2, 0, 2, 0], "fingers": [0, 0, 1, 0, 2, 0] },
+        { "type": "chord", "name": "D7", "frets": [-1, -1, 0, 2, 1, 2], "fingers": [0, 0, 0, 2, 1, 3] }
+      ],
+      "youtube": {
+        "videoId": "592yeGLM-eg",
+        "title": "Beginner Rock Guitar Lesson: Power Chords and Palm Muting",
+        "channel": "Axe of Creation"
+      },
+      "tips": [
+        "Dynamics are free — no new chords, no new speed, just louder and softer. Use them everywhere.",
+        "Keep the strumming arm moving the same way whether muted or open; only the palm changes."
+      ]
+    },
+    {
+      "day": 48,
+      "week": 7,
+      "title": "Groove Day: Your First Blues Jam",
+      "isReview": false,
+      "focus": "7th chords + palm muting in a blues groove",
+      "intro": "Everything this week was building to today: a real 12-bar blues in A, played with 7th chords, palm muting, and dynamics. This is the progression musicians all over the world can jam on the moment they meet. Now you're one of them.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up: three chords, muted",
+          "instructions": "Palm-muted down-strums, 4 per chord: A7, D7, E7, and loop for 2 minutes. Small, tight strums on the bottom 4 strings."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn the 12-bar map",
+          "instructions": "The 12-bar blues in A is: A7 for 4 bars, D7 for 2 bars, A7 for 2 bars, then E7, D7, A7, E7 — one bar each. Play it with 4 slow down-strums per bar, counting each bar out loud ('one-2-3-4, two-2-3-4...'). Getting lost is normal; just restart from bar 1."
+        },
+        {
+          "minutes": 4,
+          "title": "Add the shuffle feel",
+          "instructions": "Blues swings. Instead of even down-strums, strum down-up with a limp: LONG-short, LONG-short — like saying 'HUM-pty HUM-pty'. Practice on A7 alone for a minute, then take it around the 12 bars. Keep it slow and let it limp."
+        },
+        {
+          "minutes": 4,
+          "title": "The full groove",
+          "instructions": "Now play the 12 bars palm-muted with the shuffle feel, and open up (palm off) for the last 4 bars (E7, D7, A7, E7) — that section is called the turnaround, and it deserves the volume. Loop it at least 3 times without stopping."
+        },
+        {
+          "minutes": 2,
+          "title": "Victory lap",
+          "instructions": "One final pass of the 12 bars any way you like — muted, open, loud, soft. End on one big A7 strum and let it ring. You just played the blues."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "A7", "frets": [-1, 0, 2, 0, 2, 0], "fingers": [0, 0, 1, 0, 2, 0] },
+        { "type": "chord", "name": "D7", "frets": [-1, -1, 0, 2, 1, 2], "fingers": [0, 0, 0, 2, 1, 3] },
+        { "type": "strum", "name": "Shuffle Feel", "beats": ["D", "", "D", "U", "D", "", "D", "U"] }
+      ],
+      "youtube": {
+        "videoId": "XFuXLSIYH7s",
+        "title": "12 Bar Blues Lesson For Beginners",
+        "channel": "Marty Music"
+      },
+      "tips": [
+        "12 bars, 3 chords, endless songs. Memorize the map — it never changes.",
+        "If you lose count of bars, listen for the E7: it always signals the last stretch."
+      ]
+    },
+    {
+      "day": 49,
+      "week": 7,
+      "title": "Week 7 Review: Blues Checkpoint",
+      "isReview": true,
+      "focus": "Consolidate 7th chords, palm muting, and the 12-bar blues",
+      "intro": "Seven weeks in, and this week alone you added five 7th chords, palm muting, and the 12-bar blues. Today is a lighter day: run the highlights, jam a little, and record yourself so you can hear the progress next week.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "7th chord roll call",
+          "instructions": "Play 4 strums each of A7, D7, E7, G7, and B7. For each one, check every string that should ring, rings. B7 still messy? Totally fine — give it 5 extra slow placements."
+        },
+        {
+          "minutes": 3,
+          "title": "Palm mute check",
+          "instructions": "One minute of muted chugs on the low E, then 2 minutes of the verse-chorus drill on A7 to D7: 8 muted strums, 8 open strums, alternating. Make the contrast as dramatic as you can."
+        },
+        {
+          "minutes": 4,
+          "title": "Play-along: 12-bar blues",
+          "instructions": "Play the full 12-bar blues in A (A7 x4 bars, D7 x2, A7 x2, E7, D7, A7, E7) along with today's video. Use the shuffle feel where you can, plain down-strums where you can't. Loop it twice."
+        },
+        {
+          "minutes": 3,
+          "title": "Record 60 seconds",
+          "instructions": "Hit the Record button in the app and play about 60 seconds of your 12-bar blues — palm-muted start, open finish. Then listen back once. You're building a weekly audio diary; compare it to last week's clip and notice what got smoother."
+        },
+        {
+          "minutes": 2,
+          "title": "Free jam",
+          "instructions": "Two minutes on any two 7th chords with any strumming. Experiment: muted, open, loud, soft. No wrong answers today."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "A7", "frets": [-1, 0, 2, 0, 2, 0], "fingers": [0, 0, 1, 0, 2, 0] },
+        { "type": "chord", "name": "E7", "frets": [0, 2, 0, 1, 0, 0], "fingers": [0, 2, 0, 1, 0, 0] },
+        { "type": "strum", "name": "Shuffle Feel", "beats": ["D", "", "D", "U", "D", "", "D", "U"] }
+      ],
+      "youtube": {
+        "videoId": "hokYbWsW-Co",
+        "title": "Beginner Blues #1: How to Play the Blues on Guitar",
+        "channel": "Marty Music"
+      },
+      "tips": [
+        "Recording feels awkward. Do it anyway — it's the most honest progress tracker you have.",
+        "Next week: power chords. The palm muting you learned this week is about to pay off big."
+      ]
+    }
+  ]
+}

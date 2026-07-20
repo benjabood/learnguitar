@@ -1,0 +1,411 @@
+{
+  "week": 12,
+  "days": [
+    {
+      "day": 78,
+      "week": 12,
+      "title": "The 12-Bar Blues: The Form Behind It All",
+      "isReview": false,
+      "focus": "The 12-bar blues structure in A (A7, D7, E7)",
+      "intro": "The 12-bar blues is the skeleton under rock and roll, R&B, and half the songbook of the 20th century. Today you learn the form in the key of A — three chords you already know, arranged in the most famous 12 bars in music.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up: the three chords",
+          "instructions": "Strum A7, D7, and E7 for one bar each (4 downstrums), around and around, 6 times. These 7th chords are the sound of the blues — a little tense, a little sweet. Check each chord rings before moving on."
+        },
+        {
+          "minutes": 5,
+          "title": "Learn the map",
+          "instructions": "The form: 4 bars of A7, 2 bars of D7, 2 bars of A7, 1 bar of E7, 1 bar of D7, 2 bars of A7. That's 12. Say it out loud like an address: 'four of A, two of D, two of A, one of E, one of D, two of A.' Write it down, then recite it twice without looking."
+        },
+        {
+          "minutes": 4,
+          "title": "Play the form, one strum per bar",
+          "instructions": "Count '1-2-3-4' out loud for every bar, strumming each chord once on beat 1 and letting it ring. Go around the whole 12 bars 4 times without stopping. Counting out loud is not optional — the counting IS the lesson today."
+        },
+        {
+          "minutes": 3,
+          "title": "Test yourself",
+          "instructions": "Play the 12 bars with 4 downstrums per bar, no chart, from memory. If you get lost, notice WHERE (it's almost always bar 9, the E7) and run bars 9-12 alone 3 times. Finish with one full confident pass."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "A7", "frets": [-1, 0, 2, 0, 2, 0], "fingers": [0, 0, 1, 0, 2, 0] },
+        { "type": "chord", "name": "D7", "frets": [-1, -1, 0, 2, 1, 2], "fingers": [0, 0, 0, 2, 1, 3] },
+        { "type": "chord", "name": "E7", "frets": [0, 2, 0, 1, 0, 0], "fingers": [0, 2, 0, 1, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "f8cGLZJlMtQ",
+        "title": "How to Play a 12-Bar Blues on Guitar - Key of A (A7 - D7 - E7)",
+        "channel": "Green Hills Guitar Studio"
+      },
+      "tips": [
+        "Musicians call these chords the I, IV, and V — in A that's A7, D7, E7. Know the numbers and you can play blues in any key.",
+        "Bar 9 (E7) is the emotional peak of the form. Feel it lift."
+      ]
+    },
+    {
+      "day": 79,
+      "week": 12,
+      "title": "The Blues Shuffle on A",
+      "isReview": false,
+      "focus": "Two-string palm-muted shuffle rhythm on A",
+      "intro": "Strumming the blues is fine; shuffling it is the real thing. Today you learn the two-string boogie pattern — the chugging engine of every blues band — starting on the A chord.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Play one full 12-bar form from memory with downstrums, counting bars out loud. Yesterday's map should still be in your head — prove it."
+        },
+        {
+          "minutes": 5,
+          "title": "Build the A shuffle",
+          "instructions": "Hold the open A string (string 5) and fret string 4 at fret 2 with your index. Pick both strings together twice, then move your ring finger to string 4 fret 4 and pick both twice, then back to fret 2 for two, fret 4 for two. That's one bar: 2-2-4-4 in pairs, all downstrokes. Loop it 10 times slowly."
+        },
+        {
+          "minutes": 4,
+          "title": "Add the palm mute",
+          "instructions": "Rest the edge of your picking palm lightly on the strings right at the bridge and play the same pattern. You want a tight 'chunk' — if the notes die completely you're pressing too hard; slide the palm back toward the bridge. Ten muted bars. That chug is the sound of Chicago."
+        },
+        {
+          "minutes": 4,
+          "title": "Groove loop",
+          "instructions": "Set a lazy foot tap around 70 bpm and shuffle on A for 4 bars at a stretch, resting 1 bar between stretches. Keep the pairs even and the mute consistent. Six stretches. Bonus: swing it — make the first note of each pair slightly longer, 'DOO-da DOO-da'."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "A Shuffle (one bar)",
+          "notes": [
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 2 },
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 2 },
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 4 },
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 4 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "hokYbWsW-Co",
+        "title": "Beginner Blues #1: How to Play the Blues on Guitar",
+        "channel": "Marty Music"
+      },
+      "tips": [
+        "Keep the index finger planted at fret 2 the whole time — only the ring finger moves.",
+        "All downstrokes. The shuffle's drive comes from the down-down-down engine."
+      ]
+    },
+    {
+      "day": 80,
+      "week": 12,
+      "title": "Shuffle on D and E",
+      "isReview": false,
+      "focus": "Moving the shuffle pattern to the D and E string pairs",
+      "intro": "The shuffle you built yesterday is a movable machine. Slide it one string pair over and you have the D shuffle; drop to the bottom two strings and you have E. Learn both today and you own the whole form.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up: A shuffle",
+          "instructions": "Palm-muted A shuffle, 6 bars in a row at a comfortable tempo. It should feel one notch easier than yesterday. If the pairs are uneven, slow down until they lock."
+        },
+        {
+          "minutes": 4,
+          "title": "The D shuffle",
+          "instructions": "Same exact moves, one string set higher: open D string (string 4) with string 3 at fret 2, then string 3 at fret 4. Pairs of two, all downstrokes, palm mute on: 2-2-4-4. The stretch to fret 4 feels wider here — let your thumb drop behind the neck. Ten slow bars."
+        },
+        {
+          "minutes": 4,
+          "title": "The E shuffle",
+          "instructions": "Bottom of the guitar: open low E (string 6) with string 5 at fret 2, then string 5 at fret 4. Same 2-2-4-4 pattern. This one growls — it's the deepest, meanest voice of the three. Ten bars, keeping the palm mute tight so it chugs instead of booms."
+        },
+        {
+          "minutes": 4,
+          "title": "Switching drill",
+          "instructions": "Play 2 bars of A shuffle, 2 bars of D, 2 bars of A, 2 bars of E, no stopping. The switch is just your picking hand shifting one string set — practice the jump silently twice, then run the drill 4 times through. This is 80% of tomorrow's full blues."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "D Shuffle (one bar)",
+          "notes": [
+            { "string": 4, "fret": 0 },
+            { "string": 3, "fret": 2 },
+            { "string": 4, "fret": 0 },
+            { "string": 3, "fret": 2 },
+            { "string": 4, "fret": 0 },
+            { "string": 3, "fret": 4 },
+            { "string": 4, "fret": 0 },
+            { "string": 3, "fret": 4 }
+          ]
+        },
+        {
+          "type": "tab",
+          "name": "E Shuffle (one bar)",
+          "notes": [
+            { "string": 6, "fret": 0 },
+            { "string": 5, "fret": 2 },
+            { "string": 6, "fret": 0 },
+            { "string": 5, "fret": 2 },
+            { "string": 6, "fret": 0 },
+            { "string": 5, "fret": 4 },
+            { "string": 6, "fret": 0 },
+            { "string": 5, "fret": 4 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "XFuXLSIYH7s",
+        "title": "12 Bar Blues Lesson For Beginners",
+        "channel": "Marty Music"
+      },
+      "tips": [
+        "Same finger shape on all three shuffles — only the string pair changes.",
+        "Watch your picking hand during switches; hitting the wrong open string is the #1 error."
+      ]
+    },
+    {
+      "day": 81,
+      "week": 12,
+      "title": "The Full 12-Bar Shuffle in A",
+      "isReview": false,
+      "focus": "Complete 12-bar blues with shuffle rhythm",
+      "intro": "Today the map meets the engine. You'll drive the shuffle through all 12 bars — the exact thing a rhythm guitarist does on a bandstand. This is a milestone day: real blues, played by you.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up: all three shuffles",
+          "instructions": "Two palm-muted bars each of A, D, and E shuffle, twice around. Then run yesterday's switching drill once: A-A-D-D-A-A-E-E."
+        },
+        {
+          "minutes": 3,
+          "title": "Say the map in shuffle terms",
+          "instructions": "The 12 bars translate to: 4 bars A shuffle, 2 bars D, 2 bars A, 1 bar E, 1 bar D, 2 bars A. Recite it, then 'air guitar' it — mime the string-pair switches in order while counting bars out loud. Two dry runs."
+        },
+        {
+          "minutes": 5,
+          "title": "Full form, slow",
+          "instructions": "Play the entire 12-bar shuffle at a crawl — around 60 bpm, counting bars in your head. Do not stop for flubbed notes; the form must survive. Go around 3 full times. Between rounds, shake out your picking hand; palm muting for 12 bars is a workout."
+        },
+        {
+          "minutes": 4,
+          "title": "Tempo up",
+          "instructions": "Two more full rounds at around 80 bpm with a foot tap. Then one final 'performance' round: best groove, tightest mute, and a single big open A7 strum on the downbeat of an imaginary bar 13 to end it. That ending strum is your bow."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "A Shuffle (one bar)",
+          "notes": [
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 2 },
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 2 },
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 4 },
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 4 }
+          ]
+        },
+        { "type": "chord", "name": "A7", "frets": [-1, 0, 2, 0, 2, 0], "fingers": [0, 0, 1, 0, 2, 0] }
+      ],
+      "youtube": {
+        "videoId": "KvpQF6xkE3Q",
+        "title": "Strumming The 12 Bar Blues In A Major On Guitar Turnaround Lesson A7 D7 E7 @EricBlackmonGuitar",
+        "channel": "EricBlackmonGuitar"
+      },
+      "tips": [
+        "Losing your place? Count bars on repeat: '1-2-3-4, 2-2-3-4, 3-2-3-4...' The first number is the bar you're in.",
+        "This exact part has powered thousands of records. You're playing history."
+      ]
+    },
+    {
+      "day": 82,
+      "week": 12,
+      "title": "Turnaround + Licks Over the Blues",
+      "isReview": false,
+      "focus": "The blues turnaround and pentatonic licks over the form",
+      "intro": "Two upgrades today. First, the turnaround — the little signature phrase in bars 11-12 that whips the band back to bar 1. Second, the big payoff: your week-11 pentatonic licks work perfectly over this blues.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up: one full shuffle round",
+          "instructions": "Play the complete 12-bar shuffle once at 70-ish bpm from memory. Then run pentatonic shape 1 up and down twice — both hands are on duty today."
+        },
+        {
+          "minutes": 5,
+          "title": "Learn the turnaround",
+          "instructions": "In the last 2 bars, swap the shuffle for this classic walk-down: with the open high e ringing between notes, play B string fret 3, open e, B string fret 2, open e, B string fret 1, open e — then land on open low E and string 5 fret 2 (the E7 feel). Slow count: one move per beat. Ten reps, then play bars 9-12 with the turnaround installed, 3 times."
+        },
+        {
+          "minutes": 4,
+          "title": "Licks over the blues",
+          "instructions": "Here's the magic: A minor pentatonic licks sound great over an A blues. Count 4 silent bars of the form and play Lick 1 in the space, then rest, then Lick 3. Alternate licks and space for 12 bars, keeping your place in the form by counting. Twice through."
+        },
+        {
+          "minutes": 3,
+          "title": "Combine: shuffle into turnaround",
+          "instructions": "Play bars 1-10 as shuffle, bars 11-12 as turnaround, then loop straight back to bar 1 without a gap — that's WHY it's called a turnaround. Two continuous laps. End the second lap on a fat E7 strum instead: that's the classic 'last chorus' ending."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "A Blues Turnaround",
+          "notes": [
+            { "string": 2, "fret": 3 },
+            { "string": 1, "fret": 0 },
+            { "string": 2, "fret": 2 },
+            { "string": 1, "fret": 0 },
+            { "string": 2, "fret": 1 },
+            { "string": 1, "fret": 0 },
+            { "string": 6, "fret": 0 },
+            { "string": 5, "fret": 2 }
+          ]
+        },
+        {
+          "type": "tab",
+          "name": "Lick 1 - Classic Box Phrase",
+          "notes": [
+            { "string": 1, "fret": 5 },
+            { "string": 1, "fret": 8 },
+            { "string": 1, "fret": 5 },
+            { "string": 2, "fret": 8 },
+            { "string": 2, "fret": 5 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "lTESxShp2k8",
+        "title": "12 Bar Blues Shuffle & Turnaround - Easy Guitar Lesson - Tutorial - how to play",
+        "channel": "Henry Olsen"
+      },
+      "tips": [
+        "The turnaround walk-down is chromatic: frets 3, 2, 1. Three steps down the stairs, then jump home.",
+        "Over blues, both A minor pentatonic AND the 'wrong-sounding' notes work — the blues forgives everything played with conviction."
+      ]
+    },
+    {
+      "day": 83,
+      "week": 12,
+      "title": "Blues Jam Day",
+      "isReview": false,
+      "focus": "Putting rhythm, lick, and turnaround together as a jam",
+      "intro": "Today is a jam, not a drill. You'll run the blues like a one-person band: shuffle rhythm, a lick when there's room, turnaround to bring it home. This is the week-11 switching skill meeting the week-12 form.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "One lap of the 12-bar shuffle with turnaround, easy tempo. Then your favorite lick 3 times in time. Loose and groovy beats tight and tense today."
+        },
+        {
+          "minutes": 5,
+          "title": "Rhythm chorus x2",
+          "instructions": "Two full laps of the 12-bar shuffle with the turnaround in bars 11-12, foot tapping around 80 bpm. First lap palm-muted and tight; second lap open the mute slightly for a bigger sound. This is your 'band' groove — make it feel good enough to solo over."
+        },
+        {
+          "minutes": 4,
+          "title": "Drop a lick into the form",
+          "instructions": "Play the form again, but in bars 3-4 STOP the shuffle and play Lick 1, then pick the shuffle back up at bar 5. Next lap, drop Lick 3 into bars 7-8. The re-entry is the skill: know which bar you're in at all times. Two laps minimum."
+        },
+        {
+          "minutes": 4,
+          "title": "The full jam",
+          "instructions": "One continuous performance: lap 1 pure rhythm, lap 2 with one lick dropped in wherever you feel it, then the turnaround, then end on a ringing A7. If it falls apart, laugh, count yourself back in at bar 1, and keep going — that's real jam behavior. Record nothing, judge nothing, enjoy everything."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "tab",
+          "name": "A Shuffle (one bar)",
+          "notes": [
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 2 },
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 2 },
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 4 },
+            { "string": 5, "fret": 0 },
+            { "string": 4, "fret": 4 }
+          ]
+        },
+        {
+          "type": "tab",
+          "name": "Lick 3 - The Growler",
+          "notes": [
+            { "string": 3, "fret": 5 },
+            { "string": 3, "fret": 7 },
+            { "string": 4, "fret": 5 },
+            { "string": 4, "fret": 7 },
+            { "string": 3, "fret": 5 },
+            { "string": 3, "fret": 7 }
+          ]
+        }
+      ],
+      "youtube": {
+        "videoId": "O5NONLQL_n0",
+        "title": "Your 1st Blues Solo - Guitar Lesson with (1st scale minor pentatonic)",
+        "channel": "GuitarJamz"
+      },
+      "tips": [
+        "One well-placed lick per 12 bars sounds pro. Five crammed licks sounds panicked.",
+        "Groove first, notes second. A blues with zero licks but a deep pocket is still great blues."
+      ]
+    },
+    {
+      "day": 84,
+      "week": 12,
+      "title": "Week 12 Review: You Play the Blues",
+      "isReview": true,
+      "focus": "Consolidating the 12-bar form, shuffle, turnaround, and licks",
+      "intro": "In seven days you went from 'what's a 12-bar?' to running shuffle, licks, and turnarounds like a solo blues act. Light review today — one week of the program left, and it's a victory lap.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up shuffle",
+          "instructions": "Palm-muted shuffle: 2 bars each on A, D, and E, twice around, around 80 bpm. Then recite the 12-bar map once out loud — it should roll off the tongue by now."
+        },
+        {
+          "minutes": 4,
+          "title": "Full form pass",
+          "instructions": "One complete 12-bar shuffle with the turnaround in bars 11-12, then loop straight into a second lap and end it on a big A7. Two laps, no chart, no stopping. This is the week's whole story in 90 seconds."
+        },
+        {
+          "minutes": 3,
+          "title": "Lick + turnaround spotlight",
+          "instructions": "Play bars 9-12 three times: E7 bar, D7 bar, then the turnaround. Then drop your favorite pentatonic lick into free space twice. These are the two flashiest tools you own — polish them."
+        },
+        {
+          "minutes": 3,
+          "title": "Record 60 seconds",
+          "instructions": "Hit the Record button in the app and record one full 12-bar lap with the turnaround, plus a lick if it fits in 60 seconds. Listen back once. That's a real blues performance — count how many days ago you couldn't play a single chord. It's 84."
+        },
+        {
+          "minutes": 2,
+          "title": "Cool-down",
+          "instructions": "Strum A7, D7, E7 slow and open, letting each ring. Next week is graduation week: your best songs, your proof of progress, and day 90. Bring everything."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "A7", "frets": [-1, 0, 2, 0, 2, 0], "fingers": [0, 0, 1, 0, 2, 0] },
+        { "type": "chord", "name": "D7", "frets": [-1, -1, 0, 2, 1, 2], "fingers": [0, 0, 0, 2, 1, 3] },
+        { "type": "chord", "name": "E7", "frets": [0, 2, 0, 1, 0, 0], "fingers": [0, 2, 0, 1, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "f8cGLZJlMtQ",
+        "title": "How to Play a 12-Bar Blues on Guitar - Key of A (A7 - D7 - E7)",
+        "channel": "Green Hills Guitar Studio"
+      },
+      "tips": [
+        "The 12-bar form works in every key — move the shuffle shapes and you can jam with anyone, anywhere.",
+        "Save this recording next to your week 10 and 11 clips; day 90 has plans for them."
+      ]
+    }
+  ]
+}

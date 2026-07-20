@@ -1,0 +1,339 @@
+{
+  "week": 4,
+  "days": [
+    {
+      "day": 22,
+      "week": 4,
+      "title": "Meet the Minor Chords: E Minor",
+      "isReview": false,
+      "focus": "Learn the Em chord and hear the minor sound",
+      "intro": "You already own A, D, and E. Today you add your first minor chord, E minor, and it is the easiest chord on the guitar: just two fingers. Fifteen focused minutes and you will hear a whole new mood come out of your guitar.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Strum an open E chord 4 times, then do 30 seconds of A-to-D changes at a relaxed pace. Shake out your fretting hand for 10 seconds when you finish."
+        },
+        {
+          "minutes": 4,
+          "title": "Build the Em shape",
+          "instructions": "Put finger 2 on the A string, 2nd fret, and finger 3 on the D string, 2nd fret. Keep both fingers just behind the fret wire and arched so they only touch their own strings. Strum all 6 strings slowly. Lift both fingers off, put them back, and strum again. Do this 10 times."
+        },
+        {
+          "minutes": 3,
+          "title": "String-by-string check",
+          "instructions": "Hold Em and pick each string one at a time from low E to high e. Every string should ring clearly. If one buzzes or sounds dead, adjust that finger's arch and press closer to the fret, then check all 6 again. Do 3 clean passes."
+        },
+        {
+          "minutes": 3,
+          "title": "Hear major vs minor",
+          "instructions": "Strum E major 4 times, then Em 4 times. Notice E sounds bright and Em sounds darker and moodier. Repeat the swap 6 times. Only one finger moves and one lifts, so keep your eyes on the strings and make the change small."
+        },
+        {
+          "minutes": 3,
+          "title": "Strum on Em",
+          "instructions": "Play your D-DU pattern on Em for 3 minutes without stopping. Count '1, 2 and, 3, 4 and' out loud and keep your strumming arm relaxed."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 2, 3, 0, 0, 0] },
+        { "type": "chord", "name": "E", "frets": [0, 2, 2, 1, 0, 0], "fingers": [0, 2, 3, 1, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "lqcd3jVysXY",
+        "title": "How to Play the Em Chord | Guitar for Beginners",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Em uses all 6 strings, so strum big and let it ring.",
+        "Fingertips, not finger pads: keep both fingers standing tall.",
+        "If E to Em feels confusing, remember: lift finger 1, keep 2 and 3 down."
+      ]
+    },
+    {
+      "day": 23,
+      "week": 4,
+      "title": "The A Minor Chord",
+      "isReview": false,
+      "focus": "Learn Am and change smoothly between Am and Em",
+      "intro": "Today you learn A minor, the moody cousin of the A chord you already know. Am shows up in thousands of songs, and it pairs beautifully with the Em you learned yesterday. By the end of today you will be switching between the two.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up on Em",
+          "instructions": "Strum Em with your D-DU pattern for 1 minute. Then place and lift the Em shape 10 times, strumming once each time you land it."
+        },
+        {
+          "minutes": 4,
+          "title": "Build the Am shape",
+          "instructions": "Finger 1 goes on the B string, 1st fret. Finger 2 goes on the D string, 2nd fret. Finger 3 goes on the G string, 2nd fret. Skip the low E string when you strum, so hit only the top 5 strings. Place the shape, strum, lift, and repeat 10 times."
+        },
+        {
+          "minutes": 3,
+          "title": "String-by-string check",
+          "instructions": "Hold Am and pick each of the 5 strings from the A string down to high e. Fix any buzzes by arching your fingers more, especially finger 1, which loves to lean on the high e string. Do 3 clean passes."
+        },
+        {
+          "minutes": 4,
+          "title": "One-minute changes: Am to Em",
+          "instructions": "Set a timer for 1 minute and switch Am, Em, Am, Em as many times as you can, strumming once per chord. Count your changes, rest 20 seconds, then do it twice more and try to beat your score. Notice fingers 2 and 3 keep the same shape and just hop over one string pair."
+        },
+        {
+          "minutes": 2,
+          "title": "Strum both chords",
+          "instructions": "Play 4 slow strums on Am, then 4 on Em, and loop that for 2 minutes. Keep the switch moving even if a note buzzes."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] },
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 2, 3, 0, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "1Y2veGF9s44",
+        "title": "How to Play the Am Chord | Guitar for Beginners",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Am looks exactly like your E chord shape moved over one string set.",
+        "Aim your pick at the A string when you strum Am so you miss the low E.",
+        "Slow and clean beats fast and buzzy, every time."
+      ]
+    },
+    {
+      "day": 24,
+      "week": 4,
+      "title": "The D Minor Chord",
+      "isReview": false,
+      "focus": "Learn Dm and play your first all-minor progression",
+      "intro": "One more minor chord and you have the full set. D minor is the most compact of the three, using just the thinnest four strings. Today you learn it and then string all three minors together into a real progression.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Do one minute of Am-to-Em changes, strumming once per chord. Then strum Am for 30 seconds with D-DU."
+        },
+        {
+          "minutes": 4,
+          "title": "Build the Dm shape",
+          "instructions": "Finger 1 goes on the high e string, 1st fret. Finger 2 goes on the G string, 2nd fret. Finger 3 goes on the B string, 3rd fret. Strum only the thinnest 4 strings, starting from the open D string. Place, strum, lift, repeat 10 times."
+        },
+        {
+          "minutes": 2,
+          "title": "String-by-string check",
+          "instructions": "Hold Dm and pick the D, G, B, and high e strings one at a time. The stretch between fingers 1 and 3 is the tricky part, so if the B string buzzes, slide finger 3 closer to the 3rd fret wire. Do 3 clean passes."
+        },
+        {
+          "minutes": 4,
+          "title": "One-minute changes: Dm to Am",
+          "instructions": "Set a timer for 1 minute and switch Dm, Am, Dm, Am, strumming once per chord. Count your changes, rest, and repeat twice. Finger 1 stays on the 1st fret for both chords, it just moves from the high e string to the B string, so make that your guide finger."
+        },
+        {
+          "minutes": 3,
+          "title": "First minor progression",
+          "instructions": "Play Am for 4 slow strums, Dm for 4, Em for 4, then back to Am. Loop this cycle for 3 minutes without stopping. Keep a steady count of 4 even if a change is late."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "Dm", "frets": [-1, -1, 0, 2, 3, 1], "fingers": [0, 0, 0, 2, 3, 1] },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] },
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 2, 3, 0, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "y5cAG2u6mTQ",
+        "title": "How To Play The Am and Dm Chords on Guitar - Beginner Guitar Chords",
+        "channel": "Lauren Bateman"
+      },
+      "tips": [
+        "Dm only needs 4 strings: aim your strum at the open D string.",
+        "Am, Dm, Em together can play hundreds of songs. You now know all three."
+      ]
+    },
+    {
+      "day": 25,
+      "week": 4,
+      "title": "Major Meets Minor",
+      "isReview": false,
+      "focus": "Contrast A with Am and E with Em, then mix them in progressions",
+      "intro": "You now know six chords: A, D, E, Em, Am, and Dm. Today you train your fingers and your ears at the same time by swapping between major and minor versions of the same chord. This is where your playing starts to sound genuinely musical.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Strum each chord you know 2 times in this order: A, D, E, Em, Am, Dm. Take your time placing each shape cleanly before you strum."
+        },
+        {
+          "minutes": 4,
+          "title": "A to Am swap",
+          "instructions": "Play A for 4 strums, then Am for 4 strums, and loop it for 2 minutes. Then do 10 swaps with just 1 strum each. Listen hard: same root note, totally different mood. Say 'bright' on A and 'dark' on Am to lock in the sound."
+        },
+        {
+          "minutes": 4,
+          "title": "E to Em swap",
+          "instructions": "Play E for 4 strums, then Em for 4 strums, and loop for 2 minutes. This change is tiny: only finger 1 lifts off and goes back on the G string. Keep fingers 2 and 3 planted the whole time. Finish with 10 single-strum swaps."
+        },
+        {
+          "minutes": 3,
+          "title": "Mixed progressions",
+          "instructions": "Play Em, A, D with 4 strums each and loop it 4 times. Then play Am, Dm, E with 4 strums each and loop it 4 times. These two loops mix major and minor, which is exactly how real songs work."
+        },
+        {
+          "minutes": 2,
+          "title": "Ear game finish",
+          "instructions": "Close your eyes and strum either A or Am at random, and name out loud whether it is major or minor before you look. Do 10 rounds. If you get one wrong, play both back to back and listen again."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "A", "frets": [-1, 0, 2, 2, 2, 0], "fingers": [0, 0, 1, 2, 3, 0] },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] },
+        { "type": "chord", "name": "E", "frets": [0, 2, 2, 1, 0, 0], "fingers": [0, 2, 3, 1, 0, 0] }
+      ],
+      "youtube": {
+        "videoId": "lRJ_d3PqPIQ",
+        "title": "8 Open Chords That You Should Know! | Guitar for Beginners",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Major sounds happy or bright; minor sounds sad or serious. Trust your ear.",
+        "E to Em is a one-finger move. Keep the anchor fingers down.",
+        "Buzzing on a swap usually means a finger landed flat. Re-arch and go again."
+      ]
+    },
+    {
+      "day": 26,
+      "week": 4,
+      "title": "Progression Workout: Em-A-D and Am-Dm-E",
+      "isReview": false,
+      "focus": "Drill two three-chord progressions until the loops flow",
+      "intro": "Progressions are just chords in a repeating order, and they are the skeleton of every song you love. Today you drill two of them until the changes stop feeling like separate events and start feeling like one flowing motion.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Warm-up",
+          "instructions": "Do 30 seconds each of these one-minute-style changes: Em to A, A to D, Am to Dm, Dm to E. One strum per chord, steady pace."
+        },
+        {
+          "minutes": 4,
+          "title": "Loop 1: Em-A-D",
+          "instructions": "Play Em, A, D with 4 slow strums each and repeat the loop for 4 minutes without stopping. Count '1, 2, 3, 4' out loud and start moving your fingers on beat 4 so you land the next chord on beat 1. Missing a beat is fine; stopping is not."
+        },
+        {
+          "minutes": 4,
+          "title": "Loop 2: Am-Dm-E",
+          "instructions": "Play Am, Dm, E with 4 slow strums each for 4 minutes. This one is darker and moodier. The Dm-to-E change is the hardest in the loop, so if it keeps tripping you, pause and do 10 slow changes on just that pair, then rejoin the loop."
+        },
+        {
+          "minutes": 3,
+          "title": "Speed round on your weakest pair",
+          "instructions": "Pick whichever change felt worst today. Set a 1-minute timer, count how many clean changes you get, rest 20 seconds, and repeat twice more. Write your best number down; you will beat it later this week."
+        },
+        {
+          "minutes": 2,
+          "title": "Add the strum",
+          "instructions": "Run Em, A, D one more time, but strum D-DU on each chord instead of single strums. Two full loops, keeping the count going through every change."
+        }
+      ],
+      "diagrams": [
+        { "type": "strum", "name": "D-DU", "beats": ["D", "", "D", "U", "D", "", "D", "U"] },
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 2, 3, 0, 0, 0] },
+        { "type": "chord", "name": "Dm", "frets": [-1, -1, 0, 2, 3, 1], "fingers": [0, 0, 0, 2, 3, 1] }
+      ],
+      "youtube": {
+        "videoId": "LXXFzXT-pQQ",
+        "title": "Chord Combinations - One Minute Changes - Stage 2 Guitar Lesson - Guitar For Beginners [BC-124]",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "The band never stops for a slow chord change. Keep counting no matter what.",
+        "Start lifting fingers on beat 4 so the new chord lands on beat 1."
+      ]
+    },
+    {
+      "day": 27,
+      "week": 4,
+      "title": "Minor Chord Song Day",
+      "isReview": false,
+      "focus": "Play a real song using Em, Am, and Dm",
+      "intro": "Everything this week was building to today: you are going to play along with real music using your three minor chords. It will not be perfect, and that is completely fine. Playing along with a song is the fastest way to get better.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Warm-up the changes",
+          "instructions": "Do 1 minute each of Em-to-Am, Am-to-Dm, and Dm-to-Em changes, one strum per chord. These are the exact moves you need for the song."
+        },
+        {
+          "minutes": 4,
+          "title": "Learn the song loop",
+          "instructions": "Play Em for 8 strums using D-DU, then Am for 8 strums, and loop it 6 times on your own. Then try Am for 8 and Dm for 8, looped 4 times. Keep your count out loud and your strumming arm moving."
+        },
+        {
+          "minutes": 6,
+          "title": "Play along with the video",
+          "instructions": "Open today's video and play along with one of the two-chord minor songs. Follow the chord changes on screen. If you fall behind, do not stop: mute the strings, find the next change, and jump back in on beat 1."
+        },
+        {
+          "minutes": 2,
+          "title": "Cool-down",
+          "instructions": "Strum Em slowly 8 times, letting each strum ring out fully. Notice how much smoother this chord feels than it did on day 22."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 2, 3, 0, 0, 0] },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] },
+        { "type": "chord", "name": "Dm", "frets": [-1, -1, 0, 2, 3, 1], "fingers": [0, 0, 0, 2, 3, 1] }
+      ],
+      "youtube": {
+        "videoId": "HtJ08n97X2c",
+        "title": "Play TEN songs with three EASY Minor Chords - Em, Am, and Dm - Easy beginner guitar lesson",
+        "channel": "Andy Guitar"
+      },
+      "tips": [
+        "Playing along with music trains your timing better than any drill.",
+        "Wrong chord, right time beats right chord, wrong time."
+      ]
+    },
+    {
+      "day": 28,
+      "week": 4,
+      "title": "Week 4 Review: Your Minor Chord Toolkit",
+      "isReview": true,
+      "focus": "Consolidate Em, Am, and Dm and record your weekly progress",
+      "intro": "Seven days ago you had never played a minor chord. Now you have three of them plus everything from before. Today is a lighter day: revisit, play something fun, and record yourself so you can hear the progress next week.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Six-chord warm-up",
+          "instructions": "Strum each chord 4 times in this order: A, D, E, Em, Am, Dm. Check every chord with a quick string-by-string pick before moving on. No rushing."
+        },
+        {
+          "minutes": 4,
+          "title": "One-minute change circuit",
+          "instructions": "Do one minute each of Am-to-Em, Dm-to-Am, and E-to-Em changes, counting your totals. Compare against the numbers you wrote down on day 26. Even one extra change is a win."
+        },
+        {
+          "minutes": 4,
+          "title": "Fun play-along",
+          "instructions": "Put on today's video and play along with one of the minor-chord songs using your D-DU strum. Pick the song that sounded coolest to you this week and just enjoy it."
+        },
+        {
+          "minutes": 4,
+          "title": "Record your weekly check-in",
+          "instructions": "Hit the Record button in the app and record about 60 seconds: play Am, Dm, Em with 4 strums each on a loop. Then listen back once. Do not judge, just notice one thing that improved this week and one thing to work on next week."
+        }
+      ],
+      "diagrams": [
+        { "type": "chord", "name": "Em", "frets": [0, 2, 2, 0, 0, 0], "fingers": [0, 2, 3, 0, 0, 0] },
+        { "type": "chord", "name": "Am", "frets": [-1, 0, 2, 2, 1, 0], "fingers": [0, 0, 2, 3, 1, 0] },
+        { "type": "chord", "name": "Dm", "frets": [-1, -1, 0, 2, 3, 1], "fingers": [0, 0, 0, 2, 3, 1] }
+      ],
+      "youtube": {
+        "videoId": "CWL_O9kR_b0",
+        "title": "Easy Minor Chord Songs using Am, Dm and, Em",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Weekly recordings are your progress diary. Future you will love hearing these.",
+        "Sore fingertips? A lighter review day like today is exactly when they recover."
+      ]
+    }
+  ]
+}

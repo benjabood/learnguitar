@@ -1,0 +1,370 @@
+{
+  "week": 2,
+  "days": [
+    {
+      "day": 8,
+      "week": 2,
+      "title": "Your First Chord: E Major",
+      "isReview": false,
+      "focus": "Building the E major chord and making every string ring",
+      "intro": "Week 2 begins with the big one: your first chord. E major uses all six strings, sounds huge, and once you own it, thousands of songs move within reach. Take it slow — today is about clean, not fast.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Tune and warm up",
+          "instructions": "Tune all 6 strings, then do one round of the 1-2-3 fret walk on the thin E string to wake up your fretting fingers."
+        },
+        {
+          "minutes": 5,
+          "title": "Build the E chord finger by finger",
+          "instructions": "Place your index finger on the G string, 1st fret. Add your middle finger on the A string, 2nd fret. Add your ring finger on the D string, 2nd fret, tucked just below your middle finger. Fingertips on their tips, thumb behind the neck, each finger close behind its fret. Take the whole shape off and rebuild it 5 times — building the shape from nothing is the real skill."
+        },
+        {
+          "minutes": 4,
+          "title": "The string-by-string check",
+          "instructions": "Hold the chord and pick each of the 6 strings one at a time, slowly. Every string should ring clearly — no buzzes, no dead thuds. If a string is muted, a neighboring finger is probably leaning on it; re-curl your fingers so they come down vertically. Do the full 6-string check 4 times."
+        },
+        {
+          "minutes": 4,
+          "title": "Strum it",
+          "instructions": "Give the E chord 10 slow, full downstrums, counting '1, 2, 3, 4.' Between every couple of strums, lift your hand off and rebuild the shape. That's your first chord — let it ring and enjoy it."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "chord",
+          "name": "E",
+          "frets": [0, 2, 2, 1, 0, 0],
+          "fingers": [0, 2, 3, 1, 0, 0]
+        }
+      ],
+      "youtube": {
+        "videoId": "WksDEkIlTb8",
+        "title": "The 8 Essential Beginner Chord Grips | Beginner Guitar Lesson 8.1 | Justin Guitar",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Squeeze only as hard as needed for a clean note — a death grip tires your hand and slows changes later.",
+        "A slightly muffled chord today is fine. Clean comes from repetition, not force."
+      ]
+    },
+    {
+      "day": 9,
+      "week": 2,
+      "title": "Chord Two: A Major",
+      "isReview": false,
+      "focus": "Building the A major chord with three fingers in one fret",
+      "intro": "Chord number two: A major. Three fingers squeeze into the second fret, which feels crowded at first — everyone's hand complains for a day or two, then it clicks. With E and A you'll already have a two-chord vocabulary.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Tune and E chord warm-up",
+          "instructions": "Tune up, then build the E chord from nothing 5 times, strumming once each time. Run one string-by-string check to make sure it still rings."
+        },
+        {
+          "minutes": 5,
+          "title": "Build the A chord",
+          "instructions": "Line up index, middle, and ring fingers on the 2nd fret of the D, G, and B strings — in a row, one string each. Angle your fingers slightly so all three fit behind the fret; it's a tight squeeze and that's normal. The thick E string stays out of this chord, so don't strum it. Build the shape from nothing 5 times."
+        },
+        {
+          "minutes": 4,
+          "title": "String-by-string check",
+          "instructions": "Pick each string from the A string (5th) down to the thin E, one at a time. The most common problem is the thin E getting muted by the underside of your ring finger — re-curl so your fingertips come straight down. Do the check 4 times, fixing one problem string at a time."
+        },
+        {
+          "minutes": 3,
+          "title": "Strum A, visit E",
+          "instructions": "Strum the A chord 4 times (skipping the thick E string), counting steadily. Then switch to the E chord and strum it 4 times. Alternate like this for the rest of the step — no rush on the switch, just get there cleanly. That switch is tomorrow's whole lesson."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "chord",
+          "name": "A",
+          "frets": [-1, 0, 2, 2, 2, 0],
+          "fingers": [0, 0, 1, 2, 3, 0]
+        },
+        {
+          "type": "chord",
+          "name": "E",
+          "frets": [0, 2, 2, 1, 0, 0],
+          "fingers": [0, 2, 3, 1, 0, 0]
+        }
+      ],
+      "youtube": {
+        "videoId": "1X2rW5ATdLQ",
+        "title": "How to Play the A Chord | Guitar for Beginners",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "If three fingers won't fit side by side, try stacking them in a slight diagonal line.",
+        "Hitting the muted low E occasionally is fine for now — your strumming aim improves with time."
+      ]
+    },
+    {
+      "day": 10,
+      "week": 2,
+      "title": "E to A: Your First Chord Change",
+      "isReview": false,
+      "focus": "Switching between E and A, slow motion then one-minute changes",
+      "intro": "Knowing chords is one thing; switching between them in time is what makes music. Today you start the single most valuable practice habit in this whole course: one-minute changes. Count your score — you'll beat it all week.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Tune and chord check",
+          "instructions": "Tune up, then build E and A each 3 times from nothing with a string-by-string check on one of each. Clean shapes first, speed later."
+        },
+        {
+          "minutes": 5,
+          "title": "Slow-motion changes",
+          "instructions": "Hold E, strum once, then move to A in deliberate slow motion — watch each finger travel to its new string. Notice the shortcut: your index and middle fingers barely move between these shapes. Strum A once, then crawl back to E. Do 10 round trips at whatever speed keeps the movement smooth and tension-free."
+        },
+        {
+          "minutes": 5,
+          "title": "One-minute changes",
+          "instructions": "Set a 60-second timer. Switch E-A-E-A as many times as you can, strumming once per chord — every arrival counts as one change, even if it's scrappy. Write down your score. Rest 30 seconds, then do two more one-minute rounds and try to beat it. Anything above 10 is a solid first day; the number only goes up from here."
+        },
+        {
+          "minutes": 2,
+          "title": "Cool-down strums",
+          "instructions": "Finish with 4 slow strums on E and 4 on A, making them as clean and ringing as you can. End on a good sound."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "chord",
+          "name": "E",
+          "frets": [0, 2, 2, 1, 0, 0],
+          "fingers": [0, 2, 3, 1, 0, 0]
+        },
+        {
+          "type": "chord",
+          "name": "A",
+          "frets": [-1, 0, 2, 2, 2, 0],
+          "fingers": [0, 0, 1, 2, 3, 0]
+        }
+      ],
+      "youtube": {
+        "videoId": "qXK_If0QzDM",
+        "title": "One Minute Changes (Guitar Lesson BC-115) Guitar for beginners Stage 1",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "During one-minute changes, scrappy is allowed — the drill trains speed, your slow practice trains clean.",
+        "Move all fingers toward the new chord at once, not one at a time.",
+        "Log today's score. Beating your own number is addictive in the best way."
+      ]
+    },
+    {
+      "day": 11,
+      "week": 2,
+      "title": "Chord Three: D Major",
+      "isReview": false,
+      "focus": "Building the D major chord on the top four strings",
+      "intro": "Meet D major — the triangle-shaped chord that completes the legendary E-A-D trio. Master these three and you can play thousands of real songs, including the ones coming next week. D only uses four strings, so your strumming aim gets a workout too.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Tune and warm up",
+          "instructions": "Tune up, then do one 60-second round of E-A one-minute changes. Check today's count against yesterday's score."
+        },
+        {
+          "minutes": 5,
+          "title": "Build the D chord",
+          "instructions": "Index finger on the G string, 2nd fret. Middle finger on the thin E string, 2nd fret. Ring finger on the B string, 3rd fret — it sits below the other two, forming a little triangle. Only the thinnest four strings get played; the low E and A stay silent. Build it from nothing 6 times, saying the finger positions out loud as you place them."
+        },
+        {
+          "minutes": 4,
+          "title": "String-by-string check",
+          "instructions": "Pick the four strings one at a time: open D, then G, B, and thin E. The usual culprit is the thin E muted by your ring finger's underside — arch that finger higher. Run the check 4 times until all four ring."
+        },
+        {
+          "minutes": 4,
+          "title": "Strum practice with aim",
+          "instructions": "Strum just the top four strings, 10 slow downstrums. Start your strum from the open D string — aim is approximate at first, and grazing the A string won't ruin anything. Rebuild the shape from nothing between every 2 strums."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "chord",
+          "name": "D",
+          "frets": [-1, -1, 0, 2, 3, 2],
+          "fingers": [0, 0, 0, 1, 3, 2]
+        }
+      ],
+      "youtube": {
+        "videoId": "yh6sPqDEZCY",
+        "title": "Super Easy First Guitar Lesson - Guitar Lessons For Beginners - Stage 1 - The D Chord",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Think 'triangle' — if the shape looks like a triangle pointing at you, you've got it.",
+        "D sounds thin compared to E. That's the chord's character, not your mistake."
+      ]
+    },
+    {
+      "day": 12,
+      "week": 2,
+      "title": "A to D: Changes with an Anchor",
+      "isReview": false,
+      "focus": "Switching between A and D using minimal finger movement",
+      "intro": "Today you drill the A-to-D change and learn the pro secret: fingers that travel less arrive faster. This pair shares neighborhood real estate on the 2nd fret, so there's a shortcut waiting for you.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Tune and chord recap",
+          "instructions": "Tune up, then build A and D each 3 times from nothing, with one string-by-string check apiece. Both should feel familiar by now."
+        },
+        {
+          "minutes": 4,
+          "title": "Find the shortcut",
+          "instructions": "Make the A chord, then change to D in slow motion and watch your fingers: your index finger stays on the same fret, just hopping one string. Do 5 ultra-slow changes focusing only on moving your fingers the shortest possible distance. Less travel means faster changes — this idea applies to every chord pair you'll ever learn."
+        },
+        {
+          "minutes": 4,
+          "title": "Slow changes with strums",
+          "instructions": "Strum A once, change to D, strum once, change back. Do 10 round trips at a relaxed pace, keeping each chord clean. Remember your strum aim: 5 strings for A, 4 for D."
+        },
+        {
+          "minutes": 4,
+          "title": "One-minute changes: A-D",
+          "instructions": "Set a 60-second timer and count your A-D changes, one strum per chord. Do 2 rounds with a 30-second rest between, and log your best score. Then do one final round of E-A changes to keep yesterday's pair warm."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "chord",
+          "name": "A",
+          "frets": [-1, 0, 2, 2, 2, 0],
+          "fingers": [0, 0, 1, 2, 3, 0]
+        },
+        {
+          "type": "chord",
+          "name": "D",
+          "frets": [-1, -1, 0, 2, 3, 2],
+          "fingers": [0, 0, 0, 1, 3, 2]
+        }
+      ],
+      "youtube": {
+        "videoId": "pBacbX9yefA",
+        "title": "A, D and E Chords - Easy Chord Changes Using Anchor Fingers - Beginner Guitar Lessons [BC-114]",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Prepare the change in your head one strum early — think 'D' while still strumming A.",
+        "Keep fingers hovering low over the strings between chords; high fingers are slow fingers."
+      ]
+    },
+    {
+      "day": 13,
+      "week": 2,
+      "title": "Three Chords in Time",
+      "isReview": false,
+      "focus": "Cycling E, A, and D with steady quarter-note strumming",
+      "intro": "Today everything merges: all three chords, played in a loop, with strums that land on a steady count. This is the exact skeleton of real rhythm guitar — from here on out, you're not doing exercises, you're playing music.",
+      "steps": [
+        {
+          "minutes": 2,
+          "title": "Tune and quick changes",
+          "instructions": "Tune up, then do one 60-second round of one-minute changes on your weakest pair from this week. Log the score."
+        },
+        {
+          "minutes": 4,
+          "title": "Quarter-note strums on one chord",
+          "instructions": "Hold E and strum on every count: '1, 2, 3, 4' — four even downstrums, then repeat without pausing. Keep your arm swinging like a pendulum, same speed every strum. Do 8 bars on E, then 8 on A, then 8 on D. The count never stops, even when your brain wants to."
+        },
+        {
+          "minutes": 5,
+          "title": "The three-chord cycle",
+          "instructions": "Play 4 strums on E, 4 on A, 4 on D, then back to E — around and around. Change chords during the small gap after count 4; it's fine to be late at first, but don't stop counting. Aim for 6 full cycles. If a change keeps derailing you, drop to 2 slow round trips of just that pair, then rejoin the cycle."
+        },
+        {
+          "minutes": 4,
+          "title": "Smooth it out",
+          "instructions": "Run the cycle 4 more times, slightly slower than feels necessary, and try to keep the strumming completely even through every change. A steady wobble-free loop at slow speed is the win today. Finish with one big final E strum and let it ring."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "strum",
+          "name": "Quarter-Note Downstrums",
+          "beats": ["D", "", "D", "", "D", "", "D", ""]
+        },
+        {
+          "type": "chord",
+          "name": "D",
+          "frets": [-1, -1, 0, 2, 3, 2],
+          "fingers": [0, 0, 0, 1, 3, 2]
+        }
+      ],
+      "youtube": {
+        "videoId": "n45PDizCRLw",
+        "title": "Your FIRST Strumming Pattern EVER! | Guitar for Beginners",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "The count is king. A late chord with a steady count sounds better than a perfect chord that stops the music.",
+        "Slow enough that you never stop — that's the right tempo."
+      ]
+    },
+    {
+      "day": 14,
+      "week": 2,
+      "title": "Week 2 Review: Three Chords Down",
+      "isReview": true,
+      "focus": "Consolidating E, A, D and chord changes — plus your weekly recording",
+      "intro": "Two weeks ago you'd never held a pick; today you can play the three most useful chords in guitar. This review day is lighter on the hands and big on payoff — including recording number two, which is going to sound noticeably better than last week's.",
+      "steps": [
+        {
+          "minutes": 3,
+          "title": "Tune and chord inspection",
+          "instructions": "Tune up, then build E, A, and D once each with a full string-by-string check. Fix any dead strings before moving on — clean shapes make everything else easier."
+        },
+        {
+          "minutes": 4,
+          "title": "One-minute change medley",
+          "instructions": "One 60-second round each of E-A and A-D changes, with a short rest between. Compare against your logged scores from days 10 and 12 — most people jump 30-50% in the same week. Log today's numbers."
+        },
+        {
+          "minutes": 4,
+          "title": "The three-chord cycle, for fun",
+          "instructions": "Run yesterday's loop — 4 strums each on E, A, D — for 6 relaxed cycles. Pick your favorite chord to end on and give it 4 extra strums. This groove is your week's trophy."
+        },
+        {
+          "minutes": 4,
+          "title": "Record your 60 seconds",
+          "instructions": "Hit the Record button in the app and play about 60 seconds: the three-chord cycle, plus a bonus riff from week 1 if there's time. One take, mistakes and all. Then listen to your day-7 recording back to back with today's — hear the difference two weeks makes."
+        }
+      ],
+      "diagrams": [
+        {
+          "type": "chord",
+          "name": "E",
+          "frets": [0, 2, 2, 1, 0, 0],
+          "fingers": [0, 2, 3, 1, 0, 0]
+        },
+        {
+          "type": "chord",
+          "name": "A",
+          "frets": [-1, 0, 2, 2, 2, 0],
+          "fingers": [0, 0, 1, 2, 3, 0]
+        },
+        {
+          "type": "chord",
+          "name": "D",
+          "frets": [-1, -1, 0, 2, 3, 2],
+          "fingers": [0, 0, 0, 1, 3, 2]
+        }
+      ],
+      "youtube": {
+        "videoId": "n-NeP6CTHTc",
+        "title": "JustinGuitar Beginners Course - Practice Routine Grade 1",
+        "channel": "JustinGuitar"
+      },
+      "tips": [
+        "Fourteen straight days of guitar — that's a real habit now. Protect it.",
+        "Sore fingertips should be easing this week as calluses arrive on schedule."
+      ]
+    }
+  ]
+}
